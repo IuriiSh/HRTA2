@@ -15,7 +15,7 @@ jobs:
       run: pwd
     - name: Zip Map
       working-directory: ./Map
-      run: zip -r HRTA_1.22.1.005.${{ github.run_number }}.h5m.zip .
+      run: zip -r HRTA_1.22.1.005.${{ github.run_number }}.h5m .
     - run: mkdir -p path/to/artifact
     - name: Copy Map
       run: cp -r Map/HRTA_1.22.1.005.${{ github.run_number }}.h5m path/to/artifact

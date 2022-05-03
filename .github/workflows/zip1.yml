@@ -14,7 +14,7 @@ jobs:
     
     - run: cd $GITHUB_WORKSPACE/Map
     - name: Zip Folder
-      run: zip -r map.zip scripts
+      run: zip -r map.zip Map/scripts
     - run: cd ..
     - run: mkdir -p path/to/artifact
     - name: Copy Scripts

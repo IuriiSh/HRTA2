@@ -18,7 +18,7 @@ jobs:
       run: zip -r release.h5m ./Map/scripts
       
     - name: Copy Scripts
-      run: Copy 'release.h5m' 'path/to/artifact'
+      run: cp -r release.h5m path/to/artifact
 
     - uses: actions/upload-artifact@v3
       with:

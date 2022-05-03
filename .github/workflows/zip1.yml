@@ -12,7 +12,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - run: pwd
     - run: cd $GITHUB_WORKSPACE/Map
+    - run: pwd
+    - run: cd Map
     - run: pwd
     - name: Zip Folder
       run: zip -r map.zip ./scripts

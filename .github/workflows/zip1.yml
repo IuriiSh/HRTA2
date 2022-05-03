@@ -7,12 +7,11 @@ on:
 
 jobs:
        
-  archive-build-artifacts:
+  build:
     runs-on: ubuntu-latest
     steps:
-    
-      - name: Step 4 - Use the Upload Artifact GitHub Action
-        uses: actions/upload-artifact@v3
-        with:
-          name: my-artifact
-          path: Map/scripts/ # or path/to/artifact
+    - uses: actions/checkout@v1
+    - name: Zip Folder
+      run: zip -r release.zip ./Map/scripts
+    - name: Release to Github
+      run: echo "Release"

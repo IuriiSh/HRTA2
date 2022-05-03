@@ -14,5 +14,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with: 
         name: assets-for-download
-        path: ./Map/scripts
+        path: ${{ github.workspace }}/Map/scripts
         

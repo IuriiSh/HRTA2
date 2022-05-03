@@ -15,10 +15,10 @@ jobs:
     - run: mkdir -p path/to/artifact
 
     - name: Zip Folder
-      run: zip -r release.h5m ./Map/scripts
+      run: zip -r map.zip Map/scripts
       
     - name: Copy Scripts
-      run: cp -r release.h5m path/to/artifact
+      run: cp -r map.zip path/to/artifact
 
     - uses: actions/upload-artifact@v3
       with:

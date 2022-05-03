@@ -13,10 +13,13 @@ jobs:
     - uses: actions/checkout@v2
     
     - run: cd $GITHUB_WORKSPACE/Map
+    - run: pwd
     - name: Zip Folder
-      run: zip -r map.zip Map/scripts
+      run: zip -r map.zip ./scripts
     - run: cd ..
+    - run: pwd
     - run: mkdir -p path/to/artifact
+    - run: pwd
     - name: Copy Scripts
       run: cp -r map.zip path/to/artifact
     

@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-
-    - run: mkdir -p path/to/artifact
-
+    
+    - run: cd $GITHUB_WORKSPACE/Map
     - name: Zip Folder
-      run: zip -rj map.zip ./Map/scripts
-      
+      run: zip -r map.zip ./scripts
+    - run: cd ..
+    - run: mkdir -p path/to/artifact
     - name: Copy Scripts
-      run: cp -r map.zip path/to/artifact
+      run: cp -r Map/map.zip path/to/artifact
     
     # - name: Copy Scripts 2
-      # run: cp -rj H5_Game.rar path/to/artifact
+      # run: cp -r H5_Game.rar path/to/artifact
 
     - uses: actions/upload-artifact@v3
       with:

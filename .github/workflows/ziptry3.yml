@@ -10,18 +10,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - working-directory: ./Map
       run: pwd
     - name: Zip Map
       working-directory: ./Map
-      run: zip -r HRTA2_${{ github.run_number }}.h5m.zip .
+      run: zip -r HRTA_1.22.1.005.${{ github.run_number }}.h5m.zip .
     - run: mkdir -p path/to/artifact
     - name: Copy Map
-      run: cp -r Map/HRTA2${{ github.run_number }}.h5m path/to/artifact
+      run: cp -r Map/HRTA_1.22.1.005.${{ github.run_number }}.h5m path/to/artifact
     - name: Copy Exe
       run: cp -r Exe/H5_Game.exe path/to/artifact
     - uses: actions/upload-artifact@v3
       with:
-        name: HRTA2_${{ github.run_number }}
+        name: HRTA_1.22.1.005.${{ github.run_number }}
         path: path/to/artifact/

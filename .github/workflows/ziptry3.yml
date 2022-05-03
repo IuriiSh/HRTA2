@@ -15,14 +15,12 @@ jobs:
       run: pwd
     - name: Zip Folder
       working-directory: ./Map
-      run: zip -r map.zip ./scripts
+      run: zip -r map.zip ./scripts #dot only
     - run: mkdir -p path/to/artifact
     - name: Copy Scripts
       run: cp -r Map/map.zip path/to/artifact
-    
-    #- name: Copy Scripts 2
-      #run: cp -r Exe/H5_Game.rar path/to/artifact
-
+    - name: Copy Scripts 2
+      run: cp -r Exe/H5_Game.exe path/to/artifact
     - uses: actions/upload-artifact@v3
       with:
         name: my-artifact

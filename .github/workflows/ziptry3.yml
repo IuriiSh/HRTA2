@@ -12,12 +12,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - working-directory: ./Map
-    - run: pwd
+      run: pwd
     - run: cd $GITHUB_WORKSPACE/Map
     - run: pwd
     - run: cd ./Map
     - run: pwd
     - name: Zip Folder
+      working-directory: ./Map
       run: zip -r map.zip ./scripts
     - run: cd ..
     - run: pwd

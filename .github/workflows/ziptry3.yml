@@ -1,5 +1,5 @@
-# Publish GitHub workflow artifacts tutorial example
-name: Publish GitHub Actions Artifacts Example
+# Half-RTA_1.22.1.005 deploy
+name: Half-RTA_1.22.1.005 deploy
 
 on:
   # Allows you to run this workflow manually from the Actions tab

@@ -2,8 +2,8 @@
 name: Publish GitHub Actions Artifacts Example
 
 on:
-  push:
-    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
        
@@ -14,5 +14,5 @@ jobs:
     - name: Step 3 - Use the Upload Artifact GitHub Action
       uses: actions/upload-artifact@v2
       with: 
-        name: assets-for-download
-        path: ./Map/scripts
+        name: ${{ github.run_number }}
+        path: ./Map/

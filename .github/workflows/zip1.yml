@@ -10,9 +10,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Step 3 - Use the Upload Artifact GitHub Action
-      uses: actions/upload-artifact@v2
-      with: 
-        name: ${{ github.run_number }}.h5m
-        path: ./Map/scripts
+    - uses: actions/checkout@v2
+
+    - run: mkdir -p path/to/artifact
+
+    - name: Zip Folder
+      run: zip -r release.h5m ./Map/scripts
+      
+    - name: Copy Scripts
+      run: Copy 'release.h5m' 'path/to/artifact'
+
+    - uses: actions/upload-artifact@v3
+      with:
+        name: my-artifact
+        path: path/to/artifact/

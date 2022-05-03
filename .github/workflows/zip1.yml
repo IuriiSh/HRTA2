@@ -1,0 +1,18 @@
+# Publish GitHub workflow artifacts tutorial example
+name: Publish GitHub Actions Artifacts Example
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+       
+  archive-build-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Step 4 - Use the Upload Artifact GitHub Action
+        uses: actions/upload-artifact@v3
+        with:
+          name: my-artifact
+          path: Map/scripts/ # or path/to/artifact

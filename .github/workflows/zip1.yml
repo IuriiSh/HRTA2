@@ -15,7 +15,7 @@ jobs:
     - run: pwd
     - run: cd $GITHUB_WORKSPACE/Map
     - run: pwd
-    - run: cd ./Map
+    - run: cd /Map
     - run: pwd
     - name: Zip Folder
       run: zip -r map.zip ./scripts

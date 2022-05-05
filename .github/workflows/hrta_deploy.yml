@@ -1,5 +1,5 @@
-# Half-RTA_1.22.1.005 deploy
-name: Half-RTA_1.22.1.005 deploy
+# Half-RTA_1.22.1.006 deploy
+name: Half-RTA_1.22.1.006 deploy
 
 on:
   # Allows you to run this workflow manually from the Actions tab
@@ -15,13 +15,13 @@ jobs:
       run: pwd
     - name: Zip Map
       working-directory: ./Map
-      run: zip -r Half-RTA_1.22.1.005.h5m .
+      run: zip -r Half-RTA_1.22.1.006.h5m .
     - run: mkdir -p path/to/artifact
     - name: Copy Map
-      run: cp -r Map/Half-RTA_1.22.1.005.h5m path/to/artifact
+      run: cp -r Map/Half-RTA_1.22.1.006.h5m path/to/artifact
     - name: Copy Exe
       run: cp -r Exe/H5_Game.exe path/to/artifact
     - uses: actions/upload-artifact@v3
       with:
-        name: Half-RTA_1.22.1.005
+        name: Half-RTA_1.22.1.006
         path: path/to/artifact/

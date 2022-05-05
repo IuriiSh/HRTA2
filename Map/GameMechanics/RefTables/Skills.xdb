@@ -5495,7 +5495,7 @@
 					<Item>
 						<Class>HERO_CLASS_KNIGHT</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_MENTORING</Item>
+							<Item>HERO_SKILL_EXPERT_TRAINER</Item>
 						</dependenciesIDs>
 					</Item>
 				</SkillPrerequisites>
@@ -7425,8 +7425,7 @@
 					<Item>
 						<Class>HERO_CLASS_NECROMANCER</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_MASTER_OF_SECRETS</Item>
-							<Item>HERO_SKILL_NO_REST_FOR_THE_WICKED</Item>
+							<Item>HERO_SKILL_EAGLE_EYE</Item>
 						</dependenciesIDs>
 					</Item>
 				</SkillPrerequisites>
@@ -8373,13 +8372,13 @@
 					<Item>
 						<Class>HERO_CLASS_KNIGHT</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_PRAYER</Item>
+							<Item>HERO_SKILL_HOLY_CHARGE</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_DEMON_LORD</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_DEMONIC_STRIKE</Item>
+							<Item>HERO_SKILL_CONSUME_CORPSE</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
@@ -8409,7 +8408,7 @@
 					<Item>
 						<Class>HERO_CLASS_RUNEMAGE</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_STRONG_RUNE</Item>
+							<Item>HERO_SKILL_REFRESH_RUNE</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
@@ -9824,10 +9823,17 @@
 				</DescriptionFileRef>
 				<CommonDescriptionFileRef href=""/>
 				<SkillType>SKILLTYPE_SPECIAL_PERK</SkillType>
-				<HeroClass>HERO_CLASS_NONE</HeroClass>
+				<HeroClass>HERO_CLASS_WIZARD</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_NONE</BasicSkillID>
-				<SkillPrerequisites/>
+				<BasicSkillID>HERO_SKILL_LEADERSHIP</BasicSkillID>
+				<SkillPrerequisites>
+					<Item>
+						<Class>HERO_CLASS_WIZARD</Class>
+						<dependenciesIDs>
+							<Item>HERO_SKILL_BALLISTA</Item>
+						</dependenciesIDs>
+					</Item>
+				</SkillPrerequisites>
 				<AIRacesValues>
 					<Haven>
 						<CommanderValue>0</CommanderValue>
@@ -10686,50 +10692,43 @@
 					<Item>
 						<Class>HERO_CLASS_KNIGHT</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_EXPERT_TRAINER</Item>
-							<Item>HERO_SKILL_HOLY_CHARGE</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_DEMON_LORD</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_CONSUME_CORPSE</Item>
-							<Item>HERO_SKILL_DEMONIC_FIRE</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_RANGER</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_CUNNING_OF_THE_WOODS</Item>
-							<Item>HERO_SKILL_IMBUE_ARROW</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_NECROMANCER</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_DEATH_SCREAM</Item>
-							<Item>HERO_SKILL_NO_REST_FOR_THE_WICKED</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_WIZARD</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_MAGIC_BOND</Item>
-							<Item>HERO_SKILL_MAGIC_MIRROR</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_WARLOCK</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_EMPOWERED_SPELLS</Item>
-							<Item>HERO_SKILL_ABSOLUTE_FEAR</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 					<Item>
 						<Class>HERO_CLASS_RUNEMAGE</Class>
 						<dependenciesIDs>
-							<Item>HERO_SKILL_REFRESH_RUNE</Item>
-							<Item>HERO_SKILL_FINE_RUNE</Item>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 				</SkillPrerequisites>
@@ -11623,7 +11622,6 @@
 		<Item>
 			<ID>HERO_SKILL_PAYBACK</ID>
 			<obj>
-
 				<Texture>
 					<Item href="/Textures/HeroScreen/Feats/Knight/Luck_GrailVision_grey.xdb#xpointer(/Texture)"/>
 					<Item href="/Textures/HeroScreen/Feats/Knight/Luck_GrailVision.xdb#xpointer(/Texture)"/>
@@ -13760,7 +13758,7 @@
 				<SkillType>SKILLTYPE_SPECIAL_PERK</SkillType>
 				<HeroClass>HERO_CLASS_NONE</HeroClass>
 				<spellBuffs>
-				        <Item>SPELL_EFFECT_PREPARATION</Item>
+					<Item>SPELL_EFFECT_PREPARATION</Item>
 				</spellBuffs>
 				<BasicSkillID>HERO_SKILL_DEFENCE</BasicSkillID>
 				<SkillPrerequisites>

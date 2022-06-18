@@ -6128,7 +6128,7 @@
 		<Dwarven_2Dwarf_SpellpowerPercents>0</Dwarven_2Dwarf_SpellpowerPercents>
 		<Dwarven_4_Creature_SpellsBuffsTurns>2</Dwarven_4_Creature_SpellsBuffsTurns>
 		<Lions_2_HeroAttack_DeMorale>3</Lions_2_HeroAttack_DeMorale>
-		<Magis_2_Casters_SpellpowerMultiplier>2</Magis_2_Casters_SpellpowerMultiplier>
+		<Magis_2_Casters_SpellpowerMultiplier>1</Magis_2_Casters_SpellpowerMultiplier>
 		<Magis_4_2Wizard_AfterCastATBLessPercents>10</Magis_4_2Wizard_AfterCastATBLessPercents>
 		<Necromancers_2_EnemyCreature_DeSpeed>0</Necromancers_2_EnemyCreature_DeSpeed>
 		<Necromancers_2Necromancer_BansheeWhail_DeMorale>1</Necromancers_2Necromancer_BansheeWhail_DeMorale>

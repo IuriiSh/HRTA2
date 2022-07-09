@@ -1,4 +1,4 @@
----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 --  ”словие запуска
 ---------------------------------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------
 
 START_ATB_MIN_VALUE = 0.00
-START_ATB_MAX_VALUE = 0.15
+START_ATB_MAX_VALUE = 0.10
 QUICKNESS_OF_MIND_ATB_BONUS = 0.3
 WYNGAAL_ATB_BONUS_PER_LEVEL = 0.008
 PATH_OF_WAR_BONUS_PER_STEP = 4
@@ -340,10 +340,10 @@ function OnStart()
 	end
   -- —истема не гибка€, добавл€ю простую проверку.
   for unit, atb in init_atb do
-    if GetHeroSkillMastery(GetEnemyHero(unit), 177) > 0 then
+    --if GetHeroSkillMastery(GetEnemyHero(unit), 177) > 0 then
       --ShowFlyingSign(GetMapDataPath()..'test.txt', unit, 2, 3)
-      atb = atb - PATH_OF_WAR_BONUS
-    end
+    --  atb = atb - PATH_OF_WAR_BONUS
+    --end
 		SetATB(unit, atb)
 	end
 	combatSetPause(nil)
@@ -455,12 +455,12 @@ function GetUnitInitialATB(unit)
 --		if GetHeroSkillMastery(hero, 1) > 0 then -- логистика
 --			atb = atb + LOGISTICS_BONUS_PER_LEVEL * GetHeroSkillMastery(hero, 1)
 --		end
---		if GetHeroSkillMastery(hero, 177) > 0 then
---      atb = atb + PATH_OF_WAR_BONUS
+		if GetHeroSkillMastery(enemy_hero, 177) > 0 then
+      atb = atb - PATH_OF_WAR_BONUS
 --      if atb <= 0 then
 --        atb = 0.0001 * random(100)
 --      end
---    end
+    end
 	end
 	return atb
 end

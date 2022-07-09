@@ -66993,43 +66993,6 @@
 			<MainTown/>
 			<MainHero/>
 			<ActivePlayer>false</ActivePlayer>
-			<Team>0</Team>
-			<CanBeHumanPlayer>true</CanBeHumanPlayer>
-			<CanBeComputerPlayer>true</CanBeComputerPlayer>
-			<Behaviour>PB_RANDOM</Behaviour>
-			<CaptureAbility>0</CaptureAbility>
-			<StartHero/>
-			<HeroInTown>false</HeroInTown>
-			<ReserveHeroes/>
-			<AddHeroTrigger>
-				<Action>
-					<FunctionName/>
-				</Action>
-			</AddHeroTrigger>
-			<RemoveHeroTrigger>
-				<Action>
-					<FunctionName/>
-				</Action>
-			</RemoveHeroTrigger>
-			<VictoryMessageRef href=""/>
-			<DefeatMessageRef href=""/>
-			<Race>TOWN_NO_TYPE</Race>
-			<Colour>PCOLOR_NEUTRAL</Colour>
-			<CanBeDisabled>true</CanBeDisabled>
-			<Attractors/>
-			<DefaultBonus>PLAYER_BONUS_RANDOM</DefaultBonus>
-			<CanChangeBonus>true</CanChangeBonus>
-			<TavernFilter>
-				<BannedHeroesRaces/>
-				<BannedHeroes/>
-				<AllowedHeroes/>
-			</TavernFilter>
-			<DenyFogOfWarForAllies/>
-		</Item>
-		<Item>
-			<MainTown/>
-			<MainHero/>
-			<ActivePlayer>false</ActivePlayer>
 			<Team>-1</Team>
 			<CanBeHumanPlayer>true</CanBeHumanPlayer>
 			<CanBeComputerPlayer>true</CanBeComputerPlayer>
@@ -67104,7 +67067,44 @@
 			<MainTown/>
 			<MainHero/>
 			<ActivePlayer>false</ActivePlayer>
-			<Team>2</Team>
+			<Team>-1</Team>
+			<CanBeHumanPlayer>true</CanBeHumanPlayer>
+			<CanBeComputerPlayer>true</CanBeComputerPlayer>
+			<Behaviour>PB_RANDOM</Behaviour>
+			<CaptureAbility>0</CaptureAbility>
+			<StartHero/>
+			<HeroInTown>false</HeroInTown>
+			<ReserveHeroes/>
+			<AddHeroTrigger>
+				<Action>
+					<FunctionName/>
+				</Action>
+			</AddHeroTrigger>
+			<RemoveHeroTrigger>
+				<Action>
+					<FunctionName/>
+				</Action>
+			</RemoveHeroTrigger>
+			<VictoryMessageRef href=""/>
+			<DefeatMessageRef href=""/>
+			<Race>TOWN_NO_TYPE</Race>
+			<Colour>PCOLOR_NEUTRAL</Colour>
+			<CanBeDisabled>true</CanBeDisabled>
+			<Attractors/>
+			<DefaultBonus>PLAYER_BONUS_RANDOM</DefaultBonus>
+			<CanChangeBonus>true</CanChangeBonus>
+			<TavernFilter>
+				<BannedHeroesRaces/>
+				<BannedHeroes/>
+				<AllowedHeroes/>
+			</TavernFilter>
+			<DenyFogOfWarForAllies/>
+		</Item>
+		<Item>
+			<MainTown/>
+			<MainHero/>
+			<ActivePlayer>false</ActivePlayer>
+			<Team>-1</Team>
 			<CanBeHumanPlayer>true</CanBeHumanPlayer>
 			<CanBeComputerPlayer>true</CanBeComputerPlayer>
 			<Behaviour>PB_RANDOM</Behaviour>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName/>
+	<uid>01F33227-8F92-4F0E-A589-205182F071C6</uid>
+	<RootMesh/>
+	<RootJoint>gaplan</RootJoint>
+	<Size>
+		<x>0.439259</x>
+		<y>1.5673</y>
+		<z>0.0927181</z>
+	</Size>
+	<Center>
+		<x>0</x>
+		<y>-0.413237</y>
+		<z>0</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>yatagan</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

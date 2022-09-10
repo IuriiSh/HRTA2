@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/models/Heroes/Raelag/Raelag.mb"/>
+	<uid>4E5DFB36-5F7A-4091-ACCA-9F805F08002D</uid>
+	<RootMesh/>
+	<RootJoint>Global</RootJoint>
+	<Size>
+		<x>2.06533</x>
+		<y>7.23384</y>
+		<z>5.28154</z>
+	</Size>
+	<Center>
+		<x>-0.148714</x>
+		<y>0.855456</y>
+		<z>2.64082</z>
+	</Center>
+	<BestFitPoint>
+		<x>-0.0101463</x>
+		<y>0.180186</y>
+		<z>5.20327</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry href="Sinitar-geom-AI.xdb#xpointer(/AIGeometry)"/>
+	<NumMeshes>4</NumMeshes>
+	<MaterialQuantities>
+		<Item>2</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>Hero_weaponShape</Item>
+		<Item>DinoShape</Item>
+		<Item>Flag_HeroShape</Item>
+		<Item>Hero_NewShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

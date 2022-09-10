@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="2794">
+	<Materials>
+		<Item href="/Characters/Heroes/Haven/Knight-Tex_Horse.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Haven/Knight-Tex_SwordGlow.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Heroes/Knight-flag_Orange.xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Haven/Knight-Tex_FlagMan.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Heroes/Haven/Knight-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Heroes/Haven/Knight-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

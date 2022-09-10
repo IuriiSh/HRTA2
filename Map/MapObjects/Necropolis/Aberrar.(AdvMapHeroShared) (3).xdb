@@ -40,9 +40,9 @@
 	<SpecializationIcon href="/Textures/HeroScreen/Specializations/Necropolis/Mind_Cleaner.xdb#xpointer(/Texture)"/>
 	<FaceTexture href="/Textures/Icons/Heroes/Necropolis/Necropolis_Zoltan_128x128.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTextureSmall href="/Textures/Icons/Heroes/Necropolis/Necropolis_Zoltan_128x128_64.(Texture).xdb#xpointer(/Texture)"/>
-	<HeroCharacterArena href="/Characters/Heroes/Necromancer.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterArena href="/Characters/Heroes/Necropolis/Zoltan/Necromancer.(Character).xdb#xpointer(/Character)"/>
 	<HeroCharacterArenaMelee/>
-	<HeroCharacterAdventure href="/Characters/Heroes/Necromancer_LOD.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterAdventure href="/Characters/Heroes/Necropolis/Zoltan/Necromancer.(Character)_LOD.xdb#xpointer(/Character)"/>
 	<HeroIndividualCamera/>
 	<CombatVisual href="/GameMechanics/CreatureVisual/Heroes/Necromancer.xdb#xpointer(/CreatureVisual)"/>
 	<TownType>TOWN_NECROMANCY</TownType>

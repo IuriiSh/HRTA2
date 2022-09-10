@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="56">
+	<Model href="Knight_strike.(Model).xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Knight_strike-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet/>
+	<ColourModels/>
+</Character>

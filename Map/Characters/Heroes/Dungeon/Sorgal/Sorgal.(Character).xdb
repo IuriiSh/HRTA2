@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000135">
+	<Model href="Sorgal.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="/Characters/Heroes/Raelag-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="/Characters/Heroes/Raelag-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Sorgal_White.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Red.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Green.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Sorgal_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

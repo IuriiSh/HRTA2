@@ -40,9 +40,9 @@
 	<SpecializationIcon href="/Textures/HeroScreen/Specializations/Preserve/Call_of_the_Wasp.xdb#xpointer(/Texture)"/>
 	<FaceTexture href="/Textures/Icons/Heroes/Preserve/Preserve_Dirael_128x128.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTextureSmall href="/Textures/Icons/Heroes/Preserve/Preserve_Dirael_128x128_64.(Texture).xdb#xpointer(/Texture)"/>
-	<HeroCharacterArena href="/Characters/Heroes/Ranger.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterArena href="/Characters/Heroes/Sylvan/Dirael/Dirael.(Character).xdb#xpointer(/Character)"/>
 	<HeroCharacterArenaMelee/>
-	<HeroCharacterAdventure href="/Characters/Heroes/Ranger_LOD.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterAdventure href="/Characters/Heroes/Sylvan/Dirael/Dirael_LOD.(Character).xdb#xpointer(/Character)"/>
 	<HeroIndividualCamera/>
 	<CombatVisual href="/GameMechanics/CreatureVisual/Heroes/Ranger.xdb#xpointer(/CreatureVisual)"/>
 	<TownType>TOWN_HEAVEN</TownType>

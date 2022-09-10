@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="Cyclop_Building_01.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="Cyclop_Building_02.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="Cyclop_Building_03.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="Cyclop_Building.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

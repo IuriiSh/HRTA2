@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/55.mb"/>
+	<uid>2440EF2E-DDE2-4843-941D-E2788012530F</uid>
+	<RootMesh/>
+	<RootJoint>group1</RootJoint>
+	<Size>
+		<x>0.2397</x>
+		<y>0.2661</y>
+		<z>0.6073</z>
+	</Size>
+	<Center>
+		<x>-0.000602264</x>
+		<y>-0.0211835</y>
+		<z>0.00995764</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>_mullah_hassan_torsoShape</Item>
+		<Item>_mullah_hassan_torso1Shape</Item>
+		<Item>_mullah_hassan_torso2Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

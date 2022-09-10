@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Nikolay_CS-Nikolai_add2_L.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Shadwin_DS_U-Shadwin_Unm_6_nemetall.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Shadwin_DS_U-Shadwin_Unm_6_nemetall.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="Kujin_Mounted-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

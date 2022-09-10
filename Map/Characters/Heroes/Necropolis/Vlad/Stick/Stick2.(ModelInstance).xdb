@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="DirtTree1x1_6.(Model).xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>0.07</x>
+		<y>0.11</y>
+		<z>0.45</z>
+	</Position>
+	<Rotation>
+		<x>0</x>
+		<y>0.2</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.03</Scale>
+	<Offset>5</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Spine2</GlueToNamedBone>
+</ModelInstance>

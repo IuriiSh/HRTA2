@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="T1a_Goblin-pasted_1_pasted__lambert4.1.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="/Characters/Creatures/Orcs/T1_Orc/T1a_Goblin-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

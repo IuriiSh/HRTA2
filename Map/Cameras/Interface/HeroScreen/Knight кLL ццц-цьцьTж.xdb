@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Camera>
+	<Name/>
+	<Pos>
+		<x>3.60923</x>
+		<y>-5.510921</y>
+		<z>3.0783314</z>
+	</Pos>
+	<Rot>
+		<x>-10.65767</x>
+		<y>43.9048</y>
+		<z>0</z>
+	</Rot>
+	<Rod>8.51464</Rod>
+	<FOV>54.4316</FOV>
+	<ClipDistanceMin>1</ClipDistanceMin>
+	<ClipDistanceMax>500</ClipDistanceMax>
+	<SrcName>Cameras\Interface\HeroScreen\HeroScreen_Knight.mb</SrcName>
+	<RootJoint>camera_hero_screen</RootJoint>
+</Camera>

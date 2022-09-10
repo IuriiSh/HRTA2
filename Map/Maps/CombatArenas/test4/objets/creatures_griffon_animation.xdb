@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimSet ObjectRecordID="66">
+	<animations>
+		<Item>
+			<Kind>idle00</Kind>
+			<Anim href="/_(AnimSet)/Creatures/Haven/Griffin-arena-stir00.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+	</animations>
+	<ExpSrcScene href="/models/Creatures/Castle/Griffin.mb"/>
+	<ExpSrcClipFolder href="/Animations/Creatures/Griffin/Clip/"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+</AnimSet>

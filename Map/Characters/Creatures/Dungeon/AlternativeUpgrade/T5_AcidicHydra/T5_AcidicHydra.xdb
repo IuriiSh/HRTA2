@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="T5_AcidicHydra-Neck.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="T5_AcidicHydra-Body.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="T5_AcidicHydra-Body.(Material).xdb#xpointer(/Material)"/>
+		<Item href="T5_AcidicHydra-Body.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="T5_AcidicHydra-Neck.(Material).xdb#xpointer(/Material)"/>
+		<Item href="T5_AcidicHydra-Neck.1.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="T5_AcidicHydra-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="T5_AcidicHydra-geom.xdb#xpointer(/Geometry)"/>
+	<Animations>
+		<Item href="T5_AcidicHydra-arena-happy.xdb#xpointer(/BasicSkelAnim)"/>
+	</Animations>
+	<WindPower>1</WindPower>
+</Model>

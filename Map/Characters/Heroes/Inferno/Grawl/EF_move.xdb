@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="433">
+	<Instances>
+		<Item href="#n:inline(ParticleInstance)" id="item_e08fbcb5-55b7-41c8-a6b1-21a1b4d07d4e">
+			<ParticleInstance ObjectRecordID="567">
+				<SrcName/>
+				<Light>L_NORMAL</Light>
+				<Particle href="/Effects/_(Particle)/Characters/DemonLord/move.xdb#xpointer(/Particle)"/>
+				<Position>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>1</Scale>
+				<Speed>1</Speed>
+				<Offset>0</Offset>
+				<EndCycle>0.833333</EndCycle>
+				<CycleCount>0</CycleCount>
+				<Pivot>
+					<x>0</x>
+					<y>0</y>
+				</Pivot>
+				<Textures>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item href="/Textures/Effects/_Various/Smoke00.xdb#xpointer(/Texture)"/>
+					<Item href="/Textures/Effects/_Various/Smoke01.xdb#xpointer(/Texture)"/>
+				</Textures>
+				<IsCrown>false</IsCrown>
+				<Static>P_STATIC</Static>
+				<DoesCastShadow>false</DoesCastShadow>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+				<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+				<Priority>0</Priority>
+			</ParticleInstance>
+		</Item>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="Body/Body.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Head/Head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Neck/Neck.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail01.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail02.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail03.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail04.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail05.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail06.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail07.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail08.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail09.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail10.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail11.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail12.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

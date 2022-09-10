@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DistanceFog ObjectRecordID="1000016">
+	<Color>
+		<x>0.552941</x>
+		<y>0.552941</y>
+		<z>0.552941</z>
+	</Color>
+	<MinDist>0</MinDist>
+	<MaxDist>70</MaxDist>
+	<MinZDis>5</MinZDis>
+	<MaxZDis>0</MaxZDis>
+	<ColorTexture/>
+</DistanceFog>

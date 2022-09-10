@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="1002599">
+	<Materials>
+		<Item href="/Characters/Heroes/Necromancer_Yellow.xdb#xpointer(/Material)"/>
+		<Item href="Necromancer-Necro_HorseSG7.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Necromancer-Necro_HorseSG5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Necromancer-Raven.xdb#xpointer(/Material)"/>
+		<Item href="Necromancer-Necro_HorseSG5.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Heroes/Necromancer-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Heroes/Necromancer-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

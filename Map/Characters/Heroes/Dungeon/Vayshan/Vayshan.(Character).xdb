@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="Vayshan.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Thralsai_DS_M-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Thralsai_DS_M-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Vayshan_White.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Red.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Green.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Vayshan_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

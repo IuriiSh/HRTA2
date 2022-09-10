@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/owl.mb"/>
+	<uid>1DA89F6A-38A8-420C-9F2E-BA4F29E3A99A</uid>
+	<RootMesh/>
+	<RootJoint>owl</RootJoint>
+	<Size>
+		<x>0.351782</x>
+		<y>0.522291</y>
+		<z>0.717307</z>
+	</Size>
+	<Center>
+		<x>0.00100533</x>
+		<y>0.0478721</y>
+		<z>0.30388</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>owlShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

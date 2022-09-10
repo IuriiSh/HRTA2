@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/FG.mb"/>
+	<uid>82C1487A-4AA9-468C-A851-C1C2D7613243</uid>
+	<RootMesh/>
+	<RootJoint>group</RootJoint>
+	<Size>
+		<x>0.370602</x>
+		<y>0.492948</y>
+		<z>0.523184</z>
+	</Size>
+	<Center>
+		<x>-0.00150249</x>
+		<y>0.0425882</y>
+		<z>0.0838272</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>DrawCall_0744Shape</Item>
+		<Item>DrawCall_0440Shape</Item>
+		<Item>pasted__group_Castanic_F_Face01_SkelShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

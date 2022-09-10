@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/FG.mb"/>
+	<uid>72B792C6-E1AE-45CD-A892-8975DEE82EDF</uid>
+	<RootMesh/>
+	<RootJoint>group</RootJoint>
+	<Size>
+		<x>0.344604</x>
+		<y>0.263727</y>
+		<z>0.427123</z>
+	</Size>
+	<Center>
+		<x>0.00124378</x>
+		<y>0.156605</y>
+		<z>0.0373703</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>5</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>pasted__pasted__pasted__pasted__Castanic_F_Face04_SkelShape</Item>
+		<Item>pasted__pasted__pasted__pasted__group4_group_pasted__pasted__group1_pasted__pasted__Object001Shape</Item>
+		<Item>pasted__pasted__pasted__pasted__group4_group_pasted__pasted__PC_TP_Female_Red02_Lobby_Hair_pasted__pasted__group1Shape</Item>
+		<Item>pasted__pasted__pasted__pasted__group4_group_pasted__pasted__pasted__Sonya_A_pasted__pasted__group2Shape</Item>
+		<Item>pasted__pasted__pasted__pasted__pasted__Sonya_A_pasted__group4_groupShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

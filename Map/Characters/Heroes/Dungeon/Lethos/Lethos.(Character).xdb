@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000019">
+	<Model href="Lethos.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Warlock-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Warlock-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Lethos_White.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Red.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Green.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Lethos_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

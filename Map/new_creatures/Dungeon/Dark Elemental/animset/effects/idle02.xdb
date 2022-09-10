@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="idle06.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+                <Item href="idle07.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+                <Item href="idle08.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+                <Item href="idle09.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>		
+		<Item href="idle00IS.xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models/>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

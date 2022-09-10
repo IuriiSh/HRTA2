@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/FG.mb"/>
+	<uid>4CE6DEFD-0BEA-4A9F-8300-5932893DC812</uid>
+	<RootMesh/>
+	<RootJoint>group</RootJoint>
+	<Size>
+		<x>0.525702</x>
+		<y>0.58156</y>
+		<z>0.872562</z>
+	</Size>
+	<Center>
+		<x>-0.00187898</x>
+		<y>0.110383</y>
+		<z>-0.136178</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>5</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

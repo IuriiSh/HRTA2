@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="archers_tower.(Model).xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>0.17</x>
+		<y>-0.14</y>
+		<z>0.15</z>
+	</Position>
+	<Rotation>
+		<x>0.6</x>
+		<y>0.6</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.01</Scale>
+	<Offset>5</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Chest</GlueToNamedBone>
+</ModelInstance>

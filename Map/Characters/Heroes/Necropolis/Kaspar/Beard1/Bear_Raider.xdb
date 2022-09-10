@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="Bear_Raider-BearRider_Body_512.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="Bear_Raider-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="Bear_Raider-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

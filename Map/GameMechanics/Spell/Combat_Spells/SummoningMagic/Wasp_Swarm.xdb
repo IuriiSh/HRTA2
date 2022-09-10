@@ -11,7 +11,6 @@
 	<Level>2</Level>
 	<MagicSchool>MAGIC_SCHOOL_SUMMONING</MagicSchool>
 	<RequiredHeroLevel>0</RequiredHeroLevel>
-	<IsAimed>true</IsAimed>
 	<TrainedCost>5</TrainedCost>
 	<damage>
 		<Item>
@@ -37,7 +36,7 @@
 	</damage>
 	<duration>
 		<Item>
-			<Base>0.2</Base>
+			<Base>0</Base>
 			<PerPower>0</PerPower>
 		</Item>
 		<Item>
@@ -66,11 +65,15 @@
 		<Gem>0</Gem>
 		<Gold>0</Gold>
 	</sSpellCost>
+	<IsAimed>true</IsAimed>
 	<IsAreaAttack>false</IsAreaAttack>
 	<CanSelectDead>false</CanSelectDead>
 	<Target>TARGET_HOSTILE</Target>
 	<Element>ELEMENT_NONE</Element>
+	<DamageIsElemental>true</DamageIsElemental>
 	<visuals>
 		<Item href="WaspSwarm.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
 	</visuals>
+	<PresetPrice>0</PresetPrice>
+	<AvailableForPresets>true</AvailableForPresets>
 </Spell>

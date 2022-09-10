@@ -1,4 +1,4 @@
-MapVersion = "1.22.1.008"
+MapVersion = "1.23"
 
 --Скрипт правлен }{0TT@6bI4, 30.12.2021
 
@@ -338,7 +338,7 @@ array_arts[0] = {
    { ["name"] = "art19", ["name2"] = "art19x2", ["place"] = 2, ["price"] = 5000,  ["blocked"] = 0, ["id"] = 55},  --шлем некроманта
    { ["name"] = "art20", ["name2"] = "art20x2", ["place"] = 1, ["price"] = 4500,  ["blocked"] = 0, ["id"] = 70},  --кольцо грешников
    { ["name"] = "art21", ["name2"] = "art21x2", ["place"] = 6, ["price"] = 5000,  ["blocked"] = 0, ["id"] = 10},  --свиток маны
-   { ["name"] = "art11", ["name2"] = "art11x2", ["place"] = 4, ["price"] = 7000,  ["blocked"] = 0, ["id"] = 56},  --доспех бесстрашия
+   { ["name"] = "art11", ["name2"] = "art11x2", ["place"] = 4, ["price"] = 6500,  ["blocked"] = 0, ["id"] = 56},  --доспех бесстрашия
 --   { ["name"] = "art22", ["name2"] = "art22x2", ["place"] = 6, ["price"] = 6500,  ["blocked"] = 1, ["id"] = 86}   --руна пламени
 };
 array_arts[1] = {
@@ -380,22 +380,22 @@ array_arts[2] = {
 --   { ["name"] = "art56", ["name2"] = "art56x2", ["place"] = 1, ["price"] = 20000, ["blocked"] = 0, ["id"] = 91},  --кольцо машин
    { ["name"] = "art57", ["name2"] = "art57x2", ["place"] = 7, ["price"] = 15000, ["blocked"] = 0, ["id"] = 4},   --лук единорога
    { ["name"] = "art58", ["name2"] = "art58x2", ["place"] = 7, ["price"] = 12000, ["blocked"] = 0, ["id"] = 45},  --посох сар-иссы
-   { ["name"] = "art59", ["name2"] = "art59x2", ["place"] = 5, ["price"] = 13000, ["blocked"] = 0, ["id"] = 51},  --щит гномов
+   { ["name"] = "art59", ["name2"] = "art59x2", ["place"] = 5, ["price"] = 12000, ["blocked"] = 0, ["id"] = 51},  --щит гномов
    { ["name"] = "art60", ["name2"] = "art60x2", ["place"] = 5, ["price"] = 12000, ["blocked"] = 0, ["id"] = 79},  --том призыва
    { ["name"] = "art61", ["name2"] = "art61x2", ["place"] = 5, ["price"] = 13000, ["blocked"] = 0, ["id"] = 77},  --том света
    { ["name"] = "art62", ["name2"] = "art62x2", ["place"] = 5, ["price"] = 13000, ["blocked"] = 0, ["id"] = 78},  --том тьмы
    { ["name"] = "art63", ["name2"] = "art63x2", ["place"] = 5, ["price"] = 12000, ["blocked"] = 0, ["id"] = 76},  --том хаоса
    { ["name"] = "art64", ["name2"] = "art64x2", ["place"] = 6, ["price"] = 16000, ["blocked"] = 0, ["id"] = 83},  --череп маркела
-   { ["name"] = "art65", ["name2"] = "art65x2", ["place"] = 8, ["price"] = 14500, ["blocked"] = 0, ["id"] = 68},  --сандали святого
-   { ["name"] = "art66", ["name2"] = "art66x2", ["place"] = 8, ["price"] = 13000, ["blocked"] = 0, ["id"] = 49},  --поножи гномов
+   { ["name"] = "art65", ["name2"] = "art65x2", ["place"] = 8, ["price"] = 13500, ["blocked"] = 0, ["id"] = 68},  --сандали святого
+   { ["name"] = "art66", ["name2"] = "art66x2", ["place"] = 8, ["price"] = 12000, ["blocked"] = 0, ["id"] = 49},  --поножи гномов
    { ["name"] = "art67", ["name2"] = "art67x2", ["place"] = 2, ["price"] = 16000, ["blocked"] = 0, ["id"] = 11},  --корона льва
    { ["name"] = "art68", ["name2"] = "art68x2", ["place"] = 2, ["price"] = 15000, ["blocked"] = 0, ["id"] = 46},  --корона сар-иссы
-   { ["name"] = "art69", ["name2"] = "art69x2", ["place"] = 2, ["price"] = 13000, ["blocked"] = 0, ["id"] = 50},  --шлем гномов
+   { ["name"] = "art69", ["name2"] = "art69x2", ["place"] = 2, ["price"] = 12000, ["blocked"] = 0, ["id"] = 50},  --шлем гномов
    { ["name"] = "art70", ["name2"] = "art70x2", ["place"] = 4, ["price"] = 15000, ["blocked"] = 0, ["id"] = 44},  --халат сар-иссы
-   { ["name"] = "art71", ["name2"] = "art71x2", ["place"] = 4, ["price"] = 11000, ["blocked"] = 0, ["id"] = 48},  --кираса гномов
-   { ["name"] = "art72", ["name2"] = "art72x2", ["place"] = 4, ["price"] = 23000, ["blocked"] = 0, ["id"] = 13},  --доспех забытого
+   { ["name"] = "art71", ["name2"] = "art71x2", ["place"] = 4, ["price"] = 12000, ["blocked"] = 0, ["id"] = 48},  --кираса гномов
+   { ["name"] = "art72", ["name2"] = "art72x2", ["place"] = 4, ["price"] = 22000, ["blocked"] = 0, ["id"] = 13},  --доспех забытого
    { ["name"] = "art73", ["name2"] = "art73x2", ["place"] = 9, ["price"] = 18000, ["blocked"] = 0, ["id"] = 33},  --плащ смерти
-   { ["name"] = "art74", ["name2"] = "art74x2", ["place"] = 1, ["price"] = 17000, ["blocked"] = 0, ["id"] = 47},  --кольцо сар-иссы
+   { ["name"] = "art74", ["name2"] = "art74x2", ["place"] = 1, ["price"] = 20000, ["blocked"] = 0, ["id"] = 47},  --кольцо сар-иссы
    { ["name"] = "art75", ["name2"] = "art75x2", ["place"] = 3, ["price"] = 12000, ["blocked"] = 0, ["id"] = 67},  --кулон поглощения
    { ["name"] = "art3",  ["name2"] = "art3x2",  ["place"] = 7, ["price"] = 14000, ["blocked"] = 0, ["id"] = 5},   --трезубец титанов
    { ["name"] = "art18", ["name2"] = "art18x2", ["place"] = 3, ["price"] = 14000, ["blocked"] = 0, ["id"] = 18},  --ледяной кулон
@@ -1445,10 +1445,10 @@ EllesharLevel = 0;
 
 EstatesDiscountMentor =  500;
 EstatesDiscountLevel  = 2500;
-EstatesQuantitySellStats = 6;
+EstatesQuantitySellStats = 5;
 EstatesCostStat = 2500;
 
-FortunateAdventureDiscount = 0.3;
+FortunateAdventureDiscount = 0.25;
 
 
 HalfLeveling1 = 0;
@@ -13490,7 +13490,7 @@ function newday ()
 
      sleep(1);
 
-     if HasHeroSkill(HeroMax1, 19) == nil and HasHeroSkill(HeroMax2, 19) == nil and Name(HeroMax1) ~= "Jazaz" and Name(HeroMax2) ~= "Jazaz" then
+     if HasHeroSkill(HeroMax1, 19) == HasHeroSkill(HeroMax2, 19) and Name(HeroMax1) ~= "Jazaz" and Name(HeroMax2) ~= "Jazaz" then
        ControlRegion(hero1race, hero2race)
      end
 
@@ -13586,10 +13586,10 @@ function newday ()
      if (HasHeroSkill(HeroMax2, 28)) then recruitment2(HeroMax2); end;
      
      -- защити нас всех
-     if (HasHeroSkill(HeroMax1, 181)) and (GetHeroCreatures(HeroMax1, 117) > 0) then AddHeroCreatures(HeroMax1, 117, 30); else
-     if (HasHeroSkill(HeroMax1, 181)) and (GetHeroCreatures(HeroMax1, 173) > 0) then AddHeroCreatures(HeroMax1, 173, 30); end; end;
-     if (HasHeroSkill(HeroMax2, 181)) and (GetHeroCreatures(HeroMax2, 117) > 0) then AddHeroCreatures(HeroMax2, 117, 30); else
-     if (HasHeroSkill(HeroMax2, 181)) and (GetHeroCreatures(HeroMax2, 173) > 0) then AddHeroCreatures(HeroMax2, 173, 30); end; end;
+     if (HasHeroSkill(HeroMax1, 181)) and (GetHeroCreatures(HeroMax1, 117) > 0) then AddHeroCreatures(HeroMax1, 117, 50); else
+     if (HasHeroSkill(HeroMax1, 181)) and (GetHeroCreatures(HeroMax1, 173) > 0) then AddHeroCreatures(HeroMax1, 173, 50); end; end;
+     if (HasHeroSkill(HeroMax2, 181)) and (GetHeroCreatures(HeroMax2, 117) > 0) then AddHeroCreatures(HeroMax2, 117, 50); else
+     if (HasHeroSkill(HeroMax2, 181)) and (GetHeroCreatures(HeroMax2, 173) > 0) then AddHeroCreatures(HeroMax2, 173, 50); end; end;
      
      -- лесной лидер
      if (HasHeroSkill(HeroMax1, 115)) and (GetHeroCreatures(HeroMax1,  45) > 0) then AddHeroCreatures(HeroMax1,  45, 10); else
@@ -13968,12 +13968,12 @@ function newday ()
 
      sleep(2);
      
-     if Hotseat == 0 then Trigger(COMBAT_RESULTS_TRIGGER, 'CombatResult'); end;
+
 
      CombatID = 'CombatID:' .. hero1race .. HeroID(hero1race, HeroMax1) .. GetHeroStat(HeroMax1, 1) .. GetHeroStat(HeroMax1, 2) .. GetHeroStat(HeroMax1, 3) .. GetHeroStat(HeroMax1, 4) .. hero2race .. HeroID(hero2race, HeroMax2) .. GetHeroStat(HeroMax2, 1) .. GetHeroStat(HeroMax2, 2) .. GetHeroStat(HeroMax2, 3) .. GetHeroStat(HeroMax2, 4) .. random(100)
 
-     if IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax2, 'boat2')
-     elseif IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax1, 'boat1') end;
+     --if IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax2, 'boat2')
+     --elseif IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax1, 'boat1') end;
 
      if BattleNextDay1 == 0 and BattleNextDay2 == 0 then
        StartMainCombat(1, 0)
@@ -13988,8 +13988,8 @@ function newday ()
   
   if GetDate (DAY) == 6 then
 
-     if IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax2, 'boat2')
-     elseif IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax1, 'boat1') end;
+     --if IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax2, 'boat2')
+     --elseif IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax1, 'boat1') end;
      sleep(10)
      if IsHeroAlive(HeroMax1) and IsHeroAlive(HeroMax2) then StartMainCombat(1, 0) end;
      --ВЫБОР ТУРНИРА: TalkBoxForPlayers( 1, "/Textures/Icons/Heroes/Inferno/Inferno_Biara_128x128.(Texture).xdb#xpointer(/Texture)", GetMapDataPath().."ReportDSCRP.txt", nil, nil, 'StartMainCombat', 0, GetMapDataPath().."ReportNAME.txt", GetMapDataPath().."ReportQ.txt", nil, GetMapDataPath().."Tournament1.txt", GetMapDataPath().."Tournament2.txt", GetMapDataPath().."Tournament3.txt", GetMapDataPath().."Tournament4.txt", GetMapDataPath().."Tournament5.txt");
@@ -14075,14 +14075,26 @@ function StartMainCombat(player, tournament)
   sleep(5)
 
   if ((HasHeroSkill(HeroMax1, 19) and HasHeroSkill(HeroMax2, 19) == nil) and Name(HeroMax2) ~= "Jazaz") or Name(HeroMax1) == "Jazaz" then
+    if IsHeroInBoat(HeroMax1) and not IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax2, 'boat1')
+    elseif IsHeroInBoat(HeroMax2) and not IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax1, 'boat2') end;
+    --sleep(10);
     MakeHeroInteractWithObject (HeroMax2, HeroMax1);
     while IsHeroAlive(HeroMax1) and IsHeroAlive(HeroMax2) do
+            if IsHeroInBoat(HeroMax1) and not IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax2, 'boat1')
+            elseif IsHeroInBoat(HeroMax2) and not IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax1, 'boat2') end;
+            --sleep(10);
 	    MakeHeroInteractWithObject(HeroMax2, HeroMax1);
 	    sleep(10);
 	  end;
   else
+    if IsHeroInBoat(HeroMax1) and not IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax2, 'boat2')
+    elseif IsHeroInBoat(HeroMax2) and not IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax1, 'boat1') end;
+    --sleep(10);
     MakeHeroInteractWithObject (HeroMax1, HeroMax2);
     while IsHeroAlive(HeroMax1) and IsHeroAlive(HeroMax2) do
+            if IsHeroInBoat(HeroMax1) and not IsHeroInBoat(HeroMax2) then MakeHeroInteractWithObject (HeroMax2, 'boat2')
+            elseif IsHeroInBoat(HeroMax2) and not IsHeroInBoat(HeroMax1) then MakeHeroInteractWithObject (HeroMax1, 'boat1') end;
+            --sleep(10);
 	    MakeHeroInteractWithObject(HeroMax1, HeroMax2);
 	    sleep(10);
 	  end;
@@ -14114,7 +14126,7 @@ function DayFour1()
   end;
   if hero1race ~= 4 and hero1race ~= 5 then OpenCircleFog( 47, 46, 0, 15, 1 ); end;
 
-  if ((not HasHeroSkill(HeroMax1, 19) and Name(HeroMax1) ~= "Jazaz") or HasHeroSkill(HeroMax2, 19) or Name(HeroMax2) == "Jazaz") and hero1race ~= 4 and hero1race ~= 5 then stop(HeroMax1); end;
+  if ((not HasHeroSkill(HeroMax1, 19) and Name(HeroMax1) ~= "Jazaz") or (HasHeroSkill(HeroMax2, 19) and Name(HeroMax1) ~= "Jazaz") or Name(HeroMax2) == "Jazaz") and hero1race ~= 4 and hero1race ~= 5 then stop(HeroMax1); end;
 
   SetPlayerResource (PLAYER_1, GOLD, 0);
   SetObjectEnabled('market1', nil);
@@ -14532,19 +14544,15 @@ array_regions = {}
 array_regions = { 'land_block_race1', 'land_block_race2', 'land_block_race3', 'land_block_race1', 'land_block_race5', 'land_block_race6', 'land_block_race7', 'land_block_race8'}
 
 array_x_open = {}
-array_x_open = { 51, 57, 47, 51, 39, 39, 55, 39 }
+array_x_open = { 51, 57, 47, 39, 55 }
 
 function ControlRegion(race1, race2)
-  for i = 1, 8 do
-    if ((race1 == i or race2 == i) and IsObjectInRegion(HeroMax2, array_regions[i])) then
-      rnd = random(8) + 1;
-      while rnd == race1 or rnd == race2 do
-        rnd = random(8) + 1;
+  while (IsObjectInRegion(HeroMax2, array_regions[race1]) or IsObjectInRegion(HeroMax2, array_regions[race2])) do
+        rnd = random(5) + 1;
+        ChangeHeroStat(HeroMax2, STAT_MOVE_POINTS, 20000);
+        MoveHeroRealTime(HeroMax2, array_x_open[rnd], 52);
+        sleep(5);
       end;
-      MoveHeroRealTime(HeroMax2, array_x_open[rnd], 52);
-      sleep(5);
-    end;
-  end;
 end
 
 
@@ -18299,7 +18307,7 @@ function TeleportBattleZone1()
   SetObjectOwner(TOWER_PLAYER_1, PLAYER_1);
   OpenCircleFog( 47, 46, 0, 15, 1 );
   sleep(7);
-  if (not HasHeroSkill(HeroMax1, 19) and Name(HeroMax1) ~= "Jazaz") or HasHeroSkill(HeroMax2, 19) or Name(HeroMax2) == "Jazaz" then stop(HeroMax1); end;
+  if (not HasHeroSkill(HeroMax1, 19) and Name(HeroMax1) ~= "Jazaz") or (HasHeroSkill(HeroMax2, 19) and Name(HeroMax1) ~= "Jazaz") or Name(HeroMax2) == "Jazaz" then stop(HeroMax1); end;
   TeleportUse1 = 1;
   ShowFlyingSign(GetMapDataPath().."Wait.txt", HeroMax1, 1, 5.0);
 end;

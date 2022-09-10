@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="Gorshak_Mounted.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Quarok_Mounted-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Quarok_Mounted-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Gorshak_White.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Red.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_DarkBlue.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Green.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Violet.xdb#xpointer(/Model)"/>
+		<Item href="Gorshak_Brown.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

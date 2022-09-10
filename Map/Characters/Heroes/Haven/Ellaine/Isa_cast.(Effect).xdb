@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000653">
+	<Instances>
+		<Item href="/Effects/_(Effect)/Characters/Heroes/Isabel/cast.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights>
+		<Item href="/Effects/_(Effect)/Characters/Heroes/Isabel/cast.(LightInstance).xdb#xpointer(/LightInstance)"/>
+	</Lights>
+	<Models>
+		<Item href="Flagman/Flagman.(ModelInstance)-idle00.xdb#xpointer(/ModelInstance)"/>
+		<Item href="Head/Head.(ModelInstance)-idle00.xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

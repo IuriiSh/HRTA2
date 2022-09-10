@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000007">
+	<Model href="Gilraen.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Ranger-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Ranger_LOD-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Gilraen_White.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Red.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Green.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Gilraen_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

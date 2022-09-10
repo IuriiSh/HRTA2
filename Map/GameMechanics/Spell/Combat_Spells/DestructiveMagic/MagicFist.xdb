@@ -11,19 +11,18 @@
 	<Level>1</Level>
 	<MagicSchool>MAGIC_SCHOOL_SUMMONING</MagicSchool>
 	<RequiredHeroLevel>0</RequiredHeroLevel>
-	<IsAimed>true</IsAimed>
 	<TrainedCost>5</TrainedCost>
 	<damage>
 		<Item>
-			<Base>30</Base>
+			<Base>60</Base>
 			<PerPower>6</PerPower>
 		</Item>
 		<Item>
-			<Base>30</Base>
+			<Base>60</Base>
 			<PerPower>6</PerPower>
 		</Item>
 		<Item>
-			<Base>40</Base>
+			<Base>80</Base>
 			<PerPower>8</PerPower>
 		</Item>
 		<Item>
@@ -45,11 +44,15 @@
 		<Gem>0</Gem>
 		<Gold>0</Gold>
 	</sSpellCost>
+	<IsAimed>true</IsAimed>
 	<IsAreaAttack>false</IsAreaAttack>
 	<CanSelectDead>false</CanSelectDead>
 	<Target>TARGET_HOSTILE</Target>
 	<Element>ELEMENT_NONE</Element>
+	<DamageIsElemental>true</DamageIsElemental>
 	<visuals>
 		<Item href="MagicFist.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
 	</visuals>
+	<PresetPrice>0</PresetPrice>
+	<AvailableForPresets>true</AvailableForPresets>
 </Spell>

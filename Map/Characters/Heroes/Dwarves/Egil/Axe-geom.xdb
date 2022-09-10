@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Axe.mb"/>
+	<uid>C920367F-A4E4-4CE3-BD12-58A2A5A21DC5</uid>
+	<RootMesh/>
+	<RootJoint>Axe</RootJoint>
+	<Size>
+		<x>0.819074</x>
+		<y>2.55645</y>
+		<z>0.14398</z>
+	</Size>
+	<Center>
+		<x>-0.294809</x>
+		<y>-0.488189</y>
+		<z>0.00492316</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>AxeShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

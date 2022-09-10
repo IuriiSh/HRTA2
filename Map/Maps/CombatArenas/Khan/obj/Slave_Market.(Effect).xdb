@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances/>
+	<Lights/>
+	<Models>
+		<Item href="Slave_Market.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Slaves/Slave01.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Slaves/Slave02.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Slaves/Slave03.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Slaves/Slave04.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Slaves/Slave05.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Slaves/Slave06.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

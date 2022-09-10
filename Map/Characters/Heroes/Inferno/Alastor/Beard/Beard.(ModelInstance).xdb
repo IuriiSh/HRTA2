@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="Tolghar_DS_U.xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>-0.04</x>
+		<y>0.325</y>
+		<z>-1.735</z>
+	</Position>
+	<Rotation>
+		<x>0.1</x>
+		<y>0</y>
+		<z>0.1</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>1.5</Scale>
+	<Offset>5</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Head</GlueToNamedBone>
+</ModelInstance>

@@ -330,10 +330,6 @@ function OnStart()
         pcall(commandDoSpecial, unit, 317, pos(unit))
       end
       
-      -- регалии Сар-Иссы
-      if GetHeroArtSet(GetFriendlyHero(unit), 3) > 1 and GetUnitMaxManaPoints(unit) > 0 then
-        SetUnitManaPoints(unit, 3 * GetUnitMaxManaPoints(unit))
-	  	end
 
     end
 

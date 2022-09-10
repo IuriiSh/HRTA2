@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000494">
+	<Instances>
+		<Item href="/Effects/_(Effect)/Characters/Heroes/Zehir/cast.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights>
+		<Item href="/Effects/_(Effect)/Characters/Heroes/Zehir/Cast.(LightInstance).xdb#xpointer(/LightInstance)"/>
+	</Lights>
+	<Models>
+		<Item href="Head/Head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Earring/Earring1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Earring/Earring2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Thing/Thing1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Thing/Thing2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Thing/Thing3.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Thing/Thing4.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Thing/Thing5.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="1002005">
+	<Materials>
+		<Item href="/Characters/Heroes/Dungeon/Raelag_add_Blue.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Sinitar-Raelag_main.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Dungeon/Raelag_add_Blue.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Dungeon/Raelag_add_Yellow.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Sinitar-Raelag_main.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="Sinitar-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="Sinitar-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

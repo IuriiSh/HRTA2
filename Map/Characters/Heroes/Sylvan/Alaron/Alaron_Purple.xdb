@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Alaron-Body2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Ranger-flag_Purple.xdb#xpointer(/Material)"/>
+		<Item href="Alaron-Body1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Alaron-Body2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Alaron-Unicorn.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Heroes/Findan-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Heroes/Findan-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

@@ -12,7 +12,7 @@
 	<KnownSpells>
 		<Item>
 			<Spell>SPELL_MAGIC_FIST</Spell>
-			<Mastery>MASTERY_BASIC</Mastery>
+			<Mastery>MASTERY_ADVANCED</Mastery>
 		</Item>
 		<Item>
 			<Spell>SPELL_DISPEL</Spell>
@@ -43,6 +43,7 @@
 		<Gem>0</Gem>
 		<Gold>380</Gold>
 	</Cost>
+	<PresetPrice>0</PresetPrice>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Academy/Combat_Mage.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>1</CombatSize>

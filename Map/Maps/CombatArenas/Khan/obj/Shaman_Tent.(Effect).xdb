@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="Shaman_Tent_01.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="Shaman_Tent_02.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="Shaman_Tent.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Shaman_Tent_FX.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

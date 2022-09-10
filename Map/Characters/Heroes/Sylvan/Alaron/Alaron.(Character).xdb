@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="Alaron.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="/Characters/Heroes/Findan-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="/Characters/Heroes/Findan_LOD-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Alaron_White.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Red.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Green.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Alaron_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

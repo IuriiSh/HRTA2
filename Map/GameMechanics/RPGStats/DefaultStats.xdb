@@ -1928,7 +1928,7 @@
 			<Wizard>
 				<Unsummon_DamagePerHeroLevel>15</Unsummon_DamagePerHeroLevel>
 				<Unsummon_DamagePerSkillMastery>100</Unsummon_DamagePerSkillMastery>
-				<MeltArtifact_HealPerArtifactEffectPerHeroLevel>6</MeltArtifact_HealPerArtifactEffectPerHeroLevel>
+				<MeltArtifact_HealPerArtifactEffectPerHeroLevel>7</MeltArtifact_HealPerArtifactEffectPerHeroLevel>
 				<MeltArtifact_ATBUsage>0.25</MeltArtifact_ATBUsage>
 			</Wizard>
 			<Ranger>
@@ -1966,7 +1966,7 @@
 				<LuckOfTheBarbarian_MagicProofPerLuck>0.2</LuckOfTheBarbarian_MagicProofPerLuck>
 				<StunningBlow_ATBDrop>0.25</StunningBlow_ATBDrop>
 				<DefendUsAll_CreatureToCount>CREATURE_ORC_WARRIOR</DefendUsAll_CreatureToCount>
-				<DefendUsAll_CreatureCountMultiplier>2</DefendUsAll_CreatureCountMultiplier>
+				<DefendUsAll_CreatureCountMultiplier>3</DefendUsAll_CreatureCountMultiplier>
 				<GoblinSupport_GoblinsIncomePerDay>0</GoblinSupport_GoblinsIncomePerDay>
 				<Bodybuilding_HPBonusPercent>0</Bodybuilding_HPBonusPercent>
 				<VoiceTraining_WarcryCostDiscount>0.25</VoiceTraining_WarcryCostDiscount>
@@ -2048,7 +2048,7 @@
 				<BasicDamageBonus>0.07</BasicDamageBonus>
 				<AdvancedDamageBonus>0.14</AdvancedDamageBonus>
 				<ExpertDamageBonus>0.21</ExpertDamageBonus>
-				<Archery_DamageBonus>0.3</Archery_DamageBonus>
+				<Archery_DamageBonus>0.25</Archery_DamageBonus>
 			</SkillOffence>
 		</HeroSkills>
 		<Obstacles>
@@ -2148,7 +2148,7 @@
 				<MountainKing_ActiveRune>SPELL_RUNE_OF_STUNNING</MountainKing_ActiveRune>
 				<Researcher_ChanceToGetExtraRune>0</Researcher_ChanceToGetExtraRune>
 				<SacredHammer_ChanceToCastBase>0</SacredHammer_ChanceToCastBase>
-				<SacredHammer_ChanceToCastPerLevel>0.02</SacredHammer_ChanceToCastPerLevel>
+				<SacredHammer_ChanceToCastPerLevel>0.03</SacredHammer_ChanceToCastPerLevel>
 				<SacredHammer_SpellToCast>SPELL_BLOODLUST</SacredHammer_SpellToCast>
 				<Economist_FineRuneChanceBonusBase>0.5</Economist_FineRuneChanceBonusBase>
 				<Economist_FineRuneChanceBonusPerLevel>0.02</Economist_FineRuneChanceBonusPerLevel>
@@ -2160,7 +2160,7 @@
 				<Rash_MovementPenaltyReducePerLevel>0.02</Rash_MovementPenaltyReducePerLevel>
 				<Rash_MovePointsIncreasePerPevel>0.01</Rash_MovePointsIncreasePerPevel>
 				<CentaurMistress_StartATBBonusPerHeroLevel>0</CentaurMistress_StartATBBonusPerHeroLevel>
-				<Offender_HeroAttackDamageBonusPerLevel>0.03</Offender_HeroAttackDamageBonusPerLevel>
+				<Offender_HeroAttackDamageBonusPerLevel>0.04</Offender_HeroAttackDamageBonusPerLevel>
 				<WyvernTamer_HealthBonus>
 					<Base>5</Base>
 					<LevelDivisor>1</LevelDivisor>
@@ -2258,20 +2258,20 @@
 				<MagicProof>0.75</MagicProof>
 				<Health>
 					<Item>
-						<Base>40</Base>
+						<Base>80</Base>
 						<PerPower>8</PerPower>
 					</Item>
 					<Item>
-						<Base>40</Base>
+						<Base>80</Base>
 						<PerPower>8</PerPower>
-					</Item>
-					<Item>
-						<Base>60</Base>
-						<PerPower>10</PerPower>
 					</Item>
 					<Item>
 						<Base>100</Base>
-						<PerPower>15</PerPower>
+						<PerPower>10</PerPower>
+					</Item>
+					<Item>
+						<Base>140</Base>
+						<PerPower>14</PerPower>
 					</Item>
 				</Health>
 			</BladeBarrier>
@@ -6128,7 +6128,7 @@
 		<Dwarven_2Dwarf_SpellpowerPercents>0</Dwarven_2Dwarf_SpellpowerPercents>
 		<Dwarven_4_Creature_SpellsBuffsTurns>2</Dwarven_4_Creature_SpellsBuffsTurns>
 		<Lions_2_HeroAttack_DeMorale>3</Lions_2_HeroAttack_DeMorale>
-		<Magis_2_Casters_SpellpowerMultiplier>1</Magis_2_Casters_SpellpowerMultiplier>
+		<Magis_2_Casters_SpellpowerMultiplier>2</Magis_2_Casters_SpellpowerMultiplier>
 		<Magis_4_2Wizard_AfterCastATBLessPercents>10</Magis_4_2Wizard_AfterCastATBLessPercents>
 		<Necromancers_2_EnemyCreature_DeSpeed>0</Necromancers_2_EnemyCreature_DeSpeed>
 		<Necromancers_2Necromancer_BansheeWhail_DeMorale>1</Necromancers_2Necromancer_BansheeWhail_DeMorale>

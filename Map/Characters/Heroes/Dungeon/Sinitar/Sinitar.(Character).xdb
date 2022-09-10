@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000135">
+	<Model href="Sinitar.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Raelag-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Raelag-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Sinitar_White.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Red.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Green.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Sinitar_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

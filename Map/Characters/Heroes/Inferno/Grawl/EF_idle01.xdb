@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000513">
+	<Instances/>
+	<Lights/>
+	<Models>
+		<Item href="Body/Body.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Head/Head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Neck/Neck.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail01.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail02.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail03.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail04.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail05.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail06.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail07.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail08.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail09.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail10.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail11.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Nail/Nail12.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

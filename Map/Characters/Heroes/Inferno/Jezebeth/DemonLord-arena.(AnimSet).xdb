@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimSet ObjectRecordID="171">
+	<animations>
+		<Item>
+			<Kind>idle00</Kind>
+			<Anim href="Dl_Bia_idle00.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>move</Kind>
+			<Anim href="Dl_Bia_move.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>stir00</Kind>
+			<Anim href="Dl_Bia_idle002.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>happy</Kind>
+			<Anim href="Dl_Bia_idle001.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>cast</Kind>
+			<Anim href="Dl_Bia_idle004.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>buff</Kind>
+			<Anim href="Dl_Bia_idle005.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+
+		<Item>
+			<Kind>rangeattack</Kind>
+			<Anim href="Dl_Bia_idle003.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>specability</Kind>
+			<Anim href="Dl_Bia_idle004.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>death</Kind>
+			<Anim href="Dl_Bia_idle006.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>hit</Kind>
+			<Anim href="Dl_Bia_idle007.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>attack00</Kind>
+			<Anim href="Dl_Bia_idle008.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>attack01</Kind>
+			<Anim href="Dl_Bia_idle009.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>spneutral</Kind>
+			<Anim href="Dl_Bia_idle010.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>think</Kind>
+			<Anim href="Dl_Bia_idle011.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>spsad</Kind>
+			<Anim href="Dl_Bia_idle011.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>idle_think</Kind>
+			<Anim href="Dl_Bia_idle012.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>idle_sad</Kind>
+			<Anim href="Dl_Bia_idle012.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>move_LOD</Kind>
+			<Anim href="Dl_Bia_idle013.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>move_sp</Kind>
+			<Anim href="Dl_Bia_idle014.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>capture</Kind>
+			<Anim href="Dl_Bia_idle002.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>call</Kind>
+			<Anim href="Dl_Bia_idle009.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>gladness</Kind>
+			<Anim href="Dl_Bia_idle001.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+	</animations>
+	<ExpSrcScene href="/models/Heroes/DemonLord/DemonLord.mb"/>
+	<ExpSrcClipFolder href="/Animations/Heroes/DemonLord/Clip/"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+</AnimSet>

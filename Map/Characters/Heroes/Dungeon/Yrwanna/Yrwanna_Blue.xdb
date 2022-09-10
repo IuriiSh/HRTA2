@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Characters/Heroes/Warlock-lambert2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/DS/Shadwin_DS_M-Shadya_lizard.3.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/DS/Shadwin_DS_M-Shadya_lizard.3.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Warlock_Flag_Blue.xdb#xpointer(/Material)"/>
+		<Item href="Yrwanna_add.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Yrwanna_body.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Heroes/Sahdya-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Heroes/Sahdya-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

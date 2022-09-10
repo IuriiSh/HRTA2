@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000007">
+	<Model href="Talanar.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Ranger-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Ranger_LOD-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Talanar_White.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Red.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Green.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Talanar_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

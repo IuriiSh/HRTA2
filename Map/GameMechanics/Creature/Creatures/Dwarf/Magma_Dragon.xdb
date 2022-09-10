@@ -41,11 +41,8 @@
 	<flybySequence/>
 	<Visual href="/GameMechanics/CreatureVisual/Creatures/Dwarf/Magma_Dragon.xdb#xpointer(/CreatureVisual)"/>
 	<Range>0</Range>
-	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
-	<Upgrades>
-		<Item>CREATURE_LAVA_DRAGON</Item>
-		<Item>CREATURE_MAGMA_DRAGON</Item>
-	</Upgrades>
+	<BaseCreature>CREATURE_FIRE_DRAGON</BaseCreature>
+	<Upgrades/>
 	<Abilities>
 		<Item>ABILITY_ELEMENTAL</Item>
 		<Item>ABILITY_IMMUNITY_TO_FIRE</Item>

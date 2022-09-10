@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="T1_Dryad-Pixie_Main_M.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Creatures/Rampart/AlternativeUpgrades/T1_Dryad-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Creatures/Rampart/AlternativeUpgrades/T1_Dryad-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

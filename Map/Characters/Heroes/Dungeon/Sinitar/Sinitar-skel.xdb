@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/models/Heroes/Raelag/Raelag.mb"/>
+	<RootJoint>Global</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>02B2F38F-4356-46BB-B4F3-0F76AE4086C2</uid>
+</Skeleton>

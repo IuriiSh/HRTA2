@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="ShakKarukat_Mounted.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Gotay_Mounted-adv.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Gotay_Mounted-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="ShakKarukat_White.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Red.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_DarkBlue.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Green.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Orange.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Blue.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Violet.xdb#xpointer(/Model)"/>
+		<Item href="ShakKarukat_Brown.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

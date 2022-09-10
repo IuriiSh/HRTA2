@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000007">
+	<Model href="Vinrael.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Ranger-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Ranger_LOD-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Vinrael_White.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Red.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Green.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Vinrael_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

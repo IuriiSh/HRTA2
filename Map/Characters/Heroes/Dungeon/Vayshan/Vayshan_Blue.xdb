@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Vayshan-Metall1.6.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Vayshan-nemetall.6.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/DS/Shadwin_DS_M-Shadya_lizard.3.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/DS/Shadwin_DS_M-Shadya_lizard.3.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Vayshan-nemetall.6.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Vayshan-Metall1.6.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Heroes/Warlock_Flag_Blue.xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Heroes/DS/Thralsai_DS_M-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Heroes/DS/Thralsai_DS_M-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

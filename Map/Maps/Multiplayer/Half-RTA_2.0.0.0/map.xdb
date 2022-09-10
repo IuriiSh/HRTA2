@@ -2116,7 +2116,21 @@
 				<Floor>0</Floor>
 				<Name>arena</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>1</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Arena.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -2224,7 +2238,21 @@
 				<Floor>0</Floor>
 				<Name>magiya</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>3</y>
+							<z>0</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/H5A2/SacrificeAltar.xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -2270,7 +2298,21 @@
 				<Floor>0</Floor>
 				<Name>heops</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>6</y>
+							<z>0</z>
+						</Pos>
+						<Color>
+							<x>0</x>
+							<y>0.501961</y>
+							<z>1</z>
+						</Color>
+						<Radius>40</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Pyramid.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -2587,7 +2629,21 @@
 				<Floor>0</Floor>
 				<Name>koldovstvo2</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>1</y>
+							<z>3</z>
+						</Pos>
+						<Color>
+							<x>0.501961</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Star_Axis.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -2610,7 +2666,21 @@
 				<Floor>0</Floor>
 				<Name>znanie2</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>3</z>
+						</Pos>
+						<Color>
+							<x>0.501961</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Garden_Of_Revelation.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -2633,7 +2703,21 @@
 				<Floor>0</Floor>
 				<Name>napadenie1</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>2</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Mercenary_Camp.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -2702,7 +2786,21 @@
 				<Floor>0</Floor>
 				<Name>znanie1</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>3</z>
+						</Pos>
+						<Color>
+							<x>0.501961</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Garden_Of_Revelation.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_8</PlayerID>
 				<CaptureTrigger>
@@ -2725,7 +2823,21 @@
 				<Floor>0</Floor>
 				<Name>koldovstvo1</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>0.501961</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Star_Axis.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_8</PlayerID>
 				<CaptureTrigger>
@@ -2748,7 +2860,21 @@
 				<Floor>0</Floor>
 				<Name>napadenie2</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Mercenary_Camp.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -4704,7 +4830,21 @@
 				<Floor>0</Floor>
 				<Name>red4</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>0</z>
+						</Pos>
+						<Color>
+							<x>0</x>
+							<y>0</y>
+							<z>0</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Crystal.(AdvMapTreasureShared) (2).xdb#xpointer(/AdvMapTreasureShared)"/>
 				<IsCustom>false</IsCustom>
 				<Amount>0</Amount>
@@ -10084,7 +10224,7 @@
 		<Item href="#n:inline(AdvMapBuilding)" id="item_50D382E9-88AE-4294-A108-83BC801B9B38">
 			<AdvMapBuilding>
 				<Pos>
-					<x>35</x>
+					<x>36</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -10107,7 +10247,7 @@
 		<Item href="#n:inline(AdvMapBuilding)" id="item_E1DDA62F-BA45-4345-AA44-CBE4837EBD20">
 			<AdvMapBuilding>
 				<Pos>
-					<x>60</x>
+					<x>58</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -29458,7 +29598,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>5</z>
+						</Pos>
+						<Color>
+							<x>0</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>20</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Lighthouse.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_8</PlayerID>
 				<CaptureTrigger>
@@ -29563,7 +29717,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>2</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -29581,7 +29749,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>2</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -30481,7 +30663,21 @@
 				<Floor>0</Floor>
 				<Name>skill2</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>4</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>0.501961</x>
+							<y>0.501961</y>
+							<z>1</z>
+						</Color>
+						<Radius>25</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Learning_Stone.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_8</PlayerID>
 				<CaptureTrigger>
@@ -30504,7 +30700,21 @@
 				<Floor>0</Floor>
 				<Name>skill1</Name>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>2</x>
+							<y>2</y>
+							<z>4</z>
+						</Pos>
+						<Color>
+							<x>0.501961</x>
+							<y>0.501961</y>
+							<z>1</z>
+						</Color>
+						<Radius>25</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Learning_Stone.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_8</PlayerID>
 				<CaptureTrigger>
@@ -37675,7 +37885,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -37693,7 +37917,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>2</x>
+							<y>2</y>
+							<z>4</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -37711,7 +37949,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>2</x>
+							<y>2</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -37729,7 +37981,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>2</x>
+							<y>2</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -38907,6 +39173,498 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_3438048B-01EF-4D22-B3F5-EE9FF7486C8A">
+			<AdvMapStatic>
+				<Pos>
+					<x>56</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>5</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_566B516D-853D-4960-AD90-344CA078DC90">
+			<AdvMapStatic>
+				<Pos>
+					<x>55</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>5</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_160D56EA-8C93-4712-8E6F-F61D6FDB9700">
+			<AdvMapStatic>
+				<Pos>
+					<x>54</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_160A665A-E2A0-4D0D-909F-B9F34F2D21FB">
+			<AdvMapStatic>
+				<Pos>
+					<x>53</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_39874683-9C7C-4BB3-9BAF-62B732E3B920">
+			<AdvMapStatic>
+				<Pos>
+					<x>52</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>5</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_6480811A-AE6B-4CCA-B1A2-2791D67BE0F6">
+			<AdvMapStatic>
+				<Pos>
+					<x>51</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_E5F78383-7CB4-4EBA-984A-63D8B0B4FAEF">
+			<AdvMapStatic>
+				<Pos>
+					<x>50</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_2D795848-3C31-4EE6-8CB6-06CEBC9FCB4E">
+			<AdvMapStatic>
+				<Pos>
+					<x>49</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>5</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_4DBD1B18-3F23-4B07-B34E-827D0B7E4C46">
+			<AdvMapStatic>
+				<Pos>
+					<x>48</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_11F329BD-C827-41BC-9C74-4920E7FAE176">
+			<AdvMapStatic>
+				<Pos>
+					<x>47</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_93DB31E7-6D37-46C0-856D-1FFD1E33C01A">
+			<AdvMapStatic>
+				<Pos>
+					<x>46</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>5</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_5723DC08-1FB8-41A8-8780-89048DCBEEF1">
+			<AdvMapStatic>
+				<Pos>
+					<x>45</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_09CBF70B-49FA-4F74-ADC3-484F1CC119C0">
+			<AdvMapStatic>
+				<Pos>
+					<x>44</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_76F49969-67C9-4573-8DFE-CF7F6CFB7EE4">
+			<AdvMapStatic>
+				<Pos>
+					<x>43</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_F8A8C0EC-D8F5-4912-8759-B85F0C5C9C5E">
+			<AdvMapStatic>
+				<Pos>
+					<x>42</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_CAE969CE-8C10-4E29-A2EB-FD8FE029DA5D">
+			<AdvMapStatic>
+				<Pos>
+					<x>41</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_CE193A13-BCBF-4113-B381-BE58B7877429">
+			<AdvMapStatic>
+				<Pos>
+					<x>40</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>0.501961</z>
+						</Color>
+						<Radius>8</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_DBBD2978-3E2A-43EC-906C-4EABD11CB712">
+			<AdvMapStatic>
+				<Pos>
+					<x>39</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>
@@ -38920,12 +39678,12 @@
 	<AmbientLight/>
 	<UndergroundAmbientLight/>
 	<GroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/0_Default_AmbientLight.xdb#xpointer(/AmbientLight)"/>
+		<Item/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
-		<Item href="/Maps/Scenario/A1C1M2/A1C1M2.xdb#xpointer(/AmbientLight)"/>
+		<Item/>
 	</UndergroundAmbientLights>
-	<ReflectiveWater>false</ReflectiveWater>
+	<ReflectiveWater>true</ReflectiveWater>
 	<tiles>
 		<Item href="/MapObjects/_(AdvMapTile)/Dirt/Weed.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Nidle_Grass.xdb#xpointer(/AdvMapTile)"/>
@@ -67030,7 +67788,7 @@
 			<MainTown/>
 			<MainHero/>
 			<ActivePlayer>false</ActivePlayer>
-			<Team>-1</Team>
+			<Team>2</Team>
 			<CanBeHumanPlayer>true</CanBeHumanPlayer>
 			<CanBeComputerPlayer>true</CanBeComputerPlayer>
 			<Behaviour>PB_RANDOM</Behaviour>
@@ -67141,7 +67899,7 @@
 			<MainTown/>
 			<MainHero/>
 			<ActivePlayer>false</ActivePlayer>
-			<Team>-1</Team>
+			<Team>0</Team>
 			<CanBeHumanPlayer>true</CanBeHumanPlayer>
 			<CanBeComputerPlayer>true</CanBeComputerPlayer>
 			<Behaviour>PB_RANDOM</Behaviour>
@@ -68075,10 +68833,10 @@
 			</PlayerSpecific>
 		</Secondary>
 	</Objectives>
-	<Birds/>
-	<BirdsAmount>10</BirdsAmount>
+	<Birds href="/MapObjects/_(AdvMapBirds)/Pigeons.xdb#xpointer(/AdvMapBirds)"/>
+	<BirdsAmount>0</BirdsAmount>
 	<Weather/>
-	<Wind/>
+	<Wind href="/MapObjects/_(Wind)/Strong.xdb#xpointer(/Wind)"/>
 	<PreLight/>
 	<MapScript href="MapScript.xdb#xpointer(/Script)"/>
 	<NewDayTrigger>
@@ -68387,8 +69145,10 @@
 	<MoonCalendarModifications>
 		<BlockMonstersWeeks>true</BlockMonstersWeeks>
 	</MoonCalendarModifications>
-	<thumbnailImages/>
-	<PWLPicture href="HRTA.xdb#xpointer(/Texture)"/>
+	<thumbnailImages>
+		<Item href="/Maps/Multiplayer/hrtapw2.xdb#xpointer(/Texture)"/>
+	</thumbnailImages>
+	<PWLPicture href="/Maps/Multiplayer/pwl3.(Texture).xdb#xpointer(/Texture)"/>
 	<BanTransparency>false</BanTransparency>
 	<MoonCalendar/>
 	<StartScene/>

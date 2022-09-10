@@ -7,7 +7,7 @@
 	<MaxDamage>35</MaxDamage>
 	<Speed>7</Speed>
 	<Initiative>10</Initiative>
-	<Flying>false</Flying>
+	<Flying>true</Flying>
 	<Health>90</Health>
 	<KnownSpells/>
 	<SpellPoints>0</SpellPoints>
@@ -35,11 +35,11 @@
 		<Gold>1200</Gold>
 	</Cost>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
-	<MonsterShared/>
+	<MonsterShared href="/new_creatures/Dungeon/Dark Elemental/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>
 	<flybySequence/>
-	<Visual href="/GameMechanics/CreatureVisual/Creatures/Neutrals/Black_Knight.xdb#xpointer(/CreatureVisual)"/>
+	<Visual href="/new_creatures/Dungeon/Dark Elemental/creature.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
 	<Range>0</Range>
 	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
 	<Upgrades/>

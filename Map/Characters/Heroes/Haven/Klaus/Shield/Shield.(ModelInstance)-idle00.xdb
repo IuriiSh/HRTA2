@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="Lazlo.xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>1.53</x>
+		<y>-0.43</y>
+		<z>-2.3</z>
+	</Position>
+	<Rotation>
+		<x>0</x>
+		<y>-0.49</y>
+		<z>-0.04</z>
+		<w>0.82</w>
+	</Rotation>
+	<Scale>0.97</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>0</GlueToBone>
+	<GlueToNamedBone>Shield_joint</GlueToNamedBone>
+</ModelInstance>

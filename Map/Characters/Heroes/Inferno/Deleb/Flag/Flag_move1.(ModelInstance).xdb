@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="DemoLord_Flagman.(Model).xdb#xpointer(/Model)"/>
+	<SkelAnim href="DemoLord_Flagman-adv_idle00.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+	<Position>
+		<x>-0.4</x>
+		<y>1.5</y>
+		<z>-2</z>
+	</Position>
+	<Rotation>
+		<x>0</x>
+		<y>0</y>
+		<z>0.06</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>1.18</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Chest</GlueToNamedBone>
+</ModelInstance>

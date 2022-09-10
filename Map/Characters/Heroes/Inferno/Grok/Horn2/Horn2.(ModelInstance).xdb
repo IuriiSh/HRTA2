@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="T7a_Cyclopes.xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>0.03</x>
+		<y>0.385</y>
+		<z>-2.44</z>
+	</Position>
+	<Rotation>
+		<x>-0.1</x>
+		<y>-0.02</y>
+		<z>0.1</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.655</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Head</GlueToNamedBone>
+</ModelInstance>

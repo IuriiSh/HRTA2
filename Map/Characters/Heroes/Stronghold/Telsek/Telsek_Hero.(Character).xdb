@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="Telsek_Hero.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="OrcWarrior_Hero-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="OrcWarrior_Hero-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Telsek_White.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Red.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_DarkBlue.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Green.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Violet.xdb#xpointer(/Model)"/>
+		<Item href="Telsek_Brown.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

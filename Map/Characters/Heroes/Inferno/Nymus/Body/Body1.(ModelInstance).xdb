@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="Pitfiend.(Model).xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>-0.05</x>
+		<y>1.05</y>
+		<z>-2.5</z>
+	</Position>
+	<Rotation>
+		<x>0.15</x>
+		<y>0</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>1.4</Scale>
+	<Offset>5</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Chest</GlueToNamedBone>
+</ModelInstance>

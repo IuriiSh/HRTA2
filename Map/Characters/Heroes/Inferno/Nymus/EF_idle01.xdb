@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000513">
+	<Instances/>
+	<Lights/>
+	<Models>
+		<Item href="Body/Body.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Head/Head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Face/Face.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Horn/Horn1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Horn/Horn2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Horn/Horn3.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Horn/Horn4.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Horn/Horn5.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

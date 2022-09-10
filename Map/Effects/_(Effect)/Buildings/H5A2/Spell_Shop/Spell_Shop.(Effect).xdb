@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item/>
+		<Item href="FX_Cloud_SpellShop.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="FX_Cloud_SpellShop.(ParticleInstance) (2).xdb#xpointer(/ParticleInstance)"/>
+		<Item/>
+		<Item/>
+		<Item/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="/Effects/_(Effect)/Buildings/Spell_Shop/FX_Spell_Shop.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>0.1</Duration>
+</Effect>

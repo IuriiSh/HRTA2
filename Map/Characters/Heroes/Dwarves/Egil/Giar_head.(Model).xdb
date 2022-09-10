@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="25102007">
+	<Materials>
+		<Item href="Thane-Body.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Thane-Body.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Thane-Body.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Thane-Metal.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Thane-Metal.1.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="Head-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

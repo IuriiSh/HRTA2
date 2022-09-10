@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Texture ObjectRecordID="2497">
-	<SrcName href="/UI/Icons/Profession/Academy_Radiant.tga"/>
+	<SrcName href="/jin.tga"/>
 	<DestName href="Radiant.dds"/>
 	<Type>TEXTURE_2D</Type>
 	<ConversionType>CONVERT_ORDINARY</ConversionType>
 	<AddrType>CLAMP</AddrType>
 	<Format>TF_8888</Format>
-	<Width>64</Width>
-	<Height>64</Height>
+	<Width>128</Width>
+	<Height>128</Height>
 	<MappingSize>0</MappingSize>
 	<NMips>1</NMips>
 	<Gain>0</Gain>
-	<AverageColor>6905452</AverageColor>
+	<AverageColor>-2111825104</AverageColor>
 	<InstantLoad>false</InstantLoad>
 	<IsDXT>false</IsDXT>
 	<FlipY>false</FlipY>

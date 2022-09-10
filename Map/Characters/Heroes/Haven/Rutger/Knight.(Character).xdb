@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="26">
+	<Model href="Knight.(Model).xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Knight-adv.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Knight-adv.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Knight_White.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Red.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Green.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Teal.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Purple.xdb#xpointer(/Model)"/>
+		<Item href="Knight_Tan.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

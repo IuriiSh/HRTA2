@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance ObjectRecordID="1000172">
+	<Model href="T4c_Hag.xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>0.075</x>
+		<y>-0.545</y>
+		<z>-1.42</z>
+	</Position>
+	<Rotation>
+		<x>-0.2</x>
+		<y>-0.05</y>
+		<z>-0.2</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>1</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Head</GlueToNamedBone>
+</ModelInstance>

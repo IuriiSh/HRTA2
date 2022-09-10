@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AdventureFlybyScene ObjectRecordID="1000076">
-	<Scenery href="/Maps/CombatArenas/River_Subterra_Small_01/River_Subterra_Small_01.xdb#xpointer(/AdvMapDesc)"/>
+<AdventureFlybyScene ObjectRecordID="1000063">
+	<Scenery href="/Maps/CombatArenas/my_arena_13/my_arena_13.xdb#xpointer(/AdvMapDesc)"/>
 	<cameraFlyupRole>
 		<Model/>
 		<AnimSet/>
@@ -14,15 +14,15 @@
 	<MountPoint>
 		<Pos>
 			<x>30</x>
-			<y>44</y>
+			<y>41</y>
 		</Pos>
 		<Rot>0</Rot>
 	</MountPoint>
 	<AdditionalHeight>0</AdditionalHeight>
 	<Music/>
-	<AmbientSoundSet/>
+	<AmbientSoundSet href="/Sounds/_(Ambient)/TerrainAmbients/Dirt.xdb#xpointer(/AmbientSoundSet)"/>
 	<TextFormatFileRef href=""/>
-	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/SubterraArena/SubterraObstaclesBig.xdb#xpointer(/ArenaObstaclesGroup)"/>
+	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/Subarena/SubarenaObstacles.xdb#xpointer(/ArenaObstaclesGroup)"/>
 	<CamerasSet/>
 	<MeleeAttackPoints>
 		<Use>false</Use>

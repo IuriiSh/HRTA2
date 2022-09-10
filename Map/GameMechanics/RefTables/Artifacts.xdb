@@ -335,7 +335,7 @@
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>CHEST</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/Plate_Mail_of_Stability.xdb#xpointer(/Texture)"/>
-				<CostOfGold>23000</CostOfGold>
+				<CostOfGold>22000</CostOfGold>
 				<AIValue>3500</AIValue>
 				<CanBeGeneratedToSell>true</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -1710,7 +1710,7 @@
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>FEET</Slot>
 				<Icon href="/Textures/Icons/Artifacts/Sandais_of_the_Saint.(Texture).xdb#xpointer(/Texture)"/>
-				<CostOfGold>14500</CostOfGold>
+				<CostOfGold>13500</CostOfGold>
 				<AIValue>1800</AIValue>
 				<CanBeGeneratedToSell>true</CanBeGeneratedToSell>
 				<HeroStatsModif>

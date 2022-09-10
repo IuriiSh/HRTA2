@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="DeseaseZombie-Zombie_upgrade_2_lambert3.2.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Creatures/Necropolis/AlternativeUpgrade/DeseaseZombie-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Creatures/Necropolis/AlternativeUpgrade/DeseaseZombie-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

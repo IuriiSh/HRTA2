@@ -37,7 +37,7 @@
 	</PrimarySkill>
 	<SpecializationNameFileRef href="/Text/Game/Heroes/Specializations/Dungeon/SpecThralsai/Name.txt"/>
 	<SpecializationDescFileRef href="/Text/Game/Heroes/Specializations/Dungeon/SpecThralsai/Description.txt"/>
-	<SpecializationIcon href="/Textures/HeroScreen/Specializations/Dungeon/Dark_Acolyte.xdb#xpointer(/Texture)"/>
+	<SpecializationIcon href="/UI/H5A0/Icons/Heroes_Specializations/Manti.xdb#xpointer(/Texture)"/>
 	<FaceTexture href="/UI/H5A1/Icons/Heroes/Portrets128x128/Thralsai.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTextureSmall href="/UI/H5A1/Icons/Heroes/Portrets128x128/Thralsai.(Texture).xdb#xpointer(/Texture)"/>
 	<HeroCharacterArena href="/Characters/Heroes/Thralsai.(Character).xdb#xpointer(/Character)"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="Kragh_Mounted.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Gotay_Mounted-adv.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Gotay_Mounted-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels>
+		<Item href="Kragh_White.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Red.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_DarkBlue.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Green.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Yellow.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Orange.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Blue.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Violet.xdb#xpointer(/Model)"/>
+		<Item href="Kragh_Brown.xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

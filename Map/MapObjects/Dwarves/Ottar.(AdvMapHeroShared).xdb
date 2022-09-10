@@ -40,9 +40,9 @@
 	<SpecializationIcon href="/UI/H5A1/Icons/Abilites/Heroes_Abillites/128x128/Sacred_hammer.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTexture href="/UI/H5A1/Icons/Heroes/Portrets128x128/Ottar.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTextureSmall href="/UI/H5A1/Icons/Heroes/Portrets128x128/Ottar.(Texture).xdb#xpointer(/Texture)"/>
-	<HeroCharacterArena href="/Characters/Heroes/RuneMage.(Character).xdb#xpointer(/Character)"/>
-	<HeroCharacterArenaMelee href="/Characters/Heroes/RuneMageHero_Strike.(Character).xdb#xpointer(/Character)"/>
-	<HeroCharacterAdventure href="/Characters/Heroes/RuneMage_LOD.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterArena href="/Characters/Heroes/Dwarves/Ottar/RuneMage.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterArenaMelee href="/Characters/Heroes/Dwarves/Ottar/RuneMage.(Character).xdb#xpointer(/Character)"/>
+	<HeroCharacterAdventure href="/Characters/Heroes/Dwarves/Ottar/1RuneMage.(Character).xdb#xpointer(/Character)"/>
 	<HeroIndividualCamera/>
 	<CombatVisual href="/GameMechanics/CreatureVisual/Heroes/Runemage.xdb#xpointer(/CreatureVisual)"/>
 	<TownType>TOWN_HEAVEN</TownType>
@@ -56,12 +56,13 @@
 		<skills/>
 		<perkIDs/>
 		<spellIDs>
-			<Item>SPELL_BLOODLUST</Item>
+			<Item>SPELL_NONE</Item>
 		</spellIDs>
 		<Ballista>false</Ballista>
 		<FirstAidTent>false</FirstAidTent>
 		<AmmoCart>false</AmmoCart>
 		<FavoriteEnemies/>
+		<TalismanLevel>0</TalismanLevel>
 	</Editable>
 	<ArrowButtonState>0</ArrowButtonState>
 	<Decal/>
@@ -72,4 +73,10 @@
 	<ScenarioHero>false</ScenarioHero>
 	<AdventureMusic/>
 	<HideInEditor>false</HideInEditor>
+	<PresetMinimalAttributes>
+		<Offence>2</Offence>
+		<Defence>2</Defence>
+		<Spellpower>2</Spellpower>
+		<Knowledge>2</Knowledge>
+	</PresetMinimalAttributes>
 </AdvMapHeroShared>

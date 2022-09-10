@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArenaObstacle>
+	<Model/>
+	<blockedTiles>
+		<Item>
+			<x>6</x>
+			<y>7</y>
+		</Item>
+		<Item>
+			<x>7</x>
+			<y>7</y>
+		</Item>
+		<Item>
+			<x>5</x>
+			<y>6</y>
+		</Item>
+		<Item>
+			<x>6</x>
+			<y>6</y>
+		</Item>
+		<Item>
+			<x>7</x>
+			<y>6</y>
+		</Item>
+		<Item>
+			<x>10</x>
+			<y>5</y>
+		</Item>
+		<Item>
+			<x>10</x>
+			<y>4</y>
+		</Item>
+	</blockedTiles>
+	<Shared/>
+</ArenaObstacle>

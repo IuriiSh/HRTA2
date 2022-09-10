@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+		<Item href="/Characters/Creatures/Orcs/T3_Orc/T3c_OrcWarholder-pasted__Checker_lambert2SG1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/1.xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Characters/Creatures/Orcs/T3_Orc/T3c_OrcWarholder-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Characters/Creatures/Orcs/T3_Orc/T3c_OrcWarholder-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

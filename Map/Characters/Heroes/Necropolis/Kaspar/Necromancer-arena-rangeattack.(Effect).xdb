@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000650">
+	<Instances>
+		<Item href="/Effects/_(Effect)/Characters/Heroes/Necromancer/RangeAttack.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="Neck/Gles_add.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Head1/Head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Head2/Head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Hat/Hat.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Beard1/Beard.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="Beard2/Beard.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

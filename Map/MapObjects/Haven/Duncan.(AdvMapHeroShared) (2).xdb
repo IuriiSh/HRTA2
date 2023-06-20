@@ -37,7 +37,7 @@
 	</PrimarySkill>
 	<SpecializationNameFileRef href="/Text/Game/Heroes/Specializations/Haven/Wanderer/Duncan Name.txt"/>
 	<SpecializationDescFileRef href="/Text/Game/Heroes/Specializations/Haven/Wanderer/Duncan.txt"/>
-	<SpecializationIcon href="/Textures/Interface/CombatArena/Faces/Heaven/ico_Priest.xdb#xpointer(/Texture)"/>
+	<SpecializationIcon href="/Textures/HeroScreen/Skills/DestructiveMagic_3.xdb#xpointer(/Texture)"/>
 	<FaceTexture href="/UI/H5A1/Icons/Heroes/Portrets128x128/Dunkan.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTextureSmall/>
 	<HeroCharacterArena href="/Characters/Heroes/Duncan.(Character).xdb#xpointer(/Character)"/>

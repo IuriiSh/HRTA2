@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -12,7 +12,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>30</x>
-					<y>42</y>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -30,7 +30,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>40</x>
-					<y>42</y>
+					<y>44</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -47,8 +47,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_C9D0E877-6C53-44B5-BB23-D07E6917487A">
 			<AdvMapStatic>
 				<Pos>
-					<x>35</x>
-					<y>42</y>
+					<x>33</x>
+					<y>44</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -65,8 +65,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_90A0E709-00E7-4C16-B0FB-5EA4DCF57C78">
 			<AdvMapStatic>
 				<Pos>
-					<x>39</x>
-					<y>42</y>
+					<x>36</x>
+					<y>46</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -83,8 +83,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_3D93A1F8-867D-4FA5-9BCA-5013224097A5">
 			<AdvMapStatic>
 				<Pos>
-					<x>33</x>
-					<y>42</y>
+					<x>31</x>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -101,7 +101,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_910B130F-4ADD-43A0-AF33-4EFE9CC7DD89">
 			<AdvMapStatic>
 				<Pos>
-					<x>43</x>
+					<x>44</x>
 					<y>45</y>
 					<z>0</z>
 				</Pos>
@@ -119,8 +119,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_9D8B66EB-4DE0-4EC3-B0CA-2D763604F189">
 			<AdvMapStatic>
 				<Pos>
-					<x>29</x>
-					<y>46</y>
+					<x>26</x>
+					<y>40</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -156,7 +156,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>41</x>
-					<y>47</y>
+					<y>46</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -173,8 +173,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_E1C408DE-E7F0-42E6-A92E-BA313282D3AD">
 			<AdvMapStatic>
 				<Pos>
-					<x>37</x>
-					<y>46</y>
+					<x>38</x>
+					<y>45</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -282,7 +282,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>29</x>
-					<y>50</y>
+					<y>49</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -299,8 +299,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_0DD6EB86-9926-4C88-BFDF-C38E48D6D32C">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
-					<y>50</y>
+					<x>39</x>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -317,8 +317,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_E498CE7B-290F-4A16-B867-2EF1E2E5FDCD">
 			<AdvMapStatic>
 				<Pos>
-					<x>38</x>
-					<y>50</y>
+					<x>41</x>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1380,7 +1380,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>35</x>
-					<y>24</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1398,7 +1398,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>34</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1971,8 +1971,8 @@
 		<Item href="#n:inline(AdvMapDwelling)" id="item_1CD7308A-A6B9-479D-A2DA-CF607A800DB4">
 			<AdvMapDwelling>
 				<Pos>
-					<x>35</x>
-					<y>23</y>
+					<x>34</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>4.71239</Rot>
@@ -1998,7 +1998,7 @@
 			<AdvMapDwelling>
 				<Pos>
 					<x>32</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -2023,8 +2023,8 @@
 		<Item href="#n:inline(AdvMapDwelling)" id="item_21D3D1A7-0010-43A6-B496-816A222E35E2">
 			<AdvMapDwelling>
 				<Pos>
-					<x>39</x>
-					<y>26</y>
+					<x>36</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>4.71239</Rot>
@@ -2067,8 +2067,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_075F307E-E9FC-4A99-BC0E-7FE5FC669EE4">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
-					<y>27</y>
+					<x>39</x>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -2086,7 +2086,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>38</x>
-					<y>28</y>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -2176,7 +2176,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>34</x>
-					<y>26</y>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2194,7 +2194,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>33</x>
-					<y>26</y>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2212,7 +2212,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>34</x>
-					<y>26</y>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2230,7 +2230,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>33</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2248,7 +2248,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>33</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2266,7 +2266,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>34</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2302,7 +2302,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>33</x>
-					<y>26</y>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.1416</Rot>
@@ -2338,7 +2338,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>33</x>
-					<y>26</y>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2392,7 +2392,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>33</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.1416</Rot>
@@ -2427,8 +2427,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_0D2F251D-74E7-4CA9-B5F2-10A9C9050625">
 			<AdvMapStatic>
 				<Pos>
-					<x>38</x>
-					<y>25</y>
+					<x>39</x>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2500,7 +2500,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>38</x>
-					<y>26</y>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>4.71239</Rot>
@@ -2517,8 +2517,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_4548FA55-5034-4412-812F-14AB878F89F3">
 			<AdvMapStatic>
 				<Pos>
-					<x>37</x>
-					<y>26</y>
+					<x>39</x>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2536,7 +2536,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>37</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2572,7 +2572,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>37</x>
-					<y>26</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -2626,7 +2626,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>36</x>
-					<y>25</y>
+					<y>23</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2680,7 +2680,7 @@
 			<AdvMapDwelling>
 				<Pos>
 					<x>37</x>
-					<y>28</y>
+					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2706,7 +2706,7 @@
 			<AdvMapDwelling>
 				<Pos>
 					<x>35</x>
-					<y>28</y>
+					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>

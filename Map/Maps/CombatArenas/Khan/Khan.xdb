@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -237,24 +237,6 @@
 				<CombatScript/>
 				<pointLights/>
 				<Shared href="obj/Khan_Tent.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_28BD3CF4-9723-444E-BB5F-226FC7C7EA94">
-			<AdvMapStatic>
-				<Pos>
-					<x>32.6463</x>
-					<y>29.1724</y>
-					<z>0</z>
-				</Pos>
-				<Rot>6.08318</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="obj/Cyclop_Building.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -536,7 +518,7 @@
 	<AmbientLight/>
 	<UndergroundAmbientLight/>
 	<GroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/AdvMap/Addon2/A2M13.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/Scenes/Taiga_Forest_Fog.xdb#xpointer(/AmbientLight)"/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
 		<Item/>
@@ -544,10 +526,11 @@
 	<ReflectiveWater>false</ReflectiveWater>
 	<tiles>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Nidle_Dirt.xdb#xpointer(/AdvMapTile)"/>
-		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Scatter_stone.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Moss.xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Rock_Floor_Green.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Nidle_Grass.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Scatter_stone_Grass.xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Rock_Floor.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Mossy_Rock.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Grass/Grass.xdb#xpointer(/AdvMapTile)"/>
 	</tiles>

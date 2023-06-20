@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>96</TileX>
 	<TileY>96</TileY>
@@ -65,7 +65,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_9B3AADC2-1870-4E6B-8732-F9E8A29208AA">
 			<AdvMapStatic>
 				<Pos>
-					<x>24</x>
+					<x>22</x>
 					<y>9</y>
 					<z>0</z>
 				</Pos>
@@ -6296,8 +6296,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_F8816570-1C1D-4839-BB1A-CF95090CF6B9">
 			<AdvMapStatic>
 				<Pos>
-					<x>17</x>
-					<y>11</y>
+					<x>18</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -9601,8 +9601,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_FD644540-6C62-46B1-9F82-B66A3B7FD111">
 			<AdvMapStatic>
 				<Pos>
-					<x>14</x>
-					<y>10</y>
+					<x>15</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -9619,8 +9619,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_22222DD0-7C30-4DDB-ACA4-EC1EAC19FF5D">
 			<AdvMapStatic>
 				<Pos>
-					<x>16</x>
-					<y>13</y>
+					<x>17</x>
+					<y>29</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -18884,7 +18884,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>16</x>
-					<y>4</y>
+					<y>8</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -18901,8 +18901,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_D82B4FBF-0D46-4B65-8465-A601E0144679">
 			<AdvMapStatic>
 				<Pos>
-					<x>15</x>
-					<y>8</y>
+					<x>18</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -18938,7 +18938,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>14</x>
-					<y>7</y>
+					<y>10</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -18973,8 +18973,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_54E49368-9C07-4E52-9FF5-6D6ECA5C5959">
 			<AdvMapStatic>
 				<Pos>
-					<x>16</x>
-					<y>11</y>
+					<x>17</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -19027,8 +19027,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_76BE4C64-A56A-4226-9284-DF17A648A7CD">
 			<AdvMapStatic>
 				<Pos>
-					<x>16</x>
-					<y>10</y>
+					<x>17</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -19045,8 +19045,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_30F38813-B878-4C12-9BD9-17BC87A0A83B">
 			<AdvMapStatic>
 				<Pos>
-					<x>20</x>
-					<y>9</y>
+					<x>21</x>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -24968,7 +24968,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>12</x>
-					<y>12</y>
+					<y>10</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -25093,8 +25093,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_010807D7-4408-448D-801C-131BB872F604">
 			<AdvMapStatic>
 				<Pos>
-					<x>5</x>
-					<y>22</y>
+					<x>8</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -27577,8 +27577,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_6F05D906-AF06-4AD0-ADC5-9E308B2E3289">
 			<AdvMapStatic>
 				<Pos>
-					<x>20</x>
-					<y>9</y>
+					<x>19</x>
+					<y>10</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -30457,8 +30457,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_4F5F76BD-957D-4974-9BA6-F0C7519CD67F">
 			<AdvMapStatic>
 				<Pos>
-					<x>19</x>
-					<y>12</y>
+					<x>20</x>
+					<y>28</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -30475,8 +30475,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_497C9A37-AB1F-4E3D-A473-28F315B76669">
 			<AdvMapStatic>
 				<Pos>
-					<x>19</x>
-					<y>11</y>
+					<x>20</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -30493,8 +30493,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_F2976196-D603-43B1-A475-5EAF554F20BB">
 			<AdvMapStatic>
 				<Pos>
-					<x>19</x>
-					<y>9</y>
+					<x>20</x>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -30511,8 +30511,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_7C505614-0CDE-4B77-AD3B-E9B4069CDA8D">
 			<AdvMapStatic>
 				<Pos>
-					<x>19</x>
-					<y>9</y>
+					<x>20</x>
+					<y>25</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -35895,7 +35895,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>13</x>
-					<y>13</y>
+					<y>11</y>
 					<z>0</z>
 				</Pos>
 				<Rot>2.74889</Rot>
@@ -35913,7 +35913,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>12</x>
-					<y>13</y>
+					<y>11</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>

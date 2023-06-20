@@ -31,7 +31,7 @@
 	<Whitening>true</Whitening>
 	<Pitch>70</Pitch>
 	<Yaw>130</Yaw>
-	<ShadowPitch>120</ShadowPitch>
+	<ShadowPitch>100</ShadowPitch>
 	<ShadowYaw>100</ShadowYaw>
 	<Sky href="/Textures/_(CubeTexture)/Sky.xdb#xpointer(/CubeTexture)"/>
 	<GlossColor>
@@ -75,7 +75,7 @@
 		<y>0</y>
 		<z>0</z>
 	</GroundAmbientColor>
-	<MaxShadowHeight>70</MaxShadowHeight>
+	<MaxShadowHeight>40</MaxShadowHeight>
 	<SunFlares/>
 	<Haze/>
 	<CloudTex/>

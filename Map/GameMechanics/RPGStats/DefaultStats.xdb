@@ -1944,7 +1944,7 @@
 			<Runemage>
 				<StrongRune_2ndUseCostMultiplier>1</StrongRune_2ndUseCostMultiplier>
 				<FineRune_ChanceToActivateRuneForFree>50</FineRune_ChanceToActivateRuneForFree>
-				<QuicknessOfMind_InitiativeBonus>0.25</QuicknessOfMind_InitiativeBonus>
+				<QuicknessOfMind_InitiativeBonus>0.3</QuicknessOfMind_InitiativeBonus>
 				<TapRunes_ManaRestorePerKnowledge>1</TapRunes_ManaRestorePerKnowledge>
 				<RunicAttunement_EffectDurationInRounds>1</RunicAttunement_EffectDurationInRounds>
 				<RunicAttunement_MoraleBonus>2</RunicAttunement_MoraleBonus>
@@ -2145,7 +2145,7 @@
 				<BorderGuard_LevelDivisor>2</BorderGuard_LevelDivisor>
 				<BorderGuard_DefenceBonusPerLevel>1</BorderGuard_DefenceBonusPerLevel>
 				<Courtier_DiplomacyBonusPerLevel>0.1</Courtier_DiplomacyBonusPerLevel>
-				<MountainKing_ActiveRune>SPELL_RUNE_OF_STUNNING</MountainKing_ActiveRune>
+				<MountainKing_ActiveRune>SPELL_RUNE_OF_BATTLERAGE</MountainKing_ActiveRune>
 				<Researcher_ChanceToGetExtraRune>0</Researcher_ChanceToGetExtraRune>
 				<SacredHammer_ChanceToCastBase>0</SacredHammer_ChanceToCastBase>
 				<SacredHammer_ChanceToCastPerLevel>0.03</SacredHammer_ChanceToCastPerLevel>
@@ -2326,8 +2326,8 @@
 		<LuckAndMorale>
 			<GoodLuck_DamageMultiplier>1.5</GoodLuck_DamageMultiplier>
 			<BadLuck_DamageMultiplier>0.66</BadLuck_DamageMultiplier>
-			<GoodMorale_ATBValue>0.33</GoodMorale_ATBValue>
-			<BadMorale_ATBValue>0.67</BadMorale_ATBValue>
+			<GoodMorale_ATBValue>0.3</GoodMorale_ATBValue>
+			<BadMorale_ATBValue>0.7</BadMorale_ATBValue>
 		</LuckAndMorale>
 	</combat>
 	<GhostMode>

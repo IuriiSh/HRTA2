@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -155,7 +155,7 @@
 		<Item href="#n:inline(AdvMapCartographer)" id="item_3C46F8B7-5319-4DE8-9307-130AA39C9F1D">
 			<AdvMapCartographer>
 				<Pos>
-					<x>45</x>
+					<x>46</x>
 					<y>38</y>
 					<z>0</z>
 				</Pos>
@@ -225,7 +225,7 @@
 			<AdvMapBuilding>
 				<Pos>
 					<x>35.5</x>
-					<y>45</y>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -248,7 +248,7 @@
 			<AdvMapBuilding>
 				<Pos>
 					<x>40</x>
-					<y>43</y>
+					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>4.71239</Rot>
@@ -293,11 +293,11 @@
 		<Item href="#n:inline(AdvMapBuilding)" id="item_FEB40EA6-6839-40BD-BB9D-DBFD986CFFD1">
 			<AdvMapBuilding>
 				<Pos>
-					<x>27</x>
-					<y>38</y>
+					<x>26</x>
+					<y>37</y>
 					<z>0</z>
 				</Pos>
-				<Rot>0</Rot>
+				<Rot>1.5708</Rot>
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>

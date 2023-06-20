@@ -53,5 +53,8 @@
 	<Range>0</Range>
 	<BaseCreature>CREATURE_ANGEL</BaseCreature>
 	<Upgrades/>
-	<Abilities/>
+	<Abilities>
+		
+            <Item>ABILITY_ENERGY_CHANNEL</Item>
+	</Abilities>
 </Creature>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -8,24 +8,6 @@
 	<HasSurface>true</HasSurface>
 	<InitialFloor>1</InitialFloor>
 	<objects>
-		<Item href="#n:inline(AdvMapStatic)" id="item_B6DA39A4-9E81-4245-B305-4D79A498F0DB">
-			<AdvMapStatic>
-				<Pos>
-					<x>23</x>
-					<y>39</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Stoloktites/Stologmite03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_5C0BD6C8-AECF-4790-BF7B-E36AE512BF93">
 			<AdvMapStatic>
 				<Pos>
@@ -495,8 +477,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_F4F02DA6-1D29-47C3-AD58-EBF151D4051C">
 			<AdvMapStatic>
 				<Pos>
-					<x>31</x>
-					<y>43</y>
+					<x>33</x>
+					<y>44</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -1816,7 +1798,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>28</x>
-					<y>46</y>
+					<y>47</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3093,8 +3075,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_8E9325FC-0563-4BE4-A761-33591C5F4263">
 			<AdvMapStatic>
 				<Pos>
-					<x>24</x>
-					<y>37</y>
+					<x>25</x>
+					<y>36</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3104,16 +3086,16 @@
 				<pointLights>
 					<Item>
 						<Pos>
-							<x>0</x>
+							<x>5</x>
 							<y>0</y>
-							<z>1</z>
+							<z>2</z>
 						</Pos>
 						<Color>
 							<x>1</x>
 							<y>0</y>
-							<z>1</z>
+							<z>0</z>
 						</Color>
-						<Radius>15</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/crystals_violet04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
@@ -3321,11 +3303,11 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_EBCFF31B-7967-41FC-A2DA-96217A6D27D6">
 			<AdvMapStatic>
 				<Pos>
-					<x>36</x>
-					<y>25</y>
+					<x>39</x>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
-				<Rot>4.71239</Rot>
+				<Rot>1.5708</Rot>
 				<Floor>1</Floor>
 				<Name/>
 				<CombatScript/>
@@ -3333,7 +3315,7 @@
 				<Shared href="/MapObjects/Grass/Combat_Arena/Dungeon_Tower.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
+				<ScalePercent>70</ScalePercent>
 			</AdvMapStatic>
 		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_52242708-B576-41F8-BF84-4523B03D14E7">
@@ -3435,24 +3417,6 @@
 					</Item>
 				</pointLights>
 				<Shared/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_A435C4CF-8D39-4A9D-AFA5-4A6B4846CCB4">
-			<AdvMapStatic>
-				<Pos>
-					<x>23</x>
-					<y>25</y>
-					<z>0</z>
-				</Pos>
-				<Rot>1.57079</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Columns/Column_7x7_03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -3622,7 +3586,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>39</x>
-					<y>26</y>
+					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3633,15 +3597,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
+							<y>-5</y>
 							<z>3</z>
 						</Pos>
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
-						<Radius>30</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/crystals_brown04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
@@ -3653,8 +3617,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_03242196-CDA7-4149-BDB2-316D9E6728C3">
 			<AdvMapStatic>
 				<Pos>
-					<x>20</x>
-					<y>34</y>
+					<x>26</x>
+					<y>30</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3664,69 +3628,19 @@
 				<pointLights>
 					<Item>
 						<Pos>
-							<x>0</x>
+							<x>5</x>
 							<y>0</y>
-							<z>1</z>
+							<z>2</z>
 						</Pos>
 						<Color>
 							<x>1</x>
 							<y>0</y>
 							<z>0</z>
 						</Color>
-						<Radius>15</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/Crystal_red04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_00B38181-0C64-4A7B-9078-6170C685F7AA">
-			<AdvMapStatic>
-				<Pos>
-					<x>15</x>
-					<y>22</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Columns/Column_5x5_06.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_9C221AC1-4990-4B36-A965-1718A8F1BB4D">
-			<AdvMapStatic>
-				<Pos>
-					<x>29</x>
-					<y>23</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights>
-					<Item>
-						<Pos>
-							<x>0</x>
-							<y>2</y>
-							<z>5</z>
-						</Pos>
-						<Color>
-							<x>1</x>
-							<y>0</y>
-							<z>0</z>
-						</Color>
-						<Radius>15</Radius>
-					</Item>
-				</pointLights>
-				<Shared href="/MapObjects/Subterra/Columns/Column_3x3_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -3759,24 +3673,6 @@
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/Subterra/Columns/Column_7x7_02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_ACB01070-1575-406E-B24D-D26E3B7A2093">
-			<AdvMapStatic>
-				<Pos>
-					<x>40</x>
-					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Columns/Column_3x3_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -3821,8 +3717,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_D34890A8-CD29-481C-9099-D0C22890751A">
 			<AdvMapStatic>
 				<Pos>
-					<x>18</x>
-					<y>31</y>
+					<x>23</x>
+					<y>33</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3857,15 +3753,29 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_B9729006-FAC1-412A-B2FC-57C44F08A4E0">
 			<AdvMapStatic>
 				<Pos>
-					<x>45</x>
-					<y>28</y>
+					<x>35</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
 				<Floor>1</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>15</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>0</y>
+							<z>0</z>
+						</Color>
+						<Radius>25</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Stoloktites/Stologtite08.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -3875,7 +3785,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_F2E82752-88A5-40D0-A348-C6BF798193C3">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
+					<x>45</x>
 					<y>24</y>
 					<z>0</z>
 				</Pos>
@@ -3911,11 +3821,11 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_3F83739D-9794-4C80-8FA2-7601F7498D02">
 			<AdvMapStatic>
 				<Pos>
-					<x>45</x>
-					<y>39</y>
+					<x>36</x>
+					<y>42</y>
 					<z>0</z>
 				</Pos>
-				<Rot>0</Rot>
+				<Rot>1.5708</Rot>
 				<Floor>1</Floor>
 				<Name/>
 				<CombatScript/>
@@ -3929,8 +3839,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_A07FA044-9747-479B-8578-BD7E05F88283">
 			<AdvMapStatic>
 				<Pos>
-					<x>45</x>
-					<y>33</y>
+					<x>46</x>
+					<y>32</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3947,8 +3857,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_48651F33-FAA6-4448-92F2-5F7A4DD44945">
 			<AdvMapStatic>
 				<Pos>
-					<x>35</x>
-					<y>40</y>
+					<x>34</x>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -3965,8 +3875,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_BE432899-07BD-423B-8038-A258B147A8E4">
 			<AdvMapStatic>
 				<Pos>
-					<x>45</x>
-					<y>34</y>
+					<x>39</x>
+					<y>28</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3977,15 +3887,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>1</z>
+							<y>5</y>
+							<z>2</z>
 						</Pos>
 						<Color>
-							<x>0</x>
-							<y>1</y>
-							<z>1</z>
+							<x>1</x>
+							<y>0</y>
+							<z>0</z>
 						</Color>
-						<Radius>15</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/Crystal04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
@@ -3997,7 +3907,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_DEFD1301-1AA0-4ACF-94DE-37F2ABD566F6">
 			<AdvMapStatic>
 				<Pos>
-					<x>41</x>
+					<x>33</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -4009,15 +3919,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>1</z>
+							<y>-5</y>
+							<z>2</z>
 						</Pos>
 						<Color>
 							<x>1</x>
 							<y>0</y>
 							<z>0</z>
 						</Color>
-						<Radius>20</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/Crystal_red04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
@@ -4029,7 +3939,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_C224CBB4-25A2-4E3C-ABF9-CDBD762EDB9D">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
+					<x>36</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -4041,13 +3951,13 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>1</z>
+							<y>-5</y>
+							<z>2</z>
 						</Pos>
 						<Color>
 							<x>1</x>
 							<y>0</y>
-							<z>1</z>
+							<z>0</z>
 						</Color>
 						<Radius>10</Radius>
 					</Item>
@@ -4061,8 +3971,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_8A1C5299-0B43-4CEF-85A2-8F832D4B80CA">
 			<AdvMapStatic>
 				<Pos>
-					<x>46</x>
-					<y>29</y>
+					<x>44</x>
+					<y>35</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -4072,16 +3982,16 @@
 				<pointLights>
 					<Item>
 						<Pos>
-							<x>0</x>
+							<x>-15</x>
 							<y>0</y>
-							<z>1</z>
+							<z>5</z>
 						</Pos>
 						<Color>
 							<x>1</x>
 							<y>0</y>
-							<z>1</z>
+							<z>0</z>
 						</Color>
-						<Radius>15</Radius>
+						<Radius>25</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/crystals_violet01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
@@ -4143,8 +4053,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_5109D178-3024-44EC-B1ED-38D8226F9A01">
 			<AdvMapStatic>
 				<Pos>
-					<x>18</x>
-					<y>31</y>
+					<x>23</x>
+					<y>33</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -4172,28 +4082,10 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_4AF113C6-D381-45CE-9431-5456094059E3">
-			<AdvMapStatic>
-				<Pos>
-					<x>44</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Crystal02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_0C1730DC-CF00-4B7B-A30B-9C97DA009F7B">
 			<AdvMapStatic>
 				<Pos>
-					<x>40</x>
+					<x>35</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -4212,7 +4104,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>28</x>
-					<y>43</y>
+					<y>48</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -4226,6 +4118,224 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_81D3DD6F-9C38-4033-87BE-CB14F118B5CE">
+			<AdvMapStatic>
+				<Pos>
+					<x>29</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>1.5708</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Grass/Combat_Arena/Dungeon_Tower.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>70</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_B878308B-38A2-4C27-A24E-596E9F1D1BB6">
+			<AdvMapStatic>
+				<Pos>
+					<x>45</x>
+					<y>30</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Stoloktites/Stologtite06.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_36031DA4-A4C0-46A5-9CDF-38241A4C8BF3">
+			<AdvMapStatic>
+				<Pos>
+					<x>29</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>1.5708</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>-5</y>
+							<z>3</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/crystals_brown04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_D0959460-3A63-4DDA-83E3-93EC655501E0">
+			<AdvMapStatic>
+				<Pos>
+					<x>48</x>
+					<y>19</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Grass/Mountain/Mountain12x12.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_76C92BDB-2ECB-484D-BA56-8B227138C835">
+			<AdvMapStatic>
+				<Pos>
+					<x>49</x>
+					<y>34</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Grass/Mountain/Mountain12x12.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_65DA95AF-D386-44A1-AE1A-EF50CE77E5C2">
+			<AdvMapStatic>
+				<Pos>
+					<x>32</x>
+					<y>28</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>5</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>0</y>
+							<z>0</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/Crystal04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_702FDFCC-5141-43F2-AA5D-E207A9558317">
+			<AdvMapStatic>
+				<Pos>
+					<x>44</x>
+					<y>37</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>0</y>
+							<z>0</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/Crystal04.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_0ACCA1E0-19FB-4791-8BEE-8ECBB9192C8F">
+			<AdvMapStatic>
+				<Pos>
+					<x>44</x>
+					<y>33</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>2</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>0</y>
+							<z>0</z>
+						</Color>
+						<Radius>10</Radius>
+					</Item>
+				</pointLights>
+				<Shared href="/MapObjects/TESTS/Dungeon/Crystals/crystals_violet01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_28CDC8BC-642D-45FE-8F3C-4EAB91538BE6">
+			<AdvMapStatic>
+				<Pos>
+					<x>36</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Crystals/BigCrystal1.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>200</ScalePercent>
+			</AdvMapStatic>
+		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>
@@ -4237,7 +4347,7 @@
 		<Item/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/TestProg.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/Tests/c2m1_dungeons_hellish.xdb#xpointer(/AmbientLight)"/>
 	</UndergroundAmbientLights>
 	<ReflectiveWater>false</ReflectiveWater>
 	<tiles>

@@ -31,7 +31,7 @@
 			<PerPower>0</PerPower>
 		</Item>
 		<Item>
-			<Base>8</Base>
+			<Base>7</Base>
 			<PerPower>0</PerPower>
 		</Item>
 	</damage>
@@ -54,4 +54,6 @@
 	<visuals>
 		<Item href="Disrupting_Ray.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
 	</visuals>
+	<PresetPrice>0</PresetPrice>
+	<AvailableForPresets>true</AvailableForPresets>
 </Spell>

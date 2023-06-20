@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -257,7 +257,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>25</Radius>
 					</Item>
@@ -337,9 +337,9 @@
 							<z>0</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>20</Radius>
 					</Item>
@@ -4339,7 +4339,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>5</x>
+							<y>0</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>20</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/SunkenTemple.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
 				<PlayerID>PLAYER_NONE</PlayerID>
 				<CaptureTrigger>
@@ -5718,7 +5732,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5734,7 +5748,7 @@
 				<Pos>
 					<x>38</x>
 					<y>40</y>
-					<z>-1</z>
+					<z>0</z>
 				</Pos>
 				<Rot>0.786956</Rot>
 				<Floor>0</Floor>
@@ -5750,7 +5764,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5782,7 +5796,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5814,7 +5828,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5844,9 +5858,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5876,9 +5890,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5908,9 +5922,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5940,9 +5954,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -5974,7 +5988,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6004,9 +6018,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6068,9 +6082,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6102,7 +6116,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6134,7 +6148,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6256,7 +6270,7 @@
 						<Color>
 							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6286,9 +6300,9 @@
 							<z>5</z>
 						</Pos>
 						<Color>
-							<x>0</x>
+							<x>1</x>
 							<y>1</y>
-							<z>0</z>
+							<z>1</z>
 						</Color>
 						<Radius>15</Radius>
 					</Item>
@@ -6307,7 +6321,7 @@
 	<AmbientLight/>
 	<UndergroundAmbientLight/>
 	<GroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/AdvMap/Addon2/A2C1M1.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/AdvMap/Addon/Dark_underground.xdb#xpointer(/AmbientLight)"/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
 		<Item/>
@@ -6316,8 +6330,13 @@
 	<tiles>
 		<Item href="/MapObjects/_(AdvMapTile)/SubTerrain/SubTerrain.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Orc_Terrain/Moss.xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/Conquest/Dirt.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Water/Bog.xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/SubTerrain/SubTerrain_(3).xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/Grass/Rock_Floor_grass.xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/Conquest/Paving.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Dirt/DarkGround.xdb#xpointer(/AdvMapTile)"/>
+		<Item href="/MapObjects/_(AdvMapTile)/Conquest/Mud.xdb#xpointer(/AdvMapTile)"/>
 	</tiles>
 	<regions>
 		<Item>

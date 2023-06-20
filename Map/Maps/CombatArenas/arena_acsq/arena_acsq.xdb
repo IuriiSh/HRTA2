@@ -101,7 +101,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_FBF2F159-D7C9-48EF-8AF4-DB4DA0FC57BA">
 			<AdvMapStatic>
 				<Pos>
-					<x>47</x>
+					<x>48</x>
 					<y>40</y>
 					<z>0</z>
 				</Pos>
@@ -120,7 +120,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>24</x>
-					<y>40</y>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>2.49792</Rot>

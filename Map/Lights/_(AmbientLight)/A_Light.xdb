@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AmbientLight ObjectRecordID="46">
-	<InternalName/>
+	<InternalName>Light1</InternalName>
 	<Name/>
 	<NameFileRef href=""/>
 	<LightColor>

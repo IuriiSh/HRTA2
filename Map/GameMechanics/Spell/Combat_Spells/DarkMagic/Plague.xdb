@@ -13,7 +13,6 @@
 	<Level>3</Level>
 	<MagicSchool>MAGIC_SCHOOL_DARK</MagicSchool>
 	<RequiredHeroLevel>0</RequiredHeroLevel>
-	<IsAimed>true</IsAimed>
 	<TrainedCost>6</TrainedCost>
 	<damage>
 		<Item>
@@ -55,7 +54,7 @@
 			<PerPower>0</PerPower>
 		</Item>
 		<Item>
-			<Base>4</Base>
+			<Base>5</Base>
 			<PerPower>0</PerPower>
 		</Item>
 	</duration>
@@ -68,11 +67,15 @@
 		<Gem>0</Gem>
 		<Gold>0</Gold>
 	</sSpellCost>
+	<IsAimed>true</IsAimed>
 	<IsAreaAttack>false</IsAreaAttack>
 	<CanSelectDead>false</CanSelectDead>
 	<Target>TARGET_HOSTILE</Target>
 	<Element>ELEMENT_EARTH</Element>
+	<DamageIsElemental>true</DamageIsElemental>
 	<visuals>
 		<Item href="Plague.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
 	</visuals>
+	<PresetPrice>0</PresetPrice>
+	<AvailableForPresets>true</AvailableForPresets>
 </Spell>

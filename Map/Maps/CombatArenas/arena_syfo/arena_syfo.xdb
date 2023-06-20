@@ -4035,8 +4035,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_DC168535-FC52-421E-92C5-281D9E2579E6">
 			<AdvMapStatic>
 				<Pos>
-					<x>32</x>
-					<y>38</y>
+					<x>27</x>
+					<y>35</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -4053,8 +4053,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_16C2D1D9-6A32-40CD-870A-714C5647E317">
 			<AdvMapStatic>
 				<Pos>
-					<x>32</x>
-					<y>39</y>
+					<x>27</x>
+					<y>36</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -4071,8 +4071,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_57856C83-D380-44BC-A0D1-33D72D48F3FC">
 			<AdvMapStatic>
 				<Pos>
-					<x>33</x>
-					<y>39</y>
+					<x>28</x>
+					<y>36</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>

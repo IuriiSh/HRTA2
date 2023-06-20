@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdventureFlybyScene ObjectRecordID="9999994">
-	<Scenery href="/Maps/CombatArenas/arena_olch/arena_olch.xdb#xpointer(/AdvMapDesc)"/>
+	<Scenery href="/Maps/CombatArenas/plus2/plus2.xdb#xpointer(/AdvMapDesc)"/>
 	<cameraFlyupRole>
 		<Model/>
 		<AnimSet/>
@@ -13,8 +13,8 @@
 	</skyRole>
 	<MountPoint>
 		<Pos>
-			<x>30</x>
-			<y>41</y>
+			<x>40</x>
+			<y>54</y>
 		</Pos>
 		<Rot>0</Rot>
 	</MountPoint>

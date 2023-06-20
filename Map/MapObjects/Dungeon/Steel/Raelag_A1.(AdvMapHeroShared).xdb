@@ -30,7 +30,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Raelag_A13</InternalName>
+	<InternalName>Raelag_A1</InternalName>
 	<Class>HERO_CLASS_WARLOCK</Class>
 	<Specialization>HERO_SPEC_MASTER_OF_INITIATIVE</Specialization>
 	<PrimarySkill>
@@ -57,8 +57,7 @@
 		<Knowledge>1</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_ELEMENTAL_VISION</Item>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
+			
 		</perkIDs>
 		<spellIDs/>
 		<Ballista>false</Ballista>

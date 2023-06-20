@@ -28,9 +28,9 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Brand3</InternalName>
+	<InternalName>Brand</InternalName>
 	<Class>HERO_CLASS_RUNEMAGE</Class>
-	<Specialization>HERO_SPEC_ECONOMIST</Specialization>
+	<Specialization>HERO_SPEC_NONE</Specialization>
 	<PrimarySkill>
 		<Mastery>MASTERY_BASIC</Mastery>
 		<SkillID>HERO_SKILL_RUNELORE</SkillID>
@@ -54,9 +54,7 @@
 		<Spellpower>2</Spellpower>
 		<Knowledge>2</Knowledge>
 		<skills/>
-		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
-		</perkIDs>
+		<perkIDs/>
 		<spellIDs/>
 		<Ballista>false</Ballista>
 		<FirstAidTent>false</FirstAidTent>

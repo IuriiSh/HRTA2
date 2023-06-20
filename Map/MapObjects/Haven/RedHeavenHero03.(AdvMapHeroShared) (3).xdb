@@ -53,7 +53,13 @@
 		<Defence>2</Defence>
 		<Spellpower>1</Spellpower>
 		<Knowledge>1</Knowledge>
-		<skills/>
+		<skills>
+			<Item>
+				<Mastery>MASTERY_EXTRA_EXPERT</Mastery>
+				<SkillID>HERO_SKILL_DARK_MAGIC</SkillID>
+			</Item>
+		</skills>
+
 		<perkIDs>
 			<Item>HERO_SKILL_ABSOLUTE_CHARGE</Item>
 		</perkIDs>

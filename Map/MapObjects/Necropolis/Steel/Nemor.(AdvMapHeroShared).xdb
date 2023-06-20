@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AdvMapHeroShared>
+<AdvMapHeroShared ObjectRecordID="59">
 	<Model href="/_(Model)/Heroes/Knight_LOD.(Model).xdb#xpointer(/Model)"/>
 	<AnimSet href="/_(AnimSet)/Heroes/Knight_LOD-adv.(AnimSet).xdb#xpointer(/AnimSet)"/>
 	<blockedTiles/>
@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Nemor3</InternalName>
+	<InternalName>Nemor</InternalName>
 	<Class>HERO_CLASS_NECROMANCER</Class>
 	<Specialization>HERO_SPEC_DARK_EMISSARY</Specialization>
 	<PrimarySkill>
@@ -54,9 +54,7 @@
 		<Spellpower>3</Spellpower>
 		<Knowledge>1</Knowledge>
 		<skills/>
-		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
-		</perkIDs>
+		<perkIDs/>
 		<spellIDs>
 			<Item>SPELL_ANIMATE_DEAD</Item>
 			<Item>SPELL_SORROW</Item>
@@ -65,7 +63,6 @@
 		<FirstAidTent>false</FirstAidTent>
 		<AmmoCart>false</AmmoCart>
 		<FavoriteEnemies/>
-		<TalismanLevel>0</TalismanLevel>
 	</Editable>
 	<ArrowButtonState>0</ArrowButtonState>
 	<Decal/>
@@ -76,10 +73,4 @@
 	<ScenarioHero>false</ScenarioHero>
 	<AdventureMusic/>
 	<HideInEditor>false</HideInEditor>
-	<PresetMinimalAttributes>
-		<Offence>2</Offence>
-		<Defence>2</Defence>
-		<Spellpower>2</Spellpower>
-		<Knowledge>2</Knowledge>
-	</PresetMinimalAttributes>
 </AdvMapHeroShared>

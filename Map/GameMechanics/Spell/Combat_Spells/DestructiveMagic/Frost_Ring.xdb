@@ -16,19 +16,19 @@
 	<damage>
 		<Item>
 			<Base>40</Base>
-			<PerPower>16</PerPower>
+			<PerPower>15</PerPower>
 		</Item>
 		<Item>
 			<Base>70</Base>
-			<PerPower>16</PerPower>
+			<PerPower>15</PerPower>
 		</Item>
 		<Item>
 			<Base>90</Base>
-			<PerPower>16</PerPower>
+			<PerPower>15</PerPower>
 		</Item>
 		<Item>
 			<Base>130</Base>
-			<PerPower>16</PerPower>
+			<PerPower>15</PerPower>
 		</Item>
 	</damage>
 	<duration/>

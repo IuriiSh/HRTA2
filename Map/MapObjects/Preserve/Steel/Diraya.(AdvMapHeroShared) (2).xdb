@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Diraya4</InternalName>
+	<InternalName>Diraya2</InternalName>
 	<Class>HERO_CLASS_RANGER</Class>
 	<Specialization>HERO_SPEC_CALL_OF_THE_WASP</Specialization>
 	<PrimarySkill>
@@ -55,7 +55,7 @@
 		<Knowledge>2</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
+			<Item>HERO_SKILL_SNIPE_DEAD</Item>
 		</perkIDs>
 		<spellIDs>
 			<Item>SPELL_WASP_SWARM</Item>

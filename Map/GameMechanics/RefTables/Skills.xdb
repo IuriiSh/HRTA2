@@ -4936,10 +4936,10 @@
 					<Item href="/Text/Game/Skills/Unique/Invocation/ElementalVision/Description.txt"/>
 				</DescriptionFileRef>
 				<CommonDescriptionFileRef href=""/>
-				<SkillType>SKILLTYPE_SPECIAL_PERK</SkillType>
-				<HeroClass>HERO_CLASS_NONE</HeroClass>
+				<SkillType>SKILLTYPE_CLASS_PERK</SkillType>
+				<HeroClass>HERO_CLASS_WARLOCK</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_NONE</BasicSkillID>
+				<BasicSkillID>HERO_SKILL_INVOCATION</BasicSkillID>
 				<SkillPrerequisites/>
 				<AIRacesValues>
 					<Haven>
@@ -8299,9 +8299,9 @@
 				</DescriptionFileRef>
 				<CommonDescriptionFileRef href=""/>
 				<SkillType>SKILLTYPE_CLASS_PERK</SkillType>
-				<HeroClass>HERO_CLASS_WARLOCK</HeroClass>
+				<HeroClass>HERO_CLASS_NONE</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_INVOCATION</BasicSkillID>
+				<BasicSkillID>HERO_SKILL_NONE</BasicSkillID>
 				<SkillPrerequisites/>
 				<AIRacesValues>
 					<Haven>
@@ -8365,9 +8365,9 @@
 				</DescriptionFileRef>
 				<CommonDescriptionFileRef href=""/>
 				<SkillType>SKILLTYPE_SPECIAL_PERK</SkillType>
-				<HeroClass>HERO_CLASS_RANGER</HeroClass>
+				<HeroClass>HERO_CLASS_NONE</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_LOGISTICS</BasicSkillID>
+				<BasicSkillID>HERO_SKILL_NONE</BasicSkillID>
 				<SkillPrerequisites>
 					<Item>
 						<Class>HERO_CLASS_KNIGHT</Class>

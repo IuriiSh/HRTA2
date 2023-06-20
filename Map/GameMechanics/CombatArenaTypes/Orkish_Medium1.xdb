@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AdventureFlybyScene ObjectRecordID="1000061">
-	<Scenery href="/Maps/CombatArenas/Oblezenie/Oblezenie.xdb#xpointer(/AdvMapDesc)"/>
+<AdventureFlybyScene ObjectRecordID="1000063">
+	<Scenery href="/Maps/CombatArenas/my_arena_07/my_arena_07.xdb#xpointer(/AdvMapDesc)"/>
 	<cameraFlyupRole>
 		<Model/>
 		<AnimSet/>
@@ -14,15 +14,15 @@
 	<MountPoint>
 		<Pos>
 			<x>30</x>
-			<y>41</y>
+			<y>42</y>
 		</Pos>
 		<Rot>0</Rot>
 	</MountPoint>
 	<AdditionalHeight>0</AdditionalHeight>
-	<Music/>
-	<AmbientSoundSet href="/Sounds/_(Ambient)/TerrainAmbients/Dirt_Big.xdb#xpointer(/AmbientSoundSet)"/>
+	<Music href="/Sounds/_(Music)/Seige-Battle/a2_Stronghold.xdb#xpointer(/Music)"/>
+	<AmbientSoundSet href="/Sounds/_(Ambient)/TerrainAmbients/Dirt.xdb#xpointer(/AmbientSoundSet)"/>
 	<TextFormatFileRef href=""/>
-	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/TaigaArena/Taiga.(ArenaObstaclesGroup).xdb#xpointer(/ArenaObstaclesGroup)"/>
+	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/GrassArena/GrassObstacles.xdb#xpointer(/ArenaObstaclesGroup)"/>
 	<CamerasSet/>
 	<MeleeAttackPoints>
 		<Use>false</Use>

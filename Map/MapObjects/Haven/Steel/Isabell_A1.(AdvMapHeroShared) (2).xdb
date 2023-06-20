@@ -30,7 +30,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Isabell_A16</InternalName>
+	<InternalName>Isabell_A12</InternalName>
 	<Class>HERO_CLASS_KNIGHT</Class>
 	<Specialization>HERO_SPEC_NONE</Specialization>
 	<PrimarySkill>
@@ -58,7 +58,6 @@
 		<skills/>
 		<perkIDs>
 			<Item>HERO_SKILL_ABSOLUTE_CHARGE</Item>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
 		</perkIDs>
 		<spellIDs/>
 		<Ballista>false</Ballista>

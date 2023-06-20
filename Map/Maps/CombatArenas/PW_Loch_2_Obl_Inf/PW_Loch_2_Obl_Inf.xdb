@@ -98,60 +98,6 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_8C29059A-3D70-4572-8843-51EC28BE2053">
-			<AdvMapStatic>
-				<Pos>
-					<x>31</x>
-					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>4.39068</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Smoke/Inferno_Smoke.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_250E8FE2-AE07-413B-88E2-50DA16424D4C">
-			<AdvMapStatic>
-				<Pos>
-					<x>33</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>4.5473</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Smoke/Inferno_Smoke.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_84103A81-17C4-47D7-9F30-A22452AA3D0A">
-			<AdvMapStatic>
-				<Pos>
-					<x>39</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>4.71239</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Smoke/Inferno_Smoke.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_02DE8B7A-9D17-4209-97F1-96DFC99E0983">
 			<AdvMapStatic>
 				<Pos>
@@ -183,60 +129,6 @@
 				<CombatScript/>
 				<pointLights/>
 				<Shared href="/MapObjects/Effects/Particles/Monolith.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_D9AFF107-E080-4280-AEC4-ADA15AF28FD8">
-			<AdvMapStatic>
-				<Pos>
-					<x>30</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>5.81967</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Lava/Crystals/CrystalMana.xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_D1EABD14-40A1-46F6-9251-0A782C0350C0">
-			<AdvMapStatic>
-				<Pos>
-					<x>41</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>5.81967</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Lava/Crystals/CrystalMana.xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_FE2C3E7E-36A0-4A38-B8C3-FD4682874711">
-			<AdvMapStatic>
-				<Pos>
-					<x>35</x>
-					<y>27.2</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/TESTS/Hero1.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -404,42 +296,6 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_05AA7AC3-3A7D-4E54-965C-E231A7A238CD">
-			<AdvMapStatic>
-				<Pos>
-					<x>30</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Campfire.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_F85FB72F-6D37-42AD-A133-61FD3E99D423">
-			<AdvMapStatic>
-				<Pos>
-					<x>41</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Campfire.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_0CBE99DC-F62F-416B-B999-486B093ACC43">
 			<AdvMapStatic>
 				<Pos>
@@ -463,114 +319,6 @@
 				<Pos>
 					<x>30</x>
 					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_FB689BFF-AB3A-4B81-8356-80D151DFDCC9">
-			<AdvMapStatic>
-				<Pos>
-					<x>32</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_A8DCFC7B-10FE-413D-AF58-2E4E45963D4C">
-			<AdvMapStatic>
-				<Pos>
-					<x>33</x>
-					<y>39</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_588135A8-12B5-429D-A8C1-BC4496DA757F">
-			<AdvMapStatic>
-				<Pos>
-					<x>40</x>
-					<y>39</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_795FF496-7066-4E95-A949-077ACACD0509">
-			<AdvMapStatic>
-				<Pos>
-					<x>39</x>
-					<y>39</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_EC737FC0-116B-4CE9-B568-FDB7BCC1074C">
-			<AdvMapStatic>
-				<Pos>
-					<x>42</x>
-					<y>39</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_C324AFF4-BD75-4DF1-BBA5-11274E01BBB9">
-			<AdvMapStatic>
-				<Pos>
-					<x>42</x>
-					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.16418</Rot>
@@ -1242,24 +990,6 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_0E9BE985-B179-453D-8B11-6993F54AE02F">
-			<AdvMapStatic>
-				<Pos>
-					<x>35</x>
-					<y>28</y>
-					<z>0.7</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_InfernoDoor.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_6A5E3F41-0AF7-4C98-9636-FCB709AAC7EC">
 			<AdvMapStatic>
 				<Pos>
@@ -1391,24 +1121,6 @@
 				<CombatScript/>
 				<pointLights/>
 				<Shared href="/MapObjects/Effects/Fire/Inferno_big02.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_AA6AF008-3293-47FD-9E88-F53E96EB47D0">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>39</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.16418</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Fire/Fire_glow.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -1554,70 +1266,6 @@
 				<MessageFileRef href=""/>
 			</AdvMapTreasure>
 		</Item>
-		<Item href="#n:inline(AdvMapTreasure)" id="item_5C83CDCB-34B7-4831-98FE-7DB36F1F3394">
-			<AdvMapTreasure>
-				<Pos>
-					<x>34</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights>
-					<Item>
-						<Pos>
-							<x>0</x>
-							<y>0</y>
-							<z>5</z>
-						</Pos>
-						<Color>
-							<x>1</x>
-							<y>0.501961</y>
-							<z>0</z>
-						</Color>
-						<Radius>25</Radius>
-					</Item>
-				</pointLights>
-				<Shared href="/MapObjects/Campfire.(AdvMapTreasureShared).xdb#xpointer(/AdvMapTreasureShared)"/>
-				<IsCustom>false</IsCustom>
-				<Amount>0</Amount>
-				<MessageFileRef href=""/>
-			</AdvMapTreasure>
-		</Item>
-		<Item href="#n:inline(AdvMapTreasure)" id="item_976AF186-D247-40F4-87F0-52E67CC3AE70">
-			<AdvMapTreasure>
-				<Pos>
-					<x>36</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights>
-					<Item>
-						<Pos>
-							<x>0</x>
-							<y>0</y>
-							<z>5</z>
-						</Pos>
-						<Color>
-							<x>1</x>
-							<y>0.501961</y>
-							<z>0</z>
-						</Color>
-						<Radius>25</Radius>
-					</Item>
-				</pointLights>
-				<Shared href="/MapObjects/Campfire.(AdvMapTreasureShared).xdb#xpointer(/AdvMapTreasureShared)"/>
-				<IsCustom>false</IsCustom>
-				<Amount>0</Amount>
-				<MessageFileRef href=""/>
-			</AdvMapTreasure>
-		</Item>
 		<Item href="#n:inline(AdvMapTreasure)" id="item_9ADB4ED7-A552-410E-AF23-00E04908EDEB">
 			<AdvMapTreasure>
 				<Pos>
@@ -1713,60 +1361,6 @@
 				<Amount>0</Amount>
 				<MessageFileRef href=""/>
 			</AdvMapTreasure>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_2197B87A-331A-4A41-A0B9-84B4CA69053E">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>43</y>
-					<z>0</z>
-				</Pos>
-				<Rot>4.51509</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Smoke/Fog.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_0A89B9A1-2E9B-4A7D-8433-991E77699F71">
-			<AdvMapStatic>
-				<Pos>
-					<x>31</x>
-					<y>44</y>
-					<z>0</z>
-				</Pos>
-				<Rot>4.51509</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Smoke/Fog.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_888F234D-19C6-4732-A2E8-9F202514CD47">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>38</y>
-					<z>0</z>
-				</Pos>
-				<Rot>4.51509</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Effects/Smoke/Fog.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
 		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_5C8D5970-14CE-42F7-91DC-829F4A409D19">
 			<AdvMapStatic>

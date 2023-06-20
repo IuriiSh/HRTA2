@@ -28,11 +28,11 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>GhostFSLord3</InternalName>
+	<InternalName>GhostFSLord</InternalName>
 	<Class>HERO_CLASS_RANGER</Class>
 	<Specialization>HERO_SPEC_NONE</Specialization>
 	<PrimarySkill>
-		<Mastery>MASTERY_EXPERT</Mastery>
+		<Mastery>MASTERY_BASIC</Mastery>
 		<SkillID>HERO_SKILL_AVENGER</SkillID>
 	</PrimarySkill>
 	<SpecializationNameFileRef href="/Text/Game/Heroes/Specializations/Preserve/SpecTieru/Name.txt"/>
@@ -55,7 +55,7 @@
 		<Knowledge>2</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
+			<Item>HERO_SKILL_SNIPE_DEAD</Item>
 		</perkIDs>
 		<spellIDs/>
 		<Ballista>false</Ballista>

@@ -32,8 +32,9 @@
 		<Crystal>0</Crystal>
 		<Sulfur>0</Sulfur>
 		<Gem>0</Gem>
-		<Gold>950</Gold>
+		<Gold>900</Gold>
 	</Cost>
+	<PresetPrice>0</PresetPrice>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Preserve/War_Unicorn.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>

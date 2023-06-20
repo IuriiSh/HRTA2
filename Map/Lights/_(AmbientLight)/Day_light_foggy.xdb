@@ -88,7 +88,7 @@
 	<Rain href="#n:inline(ParticleInstance)" id="item_b4a95bcc-2b2a-440c-aa02-756e7ac63c88">
 		<ParticleInstance ObjectRecordID="305">
 			<SrcName/>
-			<Light>L_NORMAL</Light>
+			<Light>L_LIT</Light>
 			<Particle href="#n:inline(Particle)" id="item_b8f7ade4-666d-47c0-9584-0952bd904ab5">
 				<Particle ObjectRecordID="91">
 					<SrcName href="/Effects/Environment/Rain/RainTest.mb"/>
@@ -116,7 +116,7 @@
 			<Scale>1</Scale>
 			<Speed>1</Speed>
 			<Offset>0</Offset>
-			<EndCycle>3</EndCycle>
+			<EndCycle>0</EndCycle>
 			<CycleCount>0</CycleCount>
 			<Pivot>
 				<x>0</x>
@@ -147,8 +147,8 @@
 	<ShadowsMaxDetailLength>10</ShadowsMaxDetailLength>
 	<HeightFog/>
 	<DepthOfField/>
-	<DistanceFog href="/_(DistanceFog)/Taiga_fog.xdb#xpointer(/DistanceFog)"/>
-	<SkyDome href="/_(Model)/SkyDomes/SkyDome_Strongold_Sphere.xdb#xpointer(/Model)"/>
+	<DistanceFog/>
+	<SkyDome/>
 	<DymanicLightsModifications>
 		<x>1</x>
 		<y>1</y>

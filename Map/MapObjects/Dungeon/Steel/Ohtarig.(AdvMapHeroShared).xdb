@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Ohtarig3</InternalName>
+	<InternalName>Ohtarig</InternalName>
 	<Class>HERO_CLASS_WARLOCK</Class>
 	<Specialization>HERO_SPEC_DEFENDER</Specialization>
 	<PrimarySkill>
@@ -55,8 +55,7 @@
 		<Knowledge>1</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_ELEMENTAL_VISION</Item>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
+			
 		</perkIDs>
 		<spellIDs>
 			<Item>SPELL_MAGIC_ARROW</Item>
@@ -66,6 +65,7 @@
 		<FirstAidTent>false</FirstAidTent>
 		<AmmoCart>false</AmmoCart>
 		<FavoriteEnemies/>
+		<TalismanLevel>0</TalismanLevel>
 	</Editable>
 	<ArrowButtonState>0</ArrowButtonState>
 	<Decal/>
@@ -76,4 +76,10 @@
 	<ScenarioHero>false</ScenarioHero>
 	<AdventureMusic/>
 	<HideInEditor>false</HideInEditor>
+	<PresetMinimalAttributes>
+		<Offence>2</Offence>
+		<Defence>2</Defence>
+		<Spellpower>2</Spellpower>
+		<Knowledge>2</Knowledge>
+	</PresetMinimalAttributes>
 </AdvMapHeroShared>

@@ -15,19 +15,19 @@
 	<damage>
 		<Item>
 			<Base>32</Base>
-			<PerPower>9</PerPower>
+			<PerPower>8</PerPower>
 		</Item>
 		<Item>
 			<Base>32</Base>
-			<PerPower>9</PerPower>
+			<PerPower>8</PerPower>
 		</Item>
 		<Item>
 			<Base>40</Base>
-			<PerPower>9</PerPower>
+			<PerPower>8</PerPower>
 		</Item>
 		<Item>
 			<Base>48</Base>
-			<PerPower>9</PerPower>
+			<PerPower>8</PerPower>
 		</Item>
 	</damage>
 	<duration/>

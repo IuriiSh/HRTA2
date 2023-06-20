@@ -32,8 +32,9 @@
 		<Crystal>0</Crystal>
 		<Sulfur>0</Sulfur>
 		<Gem>0</Gem>
-		<Gold>70</Gold>
+		<Gold>60</Gold>
 	</Cost>
+	<PresetPrice>0</PresetPrice>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Preserve/Alt_upgrade/Dryad.xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>1</CombatSize>

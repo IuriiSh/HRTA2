@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature>
-	<AttackSkill>13</AttackSkill>
-	<DefenceSkill>13</DefenceSkill>
+	<AttackSkill>21</AttackSkill>
+	<DefenceSkill>21</DefenceSkill>
 	<Shots>0</Shots>
 	<MinDamage>14</MinDamage>
 	<MaxDamage>19</MaxDamage>
@@ -48,6 +48,6 @@
 		<Item>ABILITY_LUCK_GAMBLER</Item>
 		<Item>ABILITY_MAGIC_PROOF_75</Item>
 		<Item>ABILITY_IMMUNITY_TO_AIR</Item>
-		<Item>ABILITY_INCORPOREAL</Item>
+		<Item>ABILITY_FEAR</Item>
 	</Abilities>
 </Creature>

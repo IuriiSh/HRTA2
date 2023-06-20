@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Inagost4</InternalName>
+	<InternalName>Inagost2</InternalName>
 	<Class>HERO_CLASS_WARLOCK</Class>
 	<Specialization>HERO_SPEC_POWER_BARGAIN</Specialization>
 	<PrimarySkill>
@@ -55,8 +55,7 @@
 		<Knowledge>1</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_ELEMENTAL_VISION</Item>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
+			
 		</perkIDs>
 		<spellIDs>
 			<Item>SPELL_MAGIC_ARROW</Item>

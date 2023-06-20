@@ -55,7 +55,7 @@
 		<Knowledge>1</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_ELEMENTAL_VISION</Item>
+			
 		</perkIDs>
 		<spellIDs>
 			<Item>SPELL_PLAGUE</Item>

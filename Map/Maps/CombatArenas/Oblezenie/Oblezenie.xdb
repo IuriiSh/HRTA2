@@ -641,11 +641,11 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_84C3E7D0-639E-456B-BC96-33AE250E9BF1">
 			<AdvMapStatic>
 				<Pos>
-					<x>36</x>
-					<y>45</y>
+					<x>35</x>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
-				<Rot>5</Rot>
+				<Rot>0.287611</Rot>
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>

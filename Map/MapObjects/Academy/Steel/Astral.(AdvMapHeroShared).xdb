@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Astral3</InternalName>
+	<InternalName>Astral</InternalName>
 	<Class>HERO_CLASS_WIZARD</Class>
 	<Specialization>HERO_SPEC_INEXHAUSTIBLE</Specialization>
 	<PrimarySkill>
@@ -54,9 +54,7 @@
 		<Spellpower>2</Spellpower>
 		<Knowledge>3</Knowledge>
 		<skills/>
-		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
-		</perkIDs>
+		<perkIDs/>
 		<spellIDs>
 			<Item>SPELL_MAGIC_ARROW</Item>
 		</spellIDs>

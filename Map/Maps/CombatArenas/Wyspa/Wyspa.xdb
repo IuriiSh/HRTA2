@@ -896,6 +896,258 @@
 				<showCameras/>
 			</AdvMapBuilding>
 		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_C9860931-A69E-4482-93A6-CDC0E310F252">
+			<AdvMapStatic>
+				<Pos>
+					<x>31</x>
+					<y>40</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/TESTS/BrokenGolem.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_94057F6F-696D-4593-BF3A-CC0DA584380E">
+			<AdvMapStatic>
+				<Pos>
+					<x>36</x>
+					<y>34</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_A330DBC8-7141-48BB-99E2-3BDE699AAD79">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>36</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>60</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_8D9774B3-337E-4677-8883-13F1DC7ADF84">
+			<AdvMapStatic>
+				<Pos>
+					<x>40</x>
+					<y>38</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_2FBEC0EA-C14F-423D-B63F-37FD1791D4A8">
+			<AdvMapStatic>
+				<Pos>
+					<x>40</x>
+					<y>30</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>70</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_08666F48-76F8-42C5-B25F-E202E84C95B8">
+			<AdvMapStatic>
+				<Pos>
+					<x>34</x>
+					<y>37</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>80</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_BE620B86-065C-48F8-9CC4-882214C6E17B">
+			<AdvMapStatic>
+				<Pos>
+					<x>34</x>
+					<y>37</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>60</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_4FA74F7B-62C4-4601-8C09-BADA625B1D51">
+			<AdvMapStatic>
+				<Pos>
+					<x>35</x>
+					<y>31</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>70</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_DC0B170F-2A1F-4E97-920B-926433504748">
+			<AdvMapStatic>
+				<Pos>
+					<x>39</x>
+					<y>33</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>90</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_42A6DE2B-DD4B-4F85-B59D-9912AC481C78">
+			<AdvMapStatic>
+				<Pos>
+					<x>41</x>
+					<y>35</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Siren.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>50</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_63D6510E-C793-4641-B379-8AE7868F4056">
+			<AdvMapStatic>
+				<Pos>
+					<x>46</x>
+					<y>30</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Surf_big.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_74EEF61D-834B-482F-8387-E766E6058904">
+			<AdvMapStatic>
+				<Pos>
+					<x>46</x>
+					<y>35</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Surf_big.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_2BC83A8B-82AD-4E32-98A2-763FFC5B0CE6">
+			<AdvMapStatic>
+				<Pos>
+					<x>26</x>
+					<y>38</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Surf_big.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_FFBB21FD-D89F-497A-8544-821B19D5313D">
+			<AdvMapStatic>
+				<Pos>
+					<x>27</x>
+					<y>31</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Water/Surf_big.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>

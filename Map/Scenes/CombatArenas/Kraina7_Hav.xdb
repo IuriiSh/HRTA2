@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdventureFlybyScene ObjectRecordID="1000061">
-	<Scenery href="/Maps/CombatArenas/Las1_Hav/Las1_Hav.xdb#xpointer(/AdvMapDesc)"/>
+	<Scenery href="/Maps/CombatArenas/Kraina7_Hav/Kraina7_Hav.xdb#xpointer(/AdvMapDesc)"/>
 	<cameraFlyupRole>
 		<Model/>
 		<AnimSet/>

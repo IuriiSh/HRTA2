@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Thralsai3</InternalName>
+	<InternalName>Thralsai</InternalName>
 	<Class>HERO_CLASS_WARLOCK</Class>
 	<Specialization>HERO_SPEC_NONE</Specialization>
 	<PrimarySkill>
@@ -37,7 +37,7 @@
 	</PrimarySkill>
 	<SpecializationNameFileRef href="/Text/Game/Heroes/Specializations/Dungeon/SpecThralsai/Name.txt"/>
 	<SpecializationDescFileRef href="/Text/Game/Heroes/Specializations/Dungeon/SpecThralsai/Description.txt"/>
-	<SpecializationIcon href="/Textures/HeroScreen/Specializations/Dungeon/Dark_Acolyte.xdb#xpointer(/Texture)"/>
+	<SpecializationIcon href="/UI/H5A0/Icons/Heroes_Specializations/Manti.xdb#xpointer(/Texture)"/>
 	<FaceTexture href="/UI/H5A1/Icons/Heroes/Portrets128x128/Thralsai.(Texture).xdb#xpointer(/Texture)"/>
 	<FaceTextureSmall href="/UI/H5A1/Icons/Heroes/Portrets128x128/Thralsai.(Texture).xdb#xpointer(/Texture)"/>
 	<HeroCharacterArena href="/Characters/Heroes/Thralsai.(Character).xdb#xpointer(/Character)"/>
@@ -55,14 +55,14 @@
 		<Knowledge>1</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_ELEMENTAL_VISION</Item>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
+			
 		</perkIDs>
 		<spellIDs/>
 		<Ballista>false</Ballista>
 		<FirstAidTent>false</FirstAidTent>
 		<AmmoCart>false</AmmoCart>
 		<FavoriteEnemies/>
+		<TalismanLevel>0</TalismanLevel>
 	</Editable>
 	<ArrowButtonState>0</ArrowButtonState>
 	<Decal/>
@@ -73,4 +73,10 @@
 	<ScenarioHero>false</ScenarioHero>
 	<AdventureMusic/>
 	<HideInEditor>false</HideInEditor>
+	<PresetMinimalAttributes>
+		<Offence>2</Offence>
+		<Defence>2</Defence>
+		<Spellpower>2</Spellpower>
+		<Knowledge>2</Knowledge>
+	</PresetMinimalAttributes>
 </AdvMapHeroShared>

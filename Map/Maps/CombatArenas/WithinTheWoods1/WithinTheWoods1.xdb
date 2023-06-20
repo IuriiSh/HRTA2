@@ -786,7 +786,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>35</x>
-					<y>29</y>
+					<y>40</y>
 					<z>0</z>
 				</Pos>
 				<Rot>6.12637</Rot>
@@ -797,7 +797,7 @@
 				<Shared href="/MapObjects/Taiga/Trees/Sosna_02.xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
+				<ScalePercent>80</ScalePercent>
 			</AdvMapStatic>
 		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_97182EDE-3CC3-4EF2-AEE6-87655661DAE1">
@@ -1253,8 +1253,8 @@
 		<Item href="#n:inline(AdvMapBuilding)" id="item_27DFCE1A-E0B6-4D5D-A2A7-E3575CE65D90">
 			<AdvMapBuilding>
 				<Pos>
-					<x>34</x>
-					<y>26</y>
+					<x>35</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -1273,6 +1273,60 @@
 				<showCameras/>
 			</AdvMapBuilding>
 		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_D2AE942C-1A1B-4D28-8E6E-321D1DDBDDF2">
+			<AdvMapStatic>
+				<Pos>
+					<x>32</x>
+					<y>35</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Grass/Rays/Rays_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_77288A5D-F352-4C84-894E-527E6B92466D">
+			<AdvMapStatic>
+				<Pos>
+					<x>37</x>
+					<y>35</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Grass/Rays/Rays_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_8D3CDEC9-9C78-466A-838A-2053E31B16BC">
+			<AdvMapStatic>
+				<Pos>
+					<x>33</x>
+					<y>33</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Grass/Rays/Rays_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>
@@ -1286,7 +1340,7 @@
 	<UndergroundAmbientLights>
 		<Item/>
 	</UndergroundAmbientLights>
-	<ReflectiveWater>false</ReflectiveWater>
+	<ReflectiveWater>true</ReflectiveWater>
 	<tiles>
 		<Item href="/MapObjects/_(AdvMapTile)/Grass/Dark_Grass.xdb#xpointer(/AdvMapTile)"/>
 		<Item href="/MapObjects/_(AdvMapTile)/Grass/Rock_Floor_green_grass.xdb#xpointer(/AdvMapTile)"/>

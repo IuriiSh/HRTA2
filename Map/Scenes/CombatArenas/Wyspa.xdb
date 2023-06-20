@@ -20,7 +20,7 @@
 	</MountPoint>
 	<AdditionalHeight>0</AdditionalHeight>
 	<Music/>
-	<AmbientSoundSet href="/Sounds/_(Ambient)/TerrainAmbients/Dirt_Big.xdb#xpointer(/AmbientSoundSet)"/>
+	<AmbientSoundSet href="/Sounds/_(Ambient)/TerrainAmbients/Sea.xdb#xpointer(/AmbientSoundSet)"/>
 	<TextFormatFileRef href=""/>
 	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/SandArena/SandObstacles.xdb#xpointer(/ArenaObstaclesGroup)"/>
 	<CamerasSet/>

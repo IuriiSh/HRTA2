@@ -22,7 +22,7 @@
 	<Music/>
 	<AmbientSoundSet href="/Sounds/_(Ambient)/TerrainAmbients/Dirt_Big.xdb#xpointer(/AmbientSoundSet)"/>
 	<TextFormatFileRef href=""/>
-	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/ElementalPrzeszkody.xdb#xpointer(/ArenaObstaclesGroup)"/>
+	<ObstaclesGroup href="/ArenaObjects/_(ArenaObstaclesGroup)/SandArena/SandObstacles.xdb#xpointer(/ArenaObstaclesGroup)"/>
 	<CamerasSet/>
 	<MeleeAttackPoints>
 		<Use>false</Use>

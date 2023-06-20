@@ -27,7 +27,7 @@
 		</Item>
 		<Item>
 			<Base>20</Base>
-			<PerPower>22</PerPower>
+			<PerPower>21</PerPower>
 		</Item>
 	</damage>
 	<duration/>

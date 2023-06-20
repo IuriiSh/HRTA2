@@ -257,6 +257,8 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -264,6 +266,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Necr_1_Up_Miasto.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus2.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Dirt_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -271,6 +275,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Necr_1_Up_Miasto.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus2.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Dirt_Big_02.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -278,6 +284,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Necr_1_Up_Miasto.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus2.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Dirt_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -287,6 +295,8 @@
 					<Item href="/Scenes/CombatArenas/Dirt_Small_02.xdb#xpointer(/AdventureFlybyScene)"/>
 				</newArenas>
 				<waterArenas>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -294,6 +304,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Necr_1_Up_Miasto.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus2.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/River_Dirt_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -303,6 +315,8 @@
 					<Item href="/Scenes/CombatArenas/River_Dirt_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
 				</waterArenas>
 				<deepWaterArenas>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -310,6 +324,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Necr_1_Up_Miasto.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus2.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Beach_Dirt_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -317,6 +333,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Necr_1_Up_Miasto.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus2.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Beach_Dirt_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/Necr1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina8_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_olch.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Broken_Bridge.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -356,6 +374,9 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -370,6 +391,9 @@
 					<Item href="/Scenes/CombatArenas/test7.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test91.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Grass_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -384,6 +408,9 @@
 					<Item href="/Scenes/CombatArenas/test7.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test91.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Grass_Big_02.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -401,6 +428,9 @@
 					<Item/>
 				</newArenas>
 				<waterArenas>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -417,6 +447,9 @@
 					<Item href="/Scenes/CombatArenas/River_Grass_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
 				</waterArenas>
 				<deepWaterArenas>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -431,6 +464,9 @@
 					<Item href="/Scenes/CombatArenas/test7.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test91.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Beach_Grass_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -445,6 +481,9 @@
 					<Item href="/Scenes/CombatArenas/test7.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test91.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Beach_Grass_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Kraina1_Hav.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/ForestBorder1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_02.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test4.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test9.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test12.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -716,6 +755,7 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+					<Item href="/Scenes/CombatArenas/UpHillGoldMine1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_acsq.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_11.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Akademia_1_Miasto1.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -725,6 +765,7 @@
 					<Item href="/Scenes/CombatArenas/DesertStorm1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test10.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Sand_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/UpHillGoldMine1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_acsq.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_11.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Akademia_1_Miasto1.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -734,6 +775,7 @@
 					<Item href="/Scenes/CombatArenas/DesertStorm1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test10.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Sand_Big_02.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/UpHillGoldMine1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_acsq.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_11.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Akademia_1_Miasto1.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -743,6 +785,7 @@
 					<Item href="/Scenes/CombatArenas/DesertStorm1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test10.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Sand_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/UpHillGoldMine1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_acsq.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_11.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Akademia_1_Miasto1.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -755,6 +798,7 @@
 				</newArenas>
 				<waterArenas/>
 				<deepWaterArenas>
+					<Item href="/Scenes/CombatArenas/UpHillGoldMine1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_acsq.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_11.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Akademia_1_Miasto1.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -764,6 +808,7 @@
 					<Item href="/Scenes/CombatArenas/DesertStorm1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test10.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Beach_Sand_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/UpHillGoldMine1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_acsq.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_11.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Akademia_1_Miasto1.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -792,6 +837,8 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+					<Item href="/Scenes/CombatArenas/SnowUtopia1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Schody.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Krasnale.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_cofj.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_06.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -800,6 +847,8 @@
 					<Item href="/Scenes/CombatArenas/FrostbittenForest1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test3.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Snow_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/SnowUtopia1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Schody.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Krasnale.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_cofj.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_06.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -810,6 +859,8 @@
 					<Item href="/Scenes/CombatArenas/Snow_02.xdb#xpointer(/AdventureFlybyScene)"/>
 				</newArenas>
 				<waterArenas>
+					<Item href="/Scenes/CombatArenas/SnowUtopia1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Schody.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Krasnale.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_cofj.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_06.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -820,6 +871,8 @@
 					<Item href="/Scenes/CombatArenas/River_Snow_01.xdb#xpointer(/AdventureFlybyScene)"/>
 				</waterArenas>
 				<deepWaterArenas>
+					<Item href="/Scenes/CombatArenas/SnowUtopia1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/Schody.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Krasnale.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_cofj.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_06.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -934,6 +987,10 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -941,6 +998,10 @@
 					<Item href="/Scenes/CombatArenas/LavaCitadel.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_08.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Lava_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -955,6 +1016,10 @@
 					<Item href="/Scenes/CombatArenas/LavaCitadel.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_08.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Lava_Big_02.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -964,6 +1029,10 @@
 					<Item href="/Scenes/CombatArenas/Lava_Small_02.xdb#xpointer(/AdventureFlybyScene)"/>
 				</newArenas>
 				<waterArenas>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -971,6 +1040,10 @@
 					<Item href="/Scenes/CombatArenas/LavaCitadel.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_08.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/River_Lava_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -980,6 +1053,10 @@
 					<Item href="/Scenes/CombatArenas/River_Lava_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
 				</waterArenas>
 				<deepWaterArenas>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -987,6 +1064,10 @@
 					<Item href="/Scenes/CombatArenas/LavaCitadel.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_08.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Beach_Lava_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/LavaLand2.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/my_arena_04.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/PW_Loch_5_Z_Ognia.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/arena_bomu.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/AttackOnHaven1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/test.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1099,6 +1180,8 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+                              <Item href="/Scenes/CombatArenas/dung1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/DeepUnderground1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Loch_1_Urw_Mosty.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_13.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1106,6 +1189,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Loch_4_Bagna.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/TheCore.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Subterra_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/dung1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/DeepUnderground1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Loch_1_Urw_Mosty.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_13.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1113,6 +1198,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Loch_4_Bagna.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/TheCore.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Subterra_big_02.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/dung1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/DeepUnderground1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Loch_1_Urw_Mosty.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_13.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1120,6 +1207,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Loch_4_Bagna.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/TheCore.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Subterra_Small_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/dung1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/DeepUnderground1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Loch_1_Urw_Mosty.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_13.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1129,6 +1218,8 @@
 					<Item href="/Scenes/CombatArenas/Subterra_Small_02.xdb#xpointer(/AdventureFlybyScene)"/>
 				</newArenas>
 				<waterArenas>
+                              <Item href="/Scenes/CombatArenas/dung1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/DeepUnderground1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Loch_1_Urw_Mosty.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_13.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1136,6 +1227,8 @@
 					<Item href="/Scenes/CombatArenas/PW_Loch_4_Bagna.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/TheCore.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/River_SubTerra_Big_01.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/dung1.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/DeepUnderground1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/plus.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Loch_1_Urw_Mosty.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_13.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1248,18 +1341,27 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Oblezenie.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Twierdza_1_Osada1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="Orkish_Medium1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Oblezenie.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Twierdza_1_Osada1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="Orkish_Medium2.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1268,6 +1370,9 @@
 					<Item href="Orkish_Medium3.xdb#xpointer(/AdventureFlybyScene)"/>
 				</newArenas>
 				<waterArenas>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1276,6 +1381,9 @@
 					<Item href="River_Orkish_01.xdb#xpointer(/AdventureFlybyScene)"/>
 				</waterArenas>
 				<deepWaterArenas>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1301,18 +1409,27 @@
 			<average>
 				<OldArena/>
 				<newArenas>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Oblezenie.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Twierdza_1_Osada1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="Orkish_Medium1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Oblezenie.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/PW_Twierdza_1_Osada1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="Orkish_Medium2.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1321,6 +1438,9 @@
 					<Item href="Orkish_Medium3.xdb#xpointer(/AdventureFlybyScene)"/>
 				</newArenas>
 				<waterArenas>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>
@@ -1329,6 +1449,9 @@
 					<Item href="River_Orkish_01.xdb#xpointer(/AdventureFlybyScene)"/>
 				</waterArenas>
 				<deepWaterArenas>
+                              <Item href="/Scenes/CombatArenas/tayga1.xdb#xpointer(/AdventureFlybyScene)"/>
+                              <Item href="/Scenes/CombatArenas/seahill.xdb#xpointer(/AdventureFlybyScene)"/>
+					<Item href="/Scenes/CombatArenas/OrkishTraining1.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/Khan.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_01.xdb#xpointer(/AdventureFlybyScene)"/>
 					<Item href="/Scenes/CombatArenas/my_arena_07.xdb#xpointer(/AdventureFlybyScene)"/>

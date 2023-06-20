@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Tan3</InternalName>
+	<InternalName>Tan</InternalName>
 	<Class>HERO_CLASS_WIZARD</Class>
 	<Specialization>HERO_SPEC_NONE</Specialization>
 	<PrimarySkill>
@@ -54,16 +54,15 @@
 		<Spellpower>2</Spellpower>
 		<Knowledge>3</Knowledge>
 		<skills/>
-		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
-		</perkIDs>
+		<perkIDs/>
 		<spellIDs>
-			<Item>SPELL_DISPEL</Item>
+			<Item>SPELL_STONESKIN</Item>
 		</spellIDs>
 		<Ballista>false</Ballista>
 		<FirstAidTent>false</FirstAidTent>
 		<AmmoCart>false</AmmoCart>
 		<FavoriteEnemies/>
+		<TalismanLevel>0</TalismanLevel>
 	</Editable>
 	<ArrowButtonState>0</ArrowButtonState>
 	<Decal/>
@@ -74,4 +73,10 @@
 	<ScenarioHero>false</ScenarioHero>
 	<AdventureMusic/>
 	<HideInEditor>false</HideInEditor>
+	<PresetMinimalAttributes>
+		<Offence>2</Offence>
+		<Defence>2</Defence>
+		<Spellpower>2</Spellpower>
+		<Knowledge>2</Knowledge>
+	</PresetMinimalAttributes>
 </AdvMapHeroShared>

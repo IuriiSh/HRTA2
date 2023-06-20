@@ -11,8 +11,7 @@
 	<Level>3</Level>
 	<MagicSchool>MAGIC_SCHOOL_LIGHT</MagicSchool>
 	<RequiredHeroLevel>0</RequiredHeroLevel>
-	<IsAimed>true</IsAimed>
-	<TrainedCost>8</TrainedCost>
+	<TrainedCost>12</TrainedCost>
 	<damage>
 		<Item>
 			<Base>75</Base>
@@ -66,11 +65,15 @@
 		<Gem>0</Gem>
 		<Gold>0</Gold>
 	</sSpellCost>
+	<IsAimed>true</IsAimed>
 	<IsAreaAttack>false</IsAreaAttack>
 	<CanSelectDead>false</CanSelectDead>
 	<Target>TARGET_FRIEND</Target>
 	<Element>ELEMENT_NONE</Element>
+	<DamageIsElemental>true</DamageIsElemental>
 	<visuals>
 		<Item href="Regeneration.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
 	</visuals>
+	<PresetPrice>0</PresetPrice>
+	<AvailableForPresets>true</AvailableForPresets>
 </Spell>

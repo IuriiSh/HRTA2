@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDescTag>
-	<AdvMapDesc href="Half-RTA_1.23/map.xdb#xpointer(/AdvMapDesc)"/>
-	<NameFileRef href="Half-RTA_1.23/name.txt"/>
-	<DescriptionFileRef href="Half-RTA_1.23/description.txt"/>
+	<AdvMapDesc href="Half-RTA_1.26.2/map.xdb#xpointer(/AdvMapDesc)"/>
+	<NameFileRef href="Half-RTA_1.26.2/name.txt"/>
+	<DescriptionFileRef href="Half-RTA_1.26.2/description.txt"/>
 	<TileX>96</TileX>
 	<TileY>96</TileY>
 	<MapGoal href="MapGoalText.28.txt"/>
@@ -12,7 +12,7 @@
 		<Item>1</Item>
 	</teams>
 	<thumbnailImages>
-		<Item href="hrtapw2.xdb#xpointer(/Texture)"/>
+		<Item href="logo.xdb#xpointer(/Texture)"/>
 	</thumbnailImages>
 	<HasUnderground>true</HasUnderground>
 	<RandomMap>false</RandomMap>

@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Grok3</InternalName>
+	<InternalName>Grok</InternalName>
 	<Class>HERO_CLASS_DEMON_LORD</Class>
 	<Specialization>HERO_SPEC_BEATER</Specialization>
 	<PrimarySkill>
@@ -56,8 +56,6 @@
 		<skills/>
 		<perkIDs>
 			<Item>HERO_SKILL_DEMONIC_RETALIATION</Item>
-			<Item>HERO_SKILL_EXPLODING_CORPSES</Item>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
 		</perkIDs>
 		<spellIDs>
 			<Item>SPELL_TELEPORT</Item>

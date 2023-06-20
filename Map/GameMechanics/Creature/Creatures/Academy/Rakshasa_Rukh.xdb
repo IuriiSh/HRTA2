@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature>
-	<AttackSkill>14</AttackSkill>
-	<DefenceSkill>14</DefenceSkill>
+	<AttackSkill>22</AttackSkill>
+	<DefenceSkill>22</DefenceSkill>
 	<Shots>0</Shots>
 	<MinDamage>14</MinDamage>
 	<MaxDamage>19</MaxDamage>
@@ -52,6 +52,6 @@
 	<Abilities>
 		<Item>ABILITY_RANDOM_CASTER_BLESS</Item>
 		<Item>ABILITY_MAGIC_PROOF_50</Item>
-		<Item>ABILITY_INCORPOREAL</Item>
-	</Abilities>
-</Creature>
+		<Item>ABILITY_FEAR</Item>
+      </Abilities>
+      </Creature>

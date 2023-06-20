@@ -31,7 +31,7 @@
 		</Item>
 		<Item>
 			<Base>0</Base>
-			<PerPower>1</PerPower>
+			<PerPower>0.09</PerPower>
 		</Item>
 	</damage>
 	<duration>
@@ -52,8 +52,8 @@
 			<PerPower>0</PerPower>
 		</Item>
 		<Item>
-			<Base>0</Base>
-			<PerPower>100</PerPower>
+			<Base>2</Base>
+			<PerPower>0</PerPower>
 		</Item>
 	</duration>
 	<sSpellCost>
@@ -74,4 +74,6 @@
 	<visuals>
 		<Item href="Berserk.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
 	</visuals>
+	<PresetPrice>0</PresetPrice>
+	<AvailableForPresets>true</AvailableForPresets>
 </Spell>

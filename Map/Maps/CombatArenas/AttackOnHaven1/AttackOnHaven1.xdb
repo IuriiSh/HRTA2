@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>false</CustomGameMap>
+	<CustomGameMap>true</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -336,7 +336,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>35</x>
-					<y>30</y>
+					<y>28</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -857,7 +857,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_B1697ACE-31B6-47EF-8951-58B32172EC34">
 			<AdvMapStatic>
 				<Pos>
-					<x>32</x>
+					<x>34</x>
 					<y>25</y>
 					<z>0</z>
 				</Pos>
@@ -876,7 +876,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>36</x>
-					<y>28</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -894,7 +894,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>37</x>
-					<y>27</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -966,7 +966,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>32</x>
-					<y>28</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -983,8 +983,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_F620AD37-EE79-4BD3-AD7C-FC286AD8E938">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
-					<y>28</y>
+					<x>35</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1888,6 +1888,168 @@
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>30</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_8E3B343F-0FC6-44C0-AADA-8D18F2F6B9C1">
+			<AdvMapStatic>
+				<Pos>
+					<x>36</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_77F034DC-B04E-40EE-B087-3FEB6DF7933C">
+			<AdvMapStatic>
+				<Pos>
+					<x>35</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_27C6A011-0B7F-45A0-A4FE-71B4E81E4C50">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_B86B89F3-A03B-42ED-8E61-FEBC68734202">
+			<AdvMapStatic>
+				<Pos>
+					<x>33</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_B8D82BFB-84F6-4210-A150-C01B9D2F713D">
+			<AdvMapStatic>
+				<Pos>
+					<x>36</x>
+					<y>24</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_ABE0D3F5-CD37-4559-98C0-D4C42CA6E8CC">
+			<AdvMapStatic>
+				<Pos>
+					<x>32</x>
+					<y>24</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_4976CB79-8A9B-4660-B695-AFBD1CD00F95">
+			<AdvMapStatic>
+				<Pos>
+					<x>34</x>
+					<y>23</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_D88204EE-F710-4BFA-96FA-3960481DB91C">
+			<AdvMapStatic>
+				<Pos>
+					<x>34</x>
+					<y>25</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_EAEAD074-9456-4EA9-9942-CEB8381EE203">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>24</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/testEffect.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
 	</objects>

@@ -6,7 +6,7 @@
 	<MinDamage>23</MinDamage>
 	<MaxDamage>30</MaxDamage>
 	<Speed>6</Speed>
-	<Initiative>10</Initiative>
+	<Initiative>9</Initiative>
 	<Flying>false</Flying>
 	<Health>140</Health>
 	<KnownSpells>
@@ -37,8 +37,9 @@
 		<Crystal>0</Crystal>
 		<Sulfur>0</Sulfur>
 		<Gem>0</Gem>
-		<Gold>1500</Gold>
+		<Gold>1600</Gold>
 	</Cost>
+	<PresetPrice>0</PresetPrice>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Academy/Rakshasa_Rukh.xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>

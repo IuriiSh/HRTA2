@@ -28,7 +28,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Brem5</InternalName>
+	<InternalName>Brem</InternalName>
 	<Class>HERO_CLASS_KNIGHT</Class>
 	<Specialization>HERO_SPEC_NONE</Specialization>
 	<PrimarySkill>
@@ -55,7 +55,6 @@
 		<Knowledge>1</Knowledge>
 		<skills/>
 		<perkIDs>
-			<Item>HERO_SKILL_BARBARIAN_ANCIENT_SMITHY</Item>
 			<Item>HERO_SKILL_ABSOLUTE_CHARGE</Item>
 		</perkIDs>
 		<spellIDs>

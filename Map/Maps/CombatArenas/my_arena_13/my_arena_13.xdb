@@ -23,15 +23,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>10</z>
+							<y>-7</y>
+							<z>1</z>
 						</Pos>
 						<Color>
-							<x>0.156863</x>
-							<y>0</y>
-							<z>0.317647</z>
+							<x>0</x>
+							<y>1</y>
+							<z>1</z>
 						</Color>
-						<Radius>300</Radius>
+						<Radius>20</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="moje/manel1.xdb#xpointer(/AdvMapStaticShared)"/>
@@ -55,15 +55,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>6</z>
+							<y>-4</y>
+							<z>1</z>
 						</Pos>
 						<Color>
 							<x>0</x>
 							<y>1</y>
 							<z>1</z>
 						</Color>
-						<Radius>30</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="moje/manel1.xdb#xpointer(/AdvMapStaticShared)"/>
@@ -87,15 +87,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>6</z>
+							<y>-4</y>
+							<z>1</z>
 						</Pos>
 						<Color>
 							<x>0</x>
 							<y>1</y>
 							<z>1</z>
 						</Color>
-						<Radius>30</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="moje/manel1.xdb#xpointer(/AdvMapStaticShared)"/>
@@ -698,10 +698,10 @@
 	<AmbientLight/>
 	<UndergroundAmbientLight/>
 	<GroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/AdvMap/UndergroundLight.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/Tests/c2m1_dungeons_hellish.xdb#xpointer(/AmbientLight)"/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/Tests/Night.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/Tests/c2m1_dungeons_hellish.xdb#xpointer(/AmbientLight)"/>
 	</UndergroundAmbientLights>
 	<ReflectiveWater>false</ReflectiveWater>
 	<tiles>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -1435,7 +1435,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_B6E6568E-80B1-4CAD-885B-E3F59BD98EB8">
 			<AdvMapStatic>
 				<Pos>
-					<x>29</x>
+					<x>27</x>
 					<y>35</y>
 					<z>0</z>
 				</Pos>
@@ -1453,7 +1453,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_6DF5FD91-F023-48A5-BFB4-3BA718054850">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
+					<x>46</x>
 					<y>35</y>
 					<z>0</z>
 				</Pos>
@@ -1471,7 +1471,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_0D13AAF5-E1D6-4A2A-BC0F-63C45740761F">
 			<AdvMapStatic>
 				<Pos>
-					<x>29</x>
+					<x>28</x>
 					<y>26</y>
 					<z>0</z>
 				</Pos>
@@ -1489,7 +1489,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_446A6DCE-D175-4FF3-87F4-B789B87EDED1">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
+					<x>45</x>
 					<y>26</y>
 					<z>0</z>
 				</Pos>
@@ -1507,7 +1507,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_B3F6BD15-ABC3-4BA0-94EC-F9001E0D906D">
 			<AdvMapStatic>
 				<Pos>
-					<x>30</x>
+					<x>28</x>
 					<y>44</y>
 					<z>0</z>
 				</Pos>
@@ -1525,7 +1525,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_026FFCB4-437D-4B11-8C97-737003E31C32">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
+					<x>45</x>
 					<y>44</y>
 					<z>0</z>
 				</Pos>
@@ -1561,7 +1561,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_AB4C26BB-164E-408E-B314-661DF5F0A156">
 			<AdvMapStatic>
 				<Pos>
-					<x>30</x>
+					<x>29</x>
 					<y>46</y>
 					<z>0</z>
 				</Pos>
@@ -1615,7 +1615,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_29FF5ADD-47BE-4CF2-9AC3-CFA8FC275966">
 			<AdvMapStatic>
 				<Pos>
-					<x>30</x>
+					<x>29</x>
 					<y>24</y>
 					<z>0</z>
 				</Pos>

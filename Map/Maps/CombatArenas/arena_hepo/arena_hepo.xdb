@@ -1145,8 +1145,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_0AB83578-F1D7-4CAC-B11D-16921BEE9F3B">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
-					<y>36</y>
+					<x>43</x>
+					<y>31</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1434,7 +1434,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>32</x>
-					<y>26</y>
+					<y>45</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -1910,7 +1910,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="/MapObjects/Grass/Combat_Arena/Grass_Combat_B2 (2).xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -1928,7 +1928,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="/MapObjects/Grass/Combat_Arena/Grass_Combat_B2 (2).xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -2369,8 +2369,8 @@
 		<Item href="#n:inline(AdvMapDwelling)" id="item_CBADE79B-5CE5-4A1C-B524-2BA6FDE2CDCB">
 			<AdvMapDwelling>
 				<Pos>
-					<x>42</x>
-					<y>31</y>
+					<x>44</x>
+					<y>36</y>
 					<z>0</z>
 				</Pos>
 				<Rot>4.71239</Rot>
@@ -2392,37 +2392,11 @@
 				<LinkToTown/>
 			</AdvMapDwelling>
 		</Item>
-		<Item href="#n:inline(AdvMapDwelling)" id="item_DF518DED-3D8D-4171-97BB-3F023047E21F">
-			<AdvMapDwelling>
-				<Pos>
-					<x>30</x>
-					<y>42</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Haven/ArchersTower.(AdvMapDwellingShared).xdb#xpointer(/AdvMapDwellingShared)"/>
-				<PlayerID>PLAYER_NONE</PlayerID>
-				<CaptureTrigger>
-					<Action>
-						<FunctionName/>
-					</Action>
-				</CaptureTrigger>
-				<RandomCreatures>true</RandomCreatures>
-				<creaturesEnabled/>
-				<RndSource>RND_NONE</RndSource>
-				<LinkToPlayer>PLAYER_NONE</LinkToPlayer>
-				<LinkToTown/>
-			</AdvMapDwelling>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_0519B944-F4AB-49BD-AFA2-747F86A56E19">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
-					<y>33</y>
+					<x>46</x>
+					<y>32</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -2763,8 +2737,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_A3B876C2-C392-4836-B3E4-85EA473F0F30">
 			<AdvMapStatic>
 				<Pos>
-					<x>33</x>
-					<y>46</y>
+					<x>35</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2781,8 +2755,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_E71E1D9D-50FC-462E-983F-8C7CE859D65B">
 			<AdvMapStatic>
 				<Pos>
-					<x>36</x>
-					<y>29</y>
+					<x>32</x>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -2871,8 +2845,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_B1699D62-978A-4054-9A03-82AA8484DC1D">
 			<AdvMapStatic>
 				<Pos>
-					<x>41</x>
-					<y>34</y>
+					<x>43</x>
+					<y>33</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2889,7 +2863,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_0F084823-AC07-4870-828A-A5A172733D82">
 			<AdvMapStatic>
 				<Pos>
-					<x>42</x>
+					<x>44</x>
 					<y>33</y>
 					<z>0</z>
 				</Pos>
@@ -2907,7 +2881,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_24835D8E-E7DD-4752-993B-1D32452DC7D2">
 			<AdvMapStatic>
 				<Pos>
-					<x>42</x>
+					<x>44</x>
 					<y>34</y>
 					<z>0</z>
 				</Pos>
@@ -2925,8 +2899,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_8A5C8734-0232-45E6-84FE-BAAB794173BE">
 			<AdvMapStatic>
 				<Pos>
-					<x>35</x>
-					<y>29</y>
+					<x>33</x>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2943,8 +2917,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_1C74FB2E-212C-4C0D-808F-B607C3A47AED">
 			<AdvMapStatic>
 				<Pos>
-					<x>35</x>
-					<y>30</y>
+					<x>33</x>
+					<y>28</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2979,8 +2953,8 @@
 		<Item href="#n:inline(AdvMapBuilding)" id="item_37586237-2CFA-4BEA-8FB7-88B761483CAD">
 			<AdvMapBuilding>
 				<Pos>
-					<x>34</x>
-					<y>44</y>
+					<x>28</x>
+					<y>43</y>
 					<z>0</z>
 				</Pos>
 				<Rot>6.28319</Rot>
@@ -2999,42 +2973,6 @@
 				<showCameras/>
 			</AdvMapBuilding>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_B2C5C8F0-C528-46EF-BF5F-849A95EBD495">
-			<AdvMapStatic>
-				<Pos>
-					<x>34</x>
-					<y>45</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Bush01/Grass/Grass01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_69101B1F-3591-40E1-86F6-EA631151739F">
-			<AdvMapStatic>
-				<Pos>
-					<x>33</x>
-					<y>43</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Bush01/Grass/Grass03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>
@@ -3043,7 +2981,7 @@
 	<AmbientLight/>
 	<UndergroundAmbientLight/>
 	<GroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/AdvMap/C1M1.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/Scenes/TaigaNight.xdb#xpointer(/AmbientLight)"/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
 		<Item href="/Lights/_(AmbientLight)/Tests/Night.xdb#xpointer(/AmbientLight)"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AmbientLight ObjectRecordID="19">
-	<InternalName/>
+	<InternalName>light2</InternalName>
 	<Name/>
 	<NameFileRef href=""/>
 	<LightColor>
@@ -116,8 +116,8 @@
 			<Scale>1</Scale>
 			<Speed>1</Speed>
 			<Offset>0</Offset>
-			<EndCycle>0</EndCycle>
-			<CycleCount>0</CycleCount>
+			<EndCycle>600</EndCycle>
+			<CycleCount>1</CycleCount>
 			<Pivot>
 				<x>0</x>
 				<y>0</y>

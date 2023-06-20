@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------
 
 START_ATB_MIN_VALUE = 0.00
-START_ATB_MAX_VALUE = 0.10
+START_ATB_MAX_VALUE = 0.02
 QUICKNESS_OF_MIND_ATB_BONUS = 0.3
 WYNGAAL_ATB_BONUS_PER_LEVEL = 0.008
 PATH_OF_WAR_BONUS_PER_STEP = 4
@@ -30,6 +30,7 @@ ASHA_ALLY_TARGETS = 4
 ASHA_ENEMY_TARGETS = 0
 ASHA_FREQUENCY = 2
 NECRO_LORD_RAISE_PERCENT = 0.2
+TOLGAR_TOTAL_FIRES = 2
 
 HERO_1_MANA = 0
 HERO_2_MANA = 0
@@ -233,6 +234,7 @@ guardian_angel_uses = {[0] = 0; 0}
 num_turn = {0, 0, 0}   -- all, hero_att, hero_def
 spellpower_bonus = { 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 14, 16, 19, 21, 24, 28, 32, 36, 41, 46, 52, 58, 66, 74, 83, 93, 104, 117, 131, 150}
 zoltan_use = 0
+tolgar_fires = TOLGAR_TOTAL_FIRES
 
 function OnPrepare()
 
@@ -599,7 +601,25 @@ function UnitMoveNonBlocking(unit)
 			SetUnitManaPoints(unit, 0)
 		end
 		
-
+		if tolgar_fires > 0 and ( IsNamedHero(unit, 'KingTolghar2') or IsNamedHero(unit, 'KingTolghar') ) then
+			local m1 = GetUnitManaPoints(unit)
+			SetUnitManaPoints(unit, 150)
+			local rndX = random(2, 13)
+			local rndY = random(1, 10)
+			repeat sleep() until GetUnitManaPoints(unit) == 150
+			--pcall(UnitCastAreaSpell, unit, SPELL_FIREBALL, 2, 1)
+			--pcall(UnitCastAreaSpell, unit, SPELL_FIREBALL, 13, 1)
+			--pcall(UnitCastAreaSpell, unit, SPELL_FIREBALL, 2, 10)
+			--pcall(UnitCastAreaSpell, unit, SPELL_FIREBALL, 13, 10)
+			pcall(UnitCastAreaSpell, unit, SPELL_FIREBALL, rndX, rndY)
+			tolgar_fires = tolgar_fires - 1
+			
+			SetUnitManaPoints(unit, m1)
+			SetATB(unit, 999)
+		elseif ( IsNamedHero(unit, 'KingTolghar2') or IsNamedHero(unit, 'KingTolghar') ) then
+			tolgar_fires = TOLGAR_TOTAL_FIRES
+		end
+		
 		
 		-- сотрясение земли
 --    if GetHeroSkillMastery(GetFriendlyHero(unit), 176) > 0 then
@@ -809,6 +829,7 @@ function UnitMoveNonBlocking(unit)
 --			  combatSetPause(nil)
 --      end
 --    end
+
     
     -- тележка с боеприпасами
     if GetHeroSkillMastery(ally_hero, 24) > 0  then
@@ -958,6 +979,31 @@ function CombatFinishManualControl()
 end
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 function SaveVar()
 	local t = {[[@SetGameVar('heroes_battle_info', 'return {]]}
 
@@ -988,6 +1034,7 @@ function SaveVar()
 	
 	--consoleCmd([[@ass = GetGameVar('heroes_battle_info')]])
 end
+
 
 ---------------------------------------------------------------------------------------------------
 --  Обработчики событий

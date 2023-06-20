@@ -13,6 +13,7 @@
 		<Item>
 			<Spell>SPELL_ABILITY_RESURRECT_ALLIES</Spell>
 			<Mastery>MASTERY_ADVANCED</Mastery>
+                  
 		</Item>
 	</KnownSpells>
 	<SpellPoints>0</SpellPoints>
@@ -50,5 +51,6 @@
 	<Upgrades/>
 	<Abilities>
 		<Item>ABILITY_RESURRECT_ALLIES</Item>
+            <Item>ABILITY_ENERGY_CHANNEL</Item>
 	</Abilities>
 </Creature>

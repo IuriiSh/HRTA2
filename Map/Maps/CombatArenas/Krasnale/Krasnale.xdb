@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -11,7 +11,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_5B1AB0A2-1415-4BE5-8E02-FF86BFDA8044">
 			<AdvMapStatic>
 				<Pos>
-					<x>27</x>
+					<x>29</x>
 					<y>40</y>
 					<z>0</z>
 				</Pos>
@@ -19,7 +19,21 @@
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>5</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -29,15 +43,29 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_A21FD977-8F68-4290-8B38-DAE70034027C">
 			<AdvMapStatic>
 				<Pos>
-					<x>27</x>
-					<y>29</y>
+					<x>43</x>
+					<y>40</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
-				<pointLights/>
+				<pointLights>
+					<Item>
+						<Pos>
+							<x>0</x>
+							<y>0</y>
+							<z>1</z>
+						</Pos>
+						<Color>
+							<x>1</x>
+							<y>1</y>
+							<z>1</z>
+						</Color>
+						<Radius>5</Radius>
+					</Item>
+				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
@@ -47,7 +75,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_7CE2B7DF-0514-4A19-A99E-7BE1A0365574">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
+					<x>33</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -65,7 +93,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_325D0201-33E3-4D30-959B-E6EE02B1C4FD">
 			<AdvMapStatic>
 				<Pos>
-					<x>36</x>
+					<x>35</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -371,7 +399,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_C3D5BE71-5E23-496F-B595-3058AF2BAAC9">
 			<AdvMapStatic>
 				<Pos>
-					<x>36</x>
+					<x>35</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -389,7 +417,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_200F272A-BE2A-4085-B621-74FC760A691D">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
+					<x>33</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -803,8 +831,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_CE6DB563-77C6-4CA4-AC14-19098B881E9C">
 			<AdvMapStatic>
 				<Pos>
-					<x>45</x>
-					<y>47</y>
+					<x>46</x>
+					<y>50</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -911,8 +939,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_406244BB-FF71-458D-B7C9-5A1869B0F1BB">
 			<AdvMapStatic>
 				<Pos>
-					<x>25</x>
-					<y>44</y>
+					<x>23</x>
+					<y>47</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -929,8 +957,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_63A60DD1-4D3A-486C-8920-79200CCF76DE">
 			<AdvMapStatic>
 				<Pos>
-					<x>44</x>
-					<y>44</y>
+					<x>46</x>
+					<y>48</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -947,8 +975,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_FB289015-1B5C-49AB-9C76-866C82D91243">
 			<AdvMapStatic>
 				<Pos>
-					<x>41</x>
-					<y>47</y>
+					<x>44</x>
+					<y>52</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -965,8 +993,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_908CA373-D35B-40B0-B9C5-2909453D3D44">
 			<AdvMapStatic>
 				<Pos>
-					<x>41</x>
-					<y>45</y>
+					<x>45</x>
+					<y>50</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -983,8 +1011,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_10D5AFF1-6EA5-46F2-89E5-3EF63C9A36C1">
 			<AdvMapStatic>
 				<Pos>
-					<x>26</x>
-					<y>46</y>
+					<x>24</x>
+					<y>49</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1001,8 +1029,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_7D4443C7-72EE-43FF-A9A5-61A435CB7D8D">
 			<AdvMapStatic>
 				<Pos>
-					<x>23</x>
-					<y>50</y>
+					<x>21</x>
+					<y>53</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1019,8 +1047,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_FC5A6E89-3D27-48A5-8D8A-EF42D8E5657B">
 			<AdvMapStatic>
 				<Pos>
-					<x>23</x>
-					<y>48</y>
+					<x>21</x>
+					<y>51</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1037,8 +1065,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_9CDF8BBF-987D-426C-8E3A-3F810E03178E">
 			<AdvMapStatic>
 				<Pos>
-					<x>26</x>
-					<y>50</y>
+					<x>24</x>
+					<y>53</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1055,8 +1083,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_47CB247F-18A1-4BC2-A552-80F514DD7BF4">
 			<AdvMapStatic>
 				<Pos>
-					<x>23</x>
-					<y>53</y>
+					<x>21</x>
+					<y>56</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1109,8 +1137,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_AF4A51C7-778A-45B5-B48C-BDC19760926C">
 			<AdvMapStatic>
 				<Pos>
-					<x>42</x>
-					<y>50</y>
+					<x>44</x>
+					<y>53</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1163,8 +1191,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_F04131D1-8FFC-4513-9451-8B90BA4414DA">
 			<AdvMapStatic>
 				<Pos>
-					<x>29</x>
-					<y>46</y>
+					<x>27</x>
+					<y>49</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1181,8 +1209,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_E6B292F8-6BFF-4077-BFB9-4B0F39F16653">
 			<AdvMapStatic>
 				<Pos>
-					<x>29</x>
-					<y>50</y>
+					<x>27</x>
+					<y>53</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1199,8 +1227,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_E18442A9-7EDF-4DA8-97E7-CE37A4AAB951">
 			<AdvMapStatic>
 				<Pos>
-					<x>27</x>
-					<y>52</y>
+					<x>25</x>
+					<y>55</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -1217,8 +1245,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_89B5B6D5-B427-46CC-87C6-9F7EFBECC59B">
 			<AdvMapStatic>
 				<Pos>
-					<x>25</x>
-					<y>55</y>
+					<x>23</x>
+					<y>58</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2531,7 +2559,7 @@
 		<Item href="#n:inline(AdvMapGarrison)" id="item_7955BD62-CA5F-4413-9C30-1F69FFF05716">
 			<AdvMapGarrison>
 				<Pos>
-					<x>37</x>
+					<x>34</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -2556,8 +2584,8 @@
 		<Item href="#n:inline(AdvMapGarrison)" id="item_5501A65F-7153-4313-8E38-98D704196B6D">
 			<AdvMapGarrison>
 				<Pos>
-					<x>35</x>
-					<y>41</y>
+					<x>34</x>
+					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2581,7 +2609,7 @@
 		<Item href="#n:inline(AdvMapGarrison)" id="item_A9897619-0BDF-415C-846E-E9BE31C5E1BF">
 			<AdvMapGarrison>
 				<Pos>
-					<x>33</x>
+					<x>32</x>
 					<y>41</y>
 					<z>0</z>
 				</Pos>
@@ -2606,7 +2634,7 @@
 		<Item href="#n:inline(AdvMapGarrison)" id="item_849C6E32-1EA4-4903-804F-88A8772B2223">
 			<AdvMapGarrison>
 				<Pos>
-					<x>37</x>
+					<x>36</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -2631,8 +2659,8 @@
 		<Item href="#n:inline(AdvMapGarrison)" id="item_46FAEB87-2C85-4F7B-9E7B-4AE25A271AA9">
 			<AdvMapGarrison>
 				<Pos>
-					<x>35</x>
-					<y>42</y>
+					<x>36</x>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2656,7 +2684,7 @@
 		<Item href="#n:inline(AdvMapGarrison)" id="item_EF7B2261-4067-4BCC-831D-43CD0AF9CC09">
 			<AdvMapGarrison>
 				<Pos>
-					<x>33</x>
+					<x>32</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -2681,7 +2709,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_1DD8430E-51D9-499C-A856-15859FF8BF19">
 			<AdvMapStatic>
 				<Pos>
-					<x>36</x>
+					<x>35</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -2699,7 +2727,7 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_A6535278-5D0C-4362-9437-7CBD39CCEA70">
 			<AdvMapStatic>
 				<Pos>
-					<x>34</x>
+					<x>33</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
@@ -2718,7 +2746,7 @@
 			<AdvMapGarrison>
 				<Pos>
 					<x>35</x>
-					<y>28</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2743,7 +2771,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>35</x>
-					<y>28</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2761,7 +2789,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>32</x>
-					<y>28</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2779,7 +2807,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>35</x>
-					<y>28</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.15</Rot>
@@ -2797,7 +2825,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>30</x>
-					<y>28</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -2815,7 +2843,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>38</x>
-					<y>28</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.15</Rot>
@@ -2833,25 +2861,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>41</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.15</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_2122C2CD-0C8B-48EF-9C42-2430D35F10BA">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>41</y>
+					<y>26</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.15</Rot>
@@ -2868,44 +2878,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_3B090B87-3806-43AC-A4C4-A30A6BAEA837">
 			<AdvMapStatic>
 				<Pos>
-					<x>43</x>
+					<x>42</x>
 					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.15</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_9434CE6F-01E3-4EF0-BA08-AC2B773ACEE8">
-			<AdvMapStatic>
-				<Pos>
-					<x>40</x>
-					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.15</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_F9509CC4-AB90-4AF6-B004-267741D103D4">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.15</Rot>
@@ -2922,47 +2896,11 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_6E4B8214-8F4C-476A-8DD1-063FDD183A35">
 			<AdvMapStatic>
 				<Pos>
-					<x>43</x>
+					<x>42</x>
 					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.15</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_ECC1AD3D-A610-43D5-AE48-DCDB7B592685">
-			<AdvMapStatic>
-				<Pos>
-					<x>40</x>
-					<y>42</y>
-					<z>0</z>
-				</Pos>
-				<Rot>3.15</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_1D708323-12CD-456B-83ED-9965859D4AA7">
-			<AdvMapStatic>
-				<Pos>
-					<x>33</x>
-					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
@@ -2978,24 +2916,6 @@
 				<Pos>
 					<x>30</x>
 					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_6E73D2D9-4B65-4EA0-B23B-C0A0A9233A24">
-			<AdvMapStatic>
-				<Pos>
-					<x>33</x>
-					<y>42</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3250,7 +3170,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>26</x>
-					<y>37</y>
+					<y>38</y>
 					<z>0</z>
 				</Pos>
 				<Rot>4.7</Rot>
@@ -3263,52 +3183,6 @@
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapBuilding)" id="item_39925E94-C92C-47DC-BC34-37D933827A35">
-			<AdvMapBuilding>
-				<Pos>
-					<x>42</x>
-					<y>48</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Redwood_Observatory_Snow.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
-				<PlayerID>PLAYER_NONE</PlayerID>
-				<CaptureTrigger>
-					<Action>
-						<FunctionName/>
-					</Action>
-				</CaptureTrigger>
-				<GroupID>0</GroupID>
-				<showCameras/>
-			</AdvMapBuilding>
-		</Item>
-		<Item href="#n:inline(AdvMapBuilding)" id="item_C4D19FAE-3DA0-4F76-8BA7-0F9EA11CE82B">
-			<AdvMapBuilding>
-				<Pos>
-					<x>35</x>
-					<y>57</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Redwood_Observatory_Snow.(AdvMapBuildingShared).xdb#xpointer(/AdvMapBuildingShared)"/>
-				<PlayerID>PLAYER_NONE</PlayerID>
-				<CaptureTrigger>
-					<Action>
-						<FunctionName/>
-					</Action>
-				</CaptureTrigger>
-				<GroupID>0</GroupID>
-				<showCameras/>
-			</AdvMapBuilding>
 		</Item>
 		<Item href="#n:inline(AdvMapBuilding)" id="item_7B57542C-25A6-41B8-BD02-52D864DC9B7A">
 			<AdvMapBuilding>
@@ -3429,7 +3303,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>41</x>
-					<y>23</y>
+					<y>22</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3464,8 +3338,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_74985239-FBF7-4A09-A0E7-0B889B6B1EA4">
 			<AdvMapStatic>
 				<Pos>
-					<x>42</x>
-					<y>24</y>
+					<x>43</x>
+					<y>21</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -3500,8 +3374,8 @@
 		<Item href="#n:inline(AdvMapStatic)" id="item_19FC0FB0-152E-4313-B17B-B1DEB68DCA65">
 			<AdvMapStatic>
 				<Pos>
-					<x>45</x>
-					<y>24</y>
+					<x>46</x>
+					<y>22</y>
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
@@ -6418,114 +6292,6 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_38D466CF-C8EB-4AC4-ACE2-2AE73B118005">
-			<AdvMapStatic>
-				<Pos>
-					<x>47</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>5</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Tree/Birch/Birch01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_8A4F8B36-0360-4CE1-A186-F274AE8D82AA">
-			<AdvMapStatic>
-				<Pos>
-					<x>45</x>
-					<y>35</y>
-					<z>0</z>
-				</Pos>
-				<Rot>5</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Tree/Birch/Birch01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_8128BD10-2B29-4513-83A2-3A7A8D6C8722">
-			<AdvMapStatic>
-				<Pos>
-					<x>26</x>
-					<y>35</y>
-					<z>0</z>
-				</Pos>
-				<Rot>2</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Tree/Birch/Birch01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_5C99346A-DFCA-41A3-8DB1-9B56ABCDD87F">
-			<AdvMapStatic>
-				<Pos>
-					<x>29</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Tree/Birch/Birch03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_0C9CE283-8CB9-4E0A-B630-8C14BA80EDA2">
-			<AdvMapStatic>
-				<Pos>
-					<x>27</x>
-					<y>21</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Tree/Birch/Birch03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_5CC25793-C460-49BF-9B16-521936955067">
-			<AdvMapStatic>
-				<Pos>
-					<x>27</x>
-					<y>22</y>
-					<z>0</z>
-				</Pos>
-				<Rot>2</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Grass/Tree/Birch/Birch03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapGarrison)" id="item_D7B43EE3-F701-4B0A-A66A-9BE93A3FC59C">
 			<AdvMapGarrison>
 				<Pos>
@@ -6772,6 +6538,350 @@
 				<LinkToTown/>
 			</AdvMapDwelling>
 		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_967A1AC6-3039-4DEC-8756-F03BD33103D1">
+			<AdvMapStatic>
+				<Pos>
+					<x>26</x>
+					<y>30</y>
+					<z>0</z>
+				</Pos>
+				<Rot>7.85</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_80C96508-841C-4D99-A6B4-F373246489A9">
+			<AdvMapStatic>
+				<Pos>
+					<x>45</x>
+					<y>30</y>
+					<z>0</z>
+				</Pos>
+				<Rot>7.85</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Garrison_Dwarven_Wall (2).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_CF2D3053-CAF4-489A-9EE0-E5755197F710">
+			<AdvMapGarrison>
+				<Pos>
+					<x>38</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_5BD52516-E7F6-4F94-88C3-D6793BE4179A">
+			<AdvMapGarrison>
+				<Pos>
+					<x>38</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_50C2BE63-3733-458B-ABB7-D2E4F186A328">
+			<AdvMapGarrison>
+				<Pos>
+					<x>40</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_2045E91E-5014-4E34-8BCB-5F927EB25EAB">
+			<AdvMapGarrison>
+				<Pos>
+					<x>40</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_DE0CA641-5364-4EBC-8CA1-63D60FD6355F">
+			<AdvMapGarrison>
+				<Pos>
+					<x>42</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_F6B3402E-EE06-4773-884E-3A8A3BB172DB">
+			<AdvMapGarrison>
+				<Pos>
+					<x>42</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_73F6486D-9535-46EC-8EA4-76C68FE99B88">
+			<AdvMapGarrison>
+				<Pos>
+					<x>30</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapGarrison)" id="item_39AE5EA7-0C35-4710-B1E1-8C171B813CA3">
+			<AdvMapGarrison>
+				<Pos>
+					<x>30</x>
+					<y>42</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/GarrisonDwarven (2).xdb#xpointer(/AdvMapGarrisonShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<armySlots/>
+				<CollectableArmy>false</CollectableArmy>
+				<AllowQuickCombat>true</AllowQuickCombat>
+				<TownType>TOWN_HEAVEN</TownType>
+			</AdvMapGarrison>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_4B3BB52D-98F2-40A1-BBF3-8F9F15015BA1">
+			<AdvMapStatic>
+				<Pos>
+					<x>37</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Torch.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_06377806-5394-430F-BFAC-2680371E0BCB">
+			<AdvMapStatic>
+				<Pos>
+					<x>39</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Torch.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_F8AEDD25-4BA6-43A7-88E0-4B852555DF41">
+			<AdvMapStatic>
+				<Pos>
+					<x>41</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Torch.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_ECC770C4-73D4-4529-81D9-53F6B57C256B">
+			<AdvMapStatic>
+				<Pos>
+					<x>43</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Torch.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_724C9D86-8303-4F88-879A-0F98EA63B7F8">
+			<AdvMapStatic>
+				<Pos>
+					<x>31</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Torch.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_BE811233-7EA2-4CFD-B8A1-E648EF9A32D3">
+			<AdvMapStatic>
+				<Pos>
+					<x>29</x>
+					<y>41</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Subterra/Torch.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>
@@ -6780,7 +6890,7 @@
 	<AmbientLight/>
 	<UndergroundAmbientLight/>
 	<GroundAmbientLights>
-		<Item href="/Lights/_(AmbientLight)/Day_light_town.xdb#xpointer(/AmbientLight)"/>
+		<Item href="/Lights/_(AmbientLight)/A1C1M1 (2).xdb#xpointer(/AmbientLight)"/>
 	</GroundAmbientLights>
 	<UndergroundAmbientLights>
 		<Item/>

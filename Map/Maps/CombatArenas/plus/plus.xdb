@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -1175,24 +1175,6 @@
 				<ScalePercent>50</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_EFFE8B11-BDE8-4B22-9F6D-68C22972CCBC">
-			<AdvMapStatic>
-				<Pos>
-					<x>26</x>
-					<y>40</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Columns/Column_3x3_01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_798A03FB-4FF1-46C3-8A0A-2B3F9C1B7467">
 			<AdvMapStatic>
 				<Pos>
@@ -1238,24 +1220,6 @@
 				<CombatScript/>
 				<pointLights/>
 				<Shared href="/MapObjects/Subterra/Stoloktites/Stologtite07.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_8CE3917D-F0C0-4F69-B7E3-80C1C97248FD">
-			<AdvMapStatic>
-				<Pos>
-					<x>41</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>1</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Subterra/Stoloktites/Stologmite01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -1365,6 +1329,24 @@
 				<GroupID>0</GroupID>
 				<showCameras/>
 			</AdvMapBuilding>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_F1821EA2-503F-4761-AB69-655187D57047">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>37</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>1</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Effects/Dirt/bats01.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
 		</Item>
 	</objects>
 	<Resources>

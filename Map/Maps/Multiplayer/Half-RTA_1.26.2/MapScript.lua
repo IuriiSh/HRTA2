@@ -1,4 +1,4 @@
-MapVersion = "1.26.2"
+MapVersion = "3.0"
 
 --Скрипт правлен }{0TT@6bI4, 30.12.2021
 --antcom
@@ -7,6 +7,7 @@ MapVersion = "1.26.2"
 
 --Мазик: 11.03.2023 поддержано.
 --3y6: ДА!
+
 
 consoleCmd('@nde = 1')
 
@@ -24,6 +25,8 @@ PATH = '/' .. GetMapDataPath()
 
 doFile(GetMapDataPath()..'common.lua')
 sleep()
+
+
 
 
 heroes1 = GetPlayerHeroes (PLAYER_1)
@@ -104,6 +107,9 @@ function CheckExe()
 end
 
 startThread(CheckExe)
+
+
+
 
 ------------------ SPELLS --------------------------
 
@@ -708,7 +714,7 @@ array_heroes[0] = {
 	 { ["name"] = "Godric",      ["name2"] = "Godric2",      ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =  11, ["skill2"] =  56, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroGodric.txt",     ["p1"] = "hero_9_1_1", ["p2"] = "hero_9_1_2", ["p3"] = "hero_9_1_3", ["p4"] = "hero_9_1_4", ["p5"] = "hero_9_1_5", ["p6"] = "hero_9_1_6", ["p7"] = "hero_9_1_7", ["p8"] = "hero_9_1_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Haven/White_Knight/Description.txt"},
    {["name"]="RedHeavenHero03",["name2"]="RedHeavenHero032",["blocked"] = 0,["taverna"] = 1, ["skill1"] =   8, ["skill2"] =  10, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroValeria.txt",    ["p1"] = "hero_13_1_1",["p2"] = "hero_13_1_2",["p3"] = "hero_13_1_3",["p4"] = "hero_13_1_4",["p5"] = "hero_13_1_5",["p6"] = "hero_13_1_6",["p7"] = "hero_13_1_7",["p8"] = "hero_13_1_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Haven/SpecValeria/Description.txt"},
 	 { ["name"] = "Isabell_A1",  ["name2"] = "Isabell_A12",  ["blocked"] = 1, ["taverna"] = 1, ["skill1"] =  11, ["skill2"] =  11, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroIsabel.txt",     ["p1"] = "hero_11_1_1",["p2"] = "hero_11_1_2",["p3"] = "hero_11_1_3",["p4"] = "hero_11_1_4",["p5"] = "hero_11_1_5",["p6"] = "hero_11_1_6",["p7"] = "hero_11_1_7",["p8"] = "hero_11_1_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Haven/Archer_Commander/Description.txt"},
-	 { ["name"] = "Duncan",      ["name2"] = "Duncan2",      ["blocked"] = 1, ["taverna"] = 1, ["skill1"] =   6, ["skill2"] =  34, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroDuncan.txt",     ["p1"] = "hero_12_1_1",["p2"] = "hero_12_1_2",["p3"] = "hero_12_1_3",["p4"] = "hero_12_1_4",["p5"] = "hero_12_1_5",["p6"] = "hero_12_1_6",["p7"] = "hero_12_1_7",["p8"] = "hero_12_1_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Haven/Archer_Commander/Description.txt"},
+	 { ["name"] = "Duncan",      ["name2"] = "Duncan2",      ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   9, ["skill2"] =   8, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroDuncan.txt",     ["p1"] = "hero_12_1_1",["p2"] = "hero_12_1_2",["p3"] = "hero_12_1_3",["p4"] = "hero_12_1_4",["p5"] = "hero_12_1_5",["p6"] = "hero_12_1_6",["p7"] = "hero_12_1_7",["p8"] = "hero_12_1_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Haven/Wanderer/Duncan.txt"},
    { ["name"] = "Nicolai",     ["name2"] = "Nicolai2",     ["blocked"] = 1, ["taverna"] = 1, ["skill1"] =  13, ["skill2"] =  13, ["looser"] = 1, ["ver"] = 100, ["txt"] = "heroNicolai.txt",    ["p1"] = "hero_10_1_1",["p2"] = "hero_10_1_2",["p3"] = "hero_10_1_3",["p4"] = "hero_10_1_4",["p5"] = "hero_10_1_5",["p6"] = "hero_10_1_6",["p7"] = "hero_10_1_7",["p8"] = "hero_10_1_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Haven/Archer_Commander/Description.txt"}
 };
 
@@ -780,7 +786,7 @@ array_heroes[5] = {
 	 { ["name"] = "Ohtarig",     ["name2"] = "Ohtarig2",     ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =  11, ["skill2"] =  49, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroVaishan.txt",    ["p1"] = "hero_8_6_1", ["p2"] = "hero_8_6_2", ["p3"] = "hero_8_6_3", ["p4"] = "hero_8_6_4", ["p5"] = "hero_8_6_5", ["p6"] = "hero_8_6_6", ["p7"] = "hero_8_6_7", ["p8"] = "hero_8_6_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Dungeon/Savage/Description.txt" },
 	 { ["name"] = "Raelag_A1",   ["name2"] = "Raelag_A12",   ["blocked"] = 1, ["taverna"] = 1, ["skill1"] =   1, ["skill2"] =  18, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroRailag.txt",     ["p1"] = "hero_9_6_1", ["p2"] = "hero_9_6_2", ["p3"] = "hero_9_6_3", ["p4"] = "hero_9_6_4", ["p5"] = "hero_9_6_5", ["p6"] = "hero_9_6_6", ["p7"] = "hero_9_6_7", ["p8"] = "hero_9_6_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Dungeon/MasterOfInitiative/Description.txt" },
 	 { ["name"] = "Kelodin",     ["name2"] = "Kelodin2",     ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   7, ["skill2"] =  38, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroShadia.txt",     ["p1"] = "hero_10_6_1",["p2"] = "hero_10_6_2",["p3"] = "hero_10_6_3",["p4"] = "hero_10_6_4",["p5"] = "hero_10_6_5",["p6"] = "hero_10_6_6",["p7"] = "hero_10_6_7",["p8"] = "hero_10_6_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Dungeon/Evasive/Description.txt" },
-	 { ["name"] = "Shadwyn",     ["name2"] = "Shadwyn2",     ["blocked"] = 1, ["taverna"] = 1, ["skill1"] =  18, ["skill2"] = 111, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroIlaiya.txt",     ["p1"] = "hero_11_6_1",["p2"] = "hero_11_6_2",["p3"] = "hero_11_6_3",["p4"] = "hero_11_6_4",["p5"] = "hero_11_6_5",["p6"] = "hero_11_6_6",["p7"] = "hero_11_6_7",["p8"] = "hero_11_6_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Dungeon/SpecShadwyn/Description.txt" },
+	 { ["name"] = "Shadwyn",     ["name2"] = "Shadwyn2",     ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   9, ["skill2"] =  72, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroIlaiya.txt",     ["p1"] = "hero_11_6_1",["p2"] = "hero_11_6_2",["p3"] = "hero_11_6_3",["p4"] = "hero_11_6_4",["p5"] = "hero_11_6_5",["p6"] = "hero_11_6_6",["p7"] = "hero_11_6_7",["p8"] = "hero_11_6_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Dungeon/SpecShadwyn/Description.txt" },
 	 { ["name"] = "Thralsai",    ["name2"] = "Thralsai2",    ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   1, ["skill2"] =  71, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroTralsai.txt",    ["p1"] = "hero_12_6_1",["p2"] = "hero_12_6_2",["p3"] = "hero_12_6_3",["p4"] = "hero_12_6_4",["p5"] = "hero_12_6_5",["p6"] = "hero_12_6_6",["p7"] = "hero_12_6_7",["p8"] = "hero_12_6_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Dungeon/SpecThralsai/Description.txt" }
 };
 
@@ -793,7 +799,7 @@ array_heroes[6] = {
 	 { ["name"] = "Ingvar",      ["name2"] = "Ingvar2",      ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   7, ["skill2"] =  39, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroIngvar.txt",     ["p1"] = "hero_6_7_1", ["p2"] = "hero_6_7_2", ["p3"] = "hero_6_7_3", ["p4"] = "hero_6_7_4", ["p5"] = "hero_6_7_5", ["p6"] = "hero_6_7_6", ["p7"] = "hero_6_7_7", ["p8"] = "hero_6_7_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/Defender/Description.txt" },
 	 { ["name"] = "Vegeyr",      ["name2"] = "Vegeyr2",      ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   9, ["skill2"] =  45, ["looser"] = 1, ["ver"] = 100, ["txt"] = "heroSveya.txt",      ["p1"] = "hero_7_7_1", ["p2"] = "hero_7_7_2", ["p3"] = "hero_7_7_3", ["p4"] = "hero_7_7_4", ["p5"] = "hero_7_7_5", ["p6"] = "hero_7_7_6", ["p7"] = "hero_7_7_7", ["p8"] = "hero_7_7_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/Stormcaller/Description.txt" },
 	 { ["name"] = "Skeggy",      ["name2"] = "Skeggy2",      ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   5, ["skill2"] =  32, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroKarli.txt",      ["p1"] = "hero_8_7_1", ["p2"] = "hero_8_7_2", ["p3"] = "hero_8_7_3", ["p4"] = "hero_8_7_4", ["p5"] = "hero_8_7_5", ["p6"] = "hero_8_7_6", ["p7"] = "hero_8_7_7", ["p8"] = "hero_8_7_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/Axe_Master/Description.txt" },
-	 { ["name"] = "KingTolghar", ["name2"] = "KingTolghar2", ["blocked"] = 1, ["taverna"] = 1, ["skill1"] = 151, ["skill2"] = 151, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroTolgar.txt",     ["p1"] = "hero_9_7_1", ["p2"] = "hero_9_7_2", ["p3"] = "hero_9_7_3", ["p4"] = "hero_9_7_4", ["p5"] = "hero_9_7_5", ["p6"] = "hero_9_7_6", ["p7"] = "hero_9_7_7", ["p8"] = "hero_9_7_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/Mountain_King/Description.txt" },
+	 { ["name"] = "KingTolghar", ["name2"] = "KingTolghar2", ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   9, ["skill2"] =   9, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroTolgar.txt",     ["p1"] = "hero_9_7_1", ["p2"] = "hero_9_7_2", ["p3"] = "hero_9_7_3", ["p4"] = "hero_9_7_4", ["p5"] = "hero_9_7_5", ["p6"] = "hero_9_7_6", ["p7"] = "hero_9_7_7", ["p8"] = "hero_9_7_8", ["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/Mountain_King/Description.txt" },
 	 { ["name"] = "Wulfstan",    ["name2"] = "Wulfstan2",    ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   1, ["skill2"] =  19, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroVulfsten.txt",   ["p1"] = "hero_10_7_1",["p2"] = "hero_10_7_2",["p3"] = "hero_10_7_3",["p4"] = "hero_10_7_4",["p5"] = "hero_10_7_5",["p6"] = "hero_10_7_6",["p7"] = "hero_10_7_7",["p8"] = "hero_10_7_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/SpecWulfstan/Description.txt" },
 	 { ["name"] = "Rolf",        ["name2"] = "Rolf2",        ["blocked"] = 0, ["taverna"] = 1, ["skill1"] =   4, ["skill2"] =  30, ["looser"] = 0, ["ver"] = 100, ["txt"] = "heroRolf.txt",       ["p1"] = "hero_11_7_1",["p2"] = "hero_11_7_2",["p3"] = "hero_11_7_3",["p4"] = "hero_11_7_4",["p5"] = "hero_11_7_5",["p6"] = "hero_11_7_6",["p7"] = "hero_11_7_7",["p8"] = "hero_11_7_8",["block_temply"] = 0, ["dsc"] = "/Text/Game/Heroes/Specializations/Fortress/SpecRolf/Description.txt" }
 };
@@ -1447,7 +1453,7 @@ CrownOfLeaderBonus = 1.0;
 LogisticsSum = 5000;
 
 EllainaDiscount = 20;
-MarkelCoef = 0.02;
+MarkelCoef = 0.03;
 IngaLevel = 7;
 EllesharDiscount = 2500;
 EllesharLevel = 0;
@@ -2401,6 +2407,8 @@ if levelH1 == MaxLevelForAntiscaner then
   levelH1 = levelH1 + 1;
 end;
 end;
+
+
 
 
 ------------------- VARIANT IGRY -----------------
@@ -5513,6 +5521,9 @@ function AskForSpellReset1 ()
     end;
   end;
 end;
+
+
+
 
 
 function AskForRunesReset11 ()
@@ -12342,6 +12353,19 @@ function MiniArts1()
     
     if Name(HeroMax1) == "Maahir" then DeltaRes = 15; else DeltaRes = 0; end;
     
+    --3y6 штраф дефа мага
+    if hero1race == 5 and(HasHeroSkill(HeroMax1, 7)) then ChangeHeroStat(HeroMax1, STAT_KNOWLEDGE, -8); end;
+
+
+
+
+
+    
+
+    
+
+    
+    
     -- Джалиб
     if Name(HeroMax1) == "Tan" then kolCreatures = GetHeroCreatures(HeroMax1,  65); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax1,  65, kolCreatures); AddHeroCreatures(HeroMax1, 68, kolCreatures); end; end;
     if Name(HeroMax1) == "Tan" then kolCreatures = GetHeroCreatures(HeroMax1, 163); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax1, 163, kolCreatures); AddHeroCreatures(HeroMax1, 70, kolCreatures); end; end;
@@ -12396,6 +12420,9 @@ function MiniArts2()
 --    end;
     
     if Name(HeroMax2) == "Maahir" then DeltaRes = 15; else DeltaRes = 0; end;
+    
+    --3y6 штраф дефа мага
+    if hero2race == 5 and(HasHeroSkill(HeroMax2, 7)) then ChangeHeroStat(HeroMax2, STAT_KNOWLEDGE, -8); end;
 
     -- Джалиб
     if Name(HeroMax2) == "Tan" then kolCreatures = GetHeroCreatures(HeroMax2,  65); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2,  65, kolCreatures); AddHeroCreatures(HeroMax2, 68, kolCreatures); end; end;
@@ -13815,7 +13842,12 @@ function newday ()
      if (HeroMax2 == "RedHeavenHero03" or HeroMax2 == "RedHeavenHero032") and GetHeroSkillMastery(HeroMax2, SKILL_DARK_MAGIC) == 3 then SubHero(HeroMax2, "RedHeavenHero034"); HeroMax2 = "RedHeavenHero034"; sleep(3); end;
      if (HeroMax2 == "RedHeavenHero03" or HeroMax2 == "RedHeavenHero032") and GetHeroSkillMastery(HeroMax2, SKILL_DARK_MAGIC) < 3 and GetHeroSkillMastery(HeroMax2, SKILL_DARK_MAGIC) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax2, 'no'); GiveHeroSkill(HeroMax2, SKILL_DARK_MAGIC); end;
      
+     -- 3y6 возвращение знания героям магов
+     if hero1race == 5 and(HasHeroSkill(HeroMax1, 7)) then ChangeHeroStat(HeroMax1, STAT_KNOWLEDGE, 8);end;
+     if hero2race == 5 and(HasHeroSkill(HeroMax2, 7)) then ChangeHeroStat(HeroMax2, STAT_KNOWLEDGE, 8);end;
+     
 
+     
      -- Рутгер
      if (HeroMax1 == "Brem" or HeroMax1 == "Brem2") and GetHeroSkillMastery(HeroMax1, SKILL_TRAINING) == 3 then SubHero(HeroMax1, "Brem3"); HeroMax1 = "Brem3"; sleep(3); end;
      if (HeroMax1 == "Brem" or HeroMax1 == "Brem2") and GetHeroSkillMastery(HeroMax1, SKILL_TRAINING) < 3 and GetHeroSkillMastery(HeroMax1, SKILL_TRAINING) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax1, 'no'); GiveHeroSkill(HeroMax1, SKILL_TRAINING); end;
@@ -13824,11 +13856,11 @@ function newday ()
      if (HeroMax2 == "Brem" or HeroMax2 == "Brem2") and GetHeroSkillMastery(HeroMax2, SKILL_TRAINING) < 3 and GetHeroSkillMastery(HeroMax2, SKILL_TRAINING) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax2, 'no'); GiveHeroSkill(HeroMax2, SKILL_TRAINING); end;
 
      -- Илайя
-     if (HeroMax1 == "Shadwyn" or HeroMax1 == "Shadwyn2") and GetHeroSkillMastery(HeroMax1, SKILL_INVOCATION) == 3 then SubHero(HeroMax1, "Shadwyn3"); HeroMax1 = "Shadwyn3"; sleep(3); end;
-     if (HeroMax1 == "Shadwyn" or HeroMax1 == "Shadwyn2") and GetHeroSkillMastery(HeroMax1, SKILL_INVOCATION) < 3 and GetHeroSkillMastery(HeroMax1, SKILL_INVOCATION) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax1, 'no'); GiveHeroSkill(HeroMax1, SKILL_INVOCATION); end;
+    -- if (HeroMax1 == "Shadwyn" or HeroMax1 == "Shadwyn2") and GetHeroSkillMastery(HeroMax1, SKILL_INVOCATION) == 3 then SubHero(HeroMax1, "Shadwyn3"); HeroMax1 = "Shadwyn3"; sleep(3); end;
+    -- if (HeroMax1 == "Shadwyn" or HeroMax1 == "Shadwyn2") and GetHeroSkillMastery(HeroMax1, SKILL_INVOCATION) < 3 and GetHeroSkillMastery(HeroMax1, SKILL_INVOCATION) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax1, 'no'); GiveHeroSkill(HeroMax1, SKILL_INVOCATION); end;
 
-     if (HeroMax2 == "Shadwyn" or HeroMax2 == "Shadwyn2") and GetHeroSkillMastery(HeroMax2, SKILL_INVOCATION) == 3 then SubHero(HeroMax2, "Shadwyn4"); HeroMax2 = "Shadwyn4"; sleep(3); end;
-     if (HeroMax2 == "Shadwyn" or HeroMax2 == "Shadwyn2") and GetHeroSkillMastery(HeroMax2, SKILL_INVOCATION) < 3 and GetHeroSkillMastery(HeroMax2, SKILL_INVOCATION) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax2, 'no'); GiveHeroSkill(HeroMax2, SKILL_INVOCATION); end;
+     --if (HeroMax2 == "Shadwyn" or HeroMax2 == "Shadwyn2") and GetHeroSkillMastery(HeroMax2, SKILL_INVOCATION) == 3 then SubHero(HeroMax2, "Shadwyn4"); HeroMax2 = "Shadwyn4"; sleep(3); end;
+     --if (HeroMax2 == "Shadwyn" or HeroMax2 == "Shadwyn2") and GetHeroSkillMastery(HeroMax2, SKILL_INVOCATION) < 3 and GetHeroSkillMastery(HeroMax2, SKILL_INVOCATION) > 0 then Trigger( HERO_ADD_SKILL_TRIGGER, HeroMax2, 'no'); GiveHeroSkill(HeroMax2, SKILL_INVOCATION); end;
 
 
      -- Золтан
@@ -13854,7 +13886,18 @@ function newday ()
      if Name(HeroMax2) == "Aberrar" then kolCreatures = GetHeroCreatures(HeroMax2,  37); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2,  37, kolCreatures); AddHeroCreatures(HeroMax2, 221, kolCreatures); end; end;
      if Name(HeroMax2) == "Aberrar" then kolCreatures = GetHeroCreatures(HeroMax2, 156); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2, 156, kolCreatures); AddHeroCreatures(HeroMax2, 222, kolCreatures); end; end;
 
-
+     -- Дункан --3y6
+     if (HeroMax1 == "Duncan" or HeroMax1 == "Duncan2") and GetHeroSkillMastery(HeroMax1, 9) == 1 then ChangeHeroStat(HeroMax1, STAT_SPELL_POWER, 3); TeachHeroSpell(HeroMax1, 1); TeachHeroSpell(HeroMax1, 3); TeachHeroSpell(HeroMax1, 4); TeachHeroSpell(HeroMax1, 5); TeachHeroSpell(HeroMax1, 6); TeachHeroSpell(HeroMax1, 237); end;
+     if (HeroMax2 == "Duncan" or HeroMax2 == "Duncan2") and GetHeroSkillMastery(HeroMax2, 9) == 1 then ChangeHeroStat(HeroMax2, STAT_SPELL_POWER, 3); TeachHeroSpell(HeroMax2, 1); TeachHeroSpell(HeroMax2, 3); TeachHeroSpell(HeroMax2, 4); TeachHeroSpell(HeroMax2, 5); TeachHeroSpell(HeroMax2, 6); TeachHeroSpell(HeroMax2, 237); end;
+     if (HeroMax1 == "Duncan" or HeroMax1 == "Duncan2") and GetHeroSkillMastery(HeroMax1, 9) == 2 then ChangeHeroStat(HeroMax1, STAT_SPELL_POWER, 6); TeachHeroSpell(HeroMax1, 1); TeachHeroSpell(HeroMax1, 3); TeachHeroSpell(HeroMax1, 4); TeachHeroSpell(HeroMax1, 5); TeachHeroSpell(HeroMax1, 6); TeachHeroSpell(HeroMax1, 237); end;
+     if (HeroMax2 == "Duncan" or HeroMax2 == "Duncan2") and GetHeroSkillMastery(HeroMax2, 9) == 2 then ChangeHeroStat(HeroMax2, STAT_SPELL_POWER, 6); TeachHeroSpell(HeroMax2, 1); TeachHeroSpell(HeroMax2, 3); TeachHeroSpell(HeroMax2, 4); TeachHeroSpell(HeroMax2, 5); TeachHeroSpell(HeroMax2, 6); TeachHeroSpell(HeroMax2, 237); end;
+     if (HeroMax1 == "Duncan" or HeroMax1 == "Duncan2") and GetHeroSkillMastery(HeroMax1, 9) == 3 then ChangeHeroStat(HeroMax1, STAT_SPELL_POWER, 9); TeachHeroSpell(HeroMax1, 1); TeachHeroSpell(HeroMax1, 3); TeachHeroSpell(HeroMax1, 4); TeachHeroSpell(HeroMax1, 5); TeachHeroSpell(HeroMax1, 6); TeachHeroSpell(HeroMax1, 237); end;
+     if (HeroMax2 == "Duncan" or HeroMax2 == "Duncan2") and GetHeroSkillMastery(HeroMax2, 9) == 3 then ChangeHeroStat(HeroMax2, STAT_SPELL_POWER, 9); TeachHeroSpell(HeroMax2, 1); TeachHeroSpell(HeroMax2, 3); TeachHeroSpell(HeroMax2, 4); TeachHeroSpell(HeroMax2, 5); TeachHeroSpell(HeroMax2, 6); TeachHeroSpell(HeroMax2, 237); end;
+     
+     -- Дираэль
+     if (HeroMax1 == "Diraya" or HeroMax1 == "Diraya2") then TeachHeroSpell(HeroMax1, 2); end;
+     if (HeroMax2 == "Diraya" or HeroMax2 == "Diraya2") then TeachHeroSpell(HeroMax2, 2); end;
+     
      TeachSpell (HeroMax1, 0);
      TeachSpell (HeroMax2, 1);
      Scholar (HeroMax1, 0);
@@ -13877,6 +13920,7 @@ function newday ()
          SetPlayerResource(2, WOOD, 7); SetPlayerResource(2, ORE, 7); SetPlayerResource(2, MERCURY,  5); SetPlayerResource(2, CRYSTAL,  5); SetPlayerResource(2, SULFUR,  5); SetPlayerResource(2, GEM,  5);
        end;
      end;
+
 
      ------------- УМЕНИЯ ---------------
 
@@ -13927,6 +13971,7 @@ function newday ()
      if HasHeroSkill(HeroMax2, 109) then ChangeHeroStat(HeroMax2, STAT_KNOWLEDGE, 5); ChangeHeroStat(HeroMax2, STAT_MANA_POINTS, 30); ChangeHeroStat(HeroMax2, STAT_KNOWLEDGE, -5); end;
      sleep(1);
 
+     
      -- сопротивление
      if (HasHeroSkill(HeroMax1, 131)) then GiveHeroBattleBonus(HeroMax1, HERO_BATTLE_BONUS_HITPOINTS, 10); end;
      if (HasHeroSkill(HeroMax2, 131)) then GiveHeroBattleBonus(HeroMax2, HERO_BATTLE_BONUS_HITPOINTS, 10); end;
@@ -13950,7 +13995,7 @@ function newday ()
      -- мародерство
      if (HasHeroSkill(HeroMax1, 168)) then GiveHeroBattleBonus(HeroMax2, HERO_BATTLE_BONUS_SPEED, -1); end;
      if (HasHeroSkill(HeroMax2, 168)) then GiveHeroBattleBonus(HeroMax1, HERO_BATTLE_BONUS_SPEED, -1); end;
-     
+
      -- родные земли
      if (HasHeroSkill(HeroMax1, 73)) then GiveHeroBattleBonus(HeroMax1, HERO_BATTLE_BONUS_SPEED, 1); end;
      if (HasHeroSkill(HeroMax2, 73)) then GiveHeroBattleBonus(HeroMax2, HERO_BATTLE_BONUS_SPEED, 1); end;
@@ -14067,7 +14112,11 @@ function newday ()
      if HasHeroSkill(HeroMax2, 78) and HasHeroSkill(HeroMax2, 32) == nil then kolCreatures = GetHeroCreatures(HeroMax2,  13); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2,  13, kolCreatures); AddHeroCreatures(HeroMax2, 118, kolCreatures); end; end;
      if HasHeroSkill(HeroMax2, 78) then kolCreatures = GetHeroCreatures(HeroMax2, 112); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2, 112, kolCreatures); AddHeroCreatures(HeroMax2,  52, kolCreatures); end; end;
      if HasHeroSkill(HeroMax2, 78) and HasHeroSkill(HeroMax2, 32) then kolCreatures = GetHeroCreatures(HeroMax2,  13); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2,  13, kolCreatures); AddHeroCreatures(HeroMax2,  66, kolCreatures); end; end;
-
+     --некрошаман  3y6 превращение циклопов в нежить
+     if HasHeroSkill(HeroMax1, 198) then kolCreatures = GetHeroCreatures(HeroMax1,  129); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax1,  129, kolCreatures); AddHeroCreatures(HeroMax1, 114, kolCreatures); end; end;
+     if HasHeroSkill(HeroMax1, 198) then kolCreatures = GetHeroCreatures(HeroMax1, 179); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax1, 179, kolCreatures); AddHeroCreatures(HeroMax1, 114, kolCreatures); end; end;
+     if HasHeroSkill(HeroMax2, 198) then kolCreatures = GetHeroCreatures(HeroMax2,  129); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2,  129, kolCreatures); AddHeroCreatures(HeroMax2, 114, kolCreatures); end; end;
+     if HasHeroSkill(HeroMax2, 198) then kolCreatures = GetHeroCreatures(HeroMax2, 179); if kolCreatures > 0 then RemoveHeroCreatures(HeroMax2, 179, kolCreatures); AddHeroCreatures(HeroMax2, 114, kolCreatures); end; end;
 
 
      ------------- АРТЕФАКТЫ ---------------
@@ -14237,9 +14286,12 @@ function newday ()
 --     if Name(HeroMax1) == "Gles" then SpecGles(HeroMax1, HeroMax2); end;
 --     if Name(HeroMax2) == "Gles" then SpecGles(HeroMax2, HeroMax1); end;
 
-     -- Илайя
-     --if Name(HeroMax1) == "Shadwyn" then SetObjectOwner('Dwel1', PLAYER_1); TransformTown('Dwel1', 3); UpgradeTownBuilding('Dwel1', TOWN_BUILDING_MAGIC_GUILD); UpgradeTownBuilding('Dwel1', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); UpgradeTownBuilding('Dwel1', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); TeachHeroSpell(HeroMax1, 1); TeachHeroSpell(HeroMax1, 3); TeachHeroSpell(HeroMax1, 4); TeachHeroSpell(HeroMax1, 237); end;
-     --if Name(HeroMax2) == "Shadwyn" then SetObjectOwner('Dwel2', PLAYER_2); TransformTown('Dwel2', 3); UpgradeTownBuilding('Dwel2', TOWN_BUILDING_MAGIC_GUILD); UpgradeTownBuilding('Dwel2', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); UpgradeTownBuilding('Dwel2', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); TeachHeroSpell(HeroMax2, 1); TeachHeroSpell(HeroMax2, 3); TeachHeroSpell(HeroMax2, 4); TeachHeroSpell(HeroMax2, 237); end;
+
+
+
+     -- Илайя  3y6 усиление стихии
+     if Name(HeroMax1) == "Shadwyn" then SetObjectOwner('Dwel1', PLAYER_1); TransformTown('Dwel1', 3); UpgradeTownBuilding('Dwel1', TOWN_BUILDING_MAGIC_GUILD); UpgradeTownBuilding('Dwel1', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); UpgradeTownBuilding('Dwel1', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); end;
+     if Name(HeroMax2) == "Shadwyn" then SetObjectOwner('Dwel2', PLAYER_2); TransformTown('Dwel2', 3); UpgradeTownBuilding('Dwel2', TOWN_BUILDING_MAGIC_GUILD); UpgradeTownBuilding('Dwel2', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); UpgradeTownBuilding('Dwel2', TOWN_BUILDING_DUNGEON_ALTAR_OF_ELEMENTS); end;
 
      -- Свея
      if Name(HeroMax1) == "Vegeyr" then SpecVegeyr(HeroMax1); end;
@@ -14310,7 +14362,7 @@ function StartMainCombat(player, tournament)
       consoleCmd('game_writelog 1');
       sleep(2);
       print('StartReport')
-      print('Map: HRTA')
+      print('Map: X-RTA')
       print('MapVersion: ', MapVersion)
       print(CombatID);
     --consoleCmd('profile_name')
@@ -14960,6 +15012,8 @@ end;
 --  if KnowHeroSpell( hero, 15) then TeachHeroSpell( hero, 215); end;
 --  if KnowHeroSpell( hero, 17) then TeachHeroSpell( hero, 213); end;
 --end;
+
+
 
 array_FreeRunes = {}
 array_FreeRunes = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
@@ -16358,10 +16412,16 @@ function Scouting1() --MessageBoxForPlayers(GetPlayerFilter(PLAYER_1), GetMapDat
     for i = 1, k do
       if arrayPossibleHeroes[HeroCollectionPlayer2][i] ~= HeroForScouting1_Player2 and arrayPossibleHeroes[HeroCollectionPlayer2][i] ~= HeroForScouting2_Player2 and arrayPossibleHeroes[HeroCollectionPlayer2][i] > 0 then
         if HeroCollectionPlayer2 == 2 then
-          SetObjectPosition(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p5, 0, 0, GROUND);
+           if Exists(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p5) then --Pashopp
+             --RemoveObject(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p5);
+             SetObjectPosition(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p5, 0, 0, GROUND);
+           end;
         end;
         if HeroCollectionPlayer2 == 3 then
-          SetObjectPosition(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p7, 0, 0, GROUND);
+           if Exists(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p7) then --Pashopp
+             --RemoveObject(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p7);
+             SetObjectPosition(array_heroes[hero2race-1][arrayPossibleHeroes[HeroCollectionPlayer2][i]].p7, 0, 0, GROUND);
+           end;
         end;
       end;
     end;
@@ -16369,10 +16429,14 @@ function Scouting1() --MessageBoxForPlayers(GetPlayerFilter(PLAYER_1), GetMapDat
     for i, her in array_heroes[hero2race-1] do
       if her.name2 == HeroTav2 then --сравнение с именем героя таверны
         if HeroCollectionPlayer2 == 2 then
-          SetObjectPosition(her.p5, 32, 88, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_1), GetMapDataPath()..her.txt);
+          if Exists(her.p5) then --Pashopp
+            SetObjectPosition(her.p5, 32, 88, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_1), GetMapDataPath()..her.txt);
+          end;
         end;
         if HeroCollectionPlayer2 == 3 then
-          SetObjectPosition(her.p7, 32, 88, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_1), GetMapDataPath()..her.txt);
+          if Exists(her.p7) then --Pashopp
+            SetObjectPosition(her.p7, 32, 88, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_1), GetMapDataPath()..her.txt);
+          end;
         end;
       end;
     end;
@@ -16390,10 +16454,16 @@ function Scouting2() --MessageBoxForPlayers(GetPlayerFilter(PLAYER_2), GetMapDat
     for i = 1, k do
       if arrayPossibleHeroes[HeroCollectionPlayer1][i] ~= HeroForScouting1_Player1 and arrayPossibleHeroes[HeroCollectionPlayer1][i] ~= HeroForScouting2_Player1 and arrayPossibleHeroes[HeroCollectionPlayer1][i] > 0 then
         if HeroCollectionPlayer1 == 0 then
-          SetObjectPosition(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p2, 0, 0, GROUND);
+           if Exists(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p2) then --Pashopp
+             --RemoveObject(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p2);
+             SetObjectPosition(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p2, 0, 0, GROUND);
+           end;
         end;
         if HeroCollectionPlayer1 == 1 then
-          SetObjectPosition(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p4, 0, 0, GROUND);
+           if Exists(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p4) then --Pashopp
+             --RemoveObject(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p4);
+             SetObjectPosition(array_heroes[hero1race-1][arrayPossibleHeroes[HeroCollectionPlayer1][i]].p4, 0, 0, GROUND);
+           end;
         end;
       end;
     end;
@@ -16401,10 +16471,14 @@ function Scouting2() --MessageBoxForPlayers(GetPlayerFilter(PLAYER_2), GetMapDat
     for i, her in array_heroes[hero1race-1] do
       if her.name == HeroTav1 then --сравнение с именем героя таверны
         if HeroCollectionPlayer1 == 0 then
-          SetObjectPosition(her.p2, 45, 23, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_2), GetMapDataPath()..her.txt);
+          if Exists(her.p2) then  --Pashopp
+            SetObjectPosition(her.p2, 45, 23, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_2), GetMapDataPath()..her.txt);
+          end;
         end;
         if HeroCollectionPlayer1 == 1 then
-          SetObjectPosition(her.p4, 45, 23, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_2), GetMapDataPath()..her.txt);
+          if Exists(her.p4) then --Pashopp
+            SetObjectPosition(her.p4, 45, 23, GROUND); --MessageBoxForPlayers(GetPlayerFilter(PLAYER_2), GetMapDataPath()..her.txt);
+          end;
         end;
       end;
     end;
@@ -17390,7 +17464,7 @@ SellStat2[5] = 0;
 
 function SellStatFunction1()
   SellStatUse1 = 1;
-  MoveHeroRealTime(HeroMax1, 57, 75);
+  MoveHeroRealTime(HeroMax1, 64, 89);
   ShowFlyingSign({GetMapDataPath().."SellStatInfo.txt"; eq = (EstatesQuantitySellStats - SellStat1[5])}, 'napadenie1', 1, 5.0);
   k = 1;
   for i = 0, 2 do
@@ -18797,6 +18871,8 @@ function AutoSave()
 end;
 
 
+
+
 SetObjectEnabled('napadenie1', nil);
 Trigger( OBJECT_TOUCH_TRIGGER, 'napadenie1', 'nap1' );
 
@@ -18826,6 +18902,31 @@ Trigger( OBJECT_TOUCH_TRIGGER, 'port2', 'TeleportStartZone2' ); SetObjectEnabled
 
 --SetObjectEnabled ('whirlpool1', nil);
 Trigger( OBJECT_TOUCH_TRIGGER, 'boat4', 'BoatMove' );
+
+
+
+
+--3y6 свет
+function dodikF ()
+SetAmbientLight(GROUND, 'light2', 1, 5.0) ;
+
+end ;
+Trigger(REGION_ENTER_WITHOUT_STOP_TRIGGER, "dodik", "dodikF" );
+
+SLEEPS_PER_SECOND = 20
+ SECONDS_TO_CHANGE_LIGHT = 100
+function change_light()
+     local counter = SLEEPS_PER_SECOND * SECONDS_TO_CHANGE_LIGHT
+     while counter > 0 do
+         counter = counter - 1
+         sleep()
+     end
+     SetAmbientLight(GROUND, 'light3', 1, 5.0)
+ end
+ startThread(change_light)
+
+
+
 
 
 -- Opisaniya
@@ -18906,11 +19007,11 @@ OverrideObjectTooltipNameAndDescription ('mentor24', GetMapDataPath().."mentorNA
 OverrideObjectTooltipNameAndDescription ('mentor25', GetMapDataPath().."mentorNAME.txt", GetMapDataPath().."mentorDSCRP.txt");
 OverrideObjectTooltipNameAndDescription ('mentor26', GetMapDataPath().."mentorNAME.txt", GetMapDataPath().."mentorDSCRP.txt");
 OverrideObjectTooltipNameAndDescription ('mentor27', GetMapDataPath().."mentorNAME.txt", GetMapDataPath().."mentorDSCRP.txt");
-OverrideObjectTooltipNameAndDescription ('mentor28', GetMapDataPath().."mentorNAME.txt", GetMapDataPath().."mentorDSCRP.txt");
-OverrideObjectTooltipNameAndDescription ('bandit_map', GetMapDataPath().."banditNAME.txt", GetMapDataPath().."bandit_mapDSCRP.txt");
-OverrideObjectTooltipNameAndDescription ('mostovik_map', GetMapDataPath().."mostovikNAME.txt", GetMapDataPath().."mostovik_mapDSCRP.txt");
-OverrideObjectTooltipNameAndDescription ('vsev_map', GetMapDataPath().."vsevNAME.txt", GetMapDataPath().."vsev_mapDSCRP.txt");
-OverrideObjectTooltipNameAndDescription ('tari_map', GetMapDataPath().."tariNAME.txt", GetMapDataPath().."tari_mapDSCRP.txt");
+--OverrideObjectTooltipNameAndDescription ('mentor28', GetMapDataPath().."mentorNAME.txt", GetMapDataPath().."mentorDSCRP.txt");
+--OverrideObjectTooltipNameAndDescription ('bandit_map', GetMapDataPath().."banditNAME.txt", GetMapDataPath().."bandit_mapDSCRP.txt");
+--OverrideObjectTooltipNameAndDescription ('mostovik_map', GetMapDataPath().."mostovikNAME.txt", GetMapDataPath().."mostovik_mapDSCRP.txt");
+--OverrideObjectTooltipNameAndDescription ('vsev_map', GetMapDataPath().."vsevNAME.txt", GetMapDataPath().."vsev_mapDSCRP.txt");
+--OverrideObjectTooltipNameAndDescription ('tari_map', GetMapDataPath().."tariNAME.txt", GetMapDataPath().."tari_mapDSCRP.txt");
 --OverrideObjectTooltipNameAndDescription ('bandit', GetMapDataPath().."banditNAME.txt", GetMapDataPath().."banditDSCRP.txt");
 --OverrideObjectTooltipNameAndDescription ('zilo', GetMapDataPath().."ziloNAME.txt", GetMapDataPath().."ziloDSCRP.txt");
 --OverrideObjectTooltipNameAndDescription ('hustred', GetMapDataPath().."hustredNAME.txt", GetMapDataPath().."hustredDSCRP.txt");
@@ -18923,7 +19024,7 @@ OverrideObjectTooltipNameAndDescription ('bonus2', GetMapDataPath().."bonusNAME.
 
 -- antcom debug combat отладка боя
 -- Все внутри следует закомментировать после отладки
--- Отладка запускается после полного хода (по 1 пропуску от синего и красного)
+-- Отладка запускается после полного хода (по 1 пропуску от синего и красного). Pashopp - работает и в режиме хотсит
 -- отладка вкл/выкл 1/0 consoleCmd('game_writelog 1'), пишется по адресу <ПапкаПользователя/>\AppData\Local\VirtualStore\Program Files (x86)\Nival Interactive\Heroes of Might and Magic V - Tribes of the East\bin\console.txt
 
 --sleep(50)
@@ -18932,7 +19033,7 @@ OverrideObjectTooltipNameAndDescription ('bonus2', GetMapDataPath().."bonusNAME.
 --SaveHeroesInfoBeforeCombat{heroes1[1], heroes2[1]}
 --sleep(5)
 --
---startThread(RTA_CommonSetCombatScriptThread)
+----startThread(RTA_CommonSetCombatScriptThread) - Pashopp не дает отлаживать - оставить закомменченныс
 --
 --MakeHeroInteractWithObject (heroes1[1], heroes2[1])
 --

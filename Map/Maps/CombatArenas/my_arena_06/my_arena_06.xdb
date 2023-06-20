@@ -912,7 +912,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -930,7 +930,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -948,7 +948,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -966,7 +966,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -984,7 +984,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -1002,7 +1002,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -1020,7 +1020,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -1038,7 +1038,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/krysztal1.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>200</ScalePercent>
@@ -1056,7 +1056,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/woda.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -1074,7 +1074,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/woda.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -1092,7 +1092,7 @@
 				<Name/>
 				<CombatScript/>
 				<pointLights/>
-				<Shared href="moje/woda.xdb#xpointer(/AdvMapStaticShared)"/>
+				<Shared/>
 				<IsRemovable>false</IsRemovable>
 				<TerrainAligned>false</TerrainAligned>
 				<ScalePercent>100</ScalePercent>
@@ -1216,16 +1216,16 @@
 				<pointLights>
 					<Item>
 						<Pos>
-							<x>0</x>
+							<x>-4</x>
 							<y>0</y>
-							<z>1</z>
+							<z>2</z>
 						</Pos>
 						<Color>
-							<x>0.501961</x>
-							<y>1</y>
+							<x>0</x>
+							<y>0.501961</y>
 							<z>1</z>
 						</Color>
-						<Radius>20</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
@@ -1249,15 +1249,15 @@
 					<Item>
 						<Pos>
 							<x>0</x>
-							<y>0</y>
-							<z>1</z>
+							<y>4</y>
+							<z>2</z>
 						</Pos>
 						<Color>
-							<x>0.501961</x>
-							<y>1</y>
+							<x>0</x>
+							<y>0.501961</y>
 							<z>1</z>
 						</Color>
-						<Radius>20</Radius>
+						<Radius>10</Radius>
 					</Item>
 				</pointLights>
 				<Shared href="/MapObjects/Subterra/Fakel_03.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>

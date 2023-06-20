@@ -8804,9 +8804,9 @@
 						<FreelancerValue>0</FreelancerValue>
 					</Inferno>
 					<Fortress>
-						<CommanderValue>0</CommanderValue>
-						<CollectorSupplierValue>0</CollectorSupplierValue>
-						<FreelancerValue>0</FreelancerValue>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>3000</FreelancerValue>
 					</Fortress>
 					<Stronghold>
 						<CommanderValue>0</CommanderValue>
@@ -15754,7 +15754,7 @@
 			<ID>HERO_SKILL_DETAIN_DARK</ID>
 			<obj>
 				<Texture>
-					<Item href="/UI/H5A2/Icons/Heroes_Skills/Other_Perks/Detain_Dark_Grey.(Texture).xdb#xpointer(/Texture)"/>
+					<Item href="necro.(Texture).xdb#xpointer(/Texture)"/>
 					<Item href="/UI/H5A2/Icons/Heroes_Skills/Other_Perks/Detain_Dark.(Texture).xdb#xpointer(/Texture)"/>
 				</Texture>
 				<CommonTexture/>

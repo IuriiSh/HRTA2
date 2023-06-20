@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -193,8 +193,8 @@
 		<Item href="#n:inline(AdvMapDwelling)" id="item_1B181332-2A93-48BC-8C2B-6B9804D3DE68">
 			<AdvMapDwelling>
 				<Pos>
-					<x>29</x>
-					<y>48</y>
+					<x>44</x>
+					<y>41</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.14159</Rot>
@@ -1295,24 +1295,6 @@
 					<z>0</z>
 				</Pos>
 				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Lava/Mountains/Mountain10x7.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_E72D345E-6718-4B67-8A65-391BB8C7CCA1">
-			<AdvMapStatic>
-				<Pos>
-					<x>46</x>
-					<y>41</y>
-					<z>0</z>
-				</Pos>
-				<Rot>1.5708</Rot>
 				<Floor>0</Floor>
 				<Name/>
 				<CombatScript/>
@@ -6111,240 +6093,6 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_008AD27E-4D7E-4429-9C33-FD440E40D4F3">
-			<AdvMapStatic>
-				<Pos>
-					<x>38</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_59368228-153B-406B-9535-2FB9C954AE2A">
-			<AdvMapStatic>
-				<Pos>
-					<x>36</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_E5059561-0568-4E9D-828E-ED33D7037644">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_F6B6F991-FE8B-4C95-8094-953296C0F2FF">
-			<AdvMapStatic>
-				<Pos>
-					<x>35</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_3EBD52EF-6F41-4DEE-B0BE-FF26804AC9F4">
-			<AdvMapStatic>
-				<Pos>
-					<x>34</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_3362AC02-5112-4610-9628-5BF572F4663A">
-			<AdvMapStatic>
-				<Pos>
-					<x>33</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_9DDEDF05-9BA2-4B19-91C9-7251A4F3A88A">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>1.5708</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_9283AC9D-E826-47B7-A402-D0755C1C65AF">
-			<AdvMapStatic>
-				<Pos>
-					<x>35</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_88184588-77E5-4FB9-9F11-5265BCC59B2C">
-			<AdvMapStatic>
-				<Pos>
-					<x>36</x>
-					<y>26</y>
-					<z>0</z>
-				</Pos>
-				<Rot>1.5708</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze2x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_9A2774EA-EFC1-44B5-B915-0C4E24D00197">
-			<AdvMapStatic>
-				<Pos>
-					<x>34</x>
-					<y>27</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze3x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_A2677A4E-A6CF-4B90-875E-8785CA46A711">
-			<AdvMapStatic>
-				<Pos>
-					<x>37</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze3x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_33FCEC82-27C2-4CF1-880A-EA9E8513EAB1">
-			<AdvMapStatic>
-				<Pos>
-					<x>35</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze3x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
-		<Item href="#n:inline(AdvMapStatic)" id="item_D35A289E-BCCC-4CD7-A602-B423D41CE898">
-			<AdvMapStatic>
-				<Pos>
-					<x>34</x>
-					<y>28</y>
-					<z>0</z>
-				</Pos>
-				<Rot>0</Rot>
-				<Floor>0</Floor>
-				<Name/>
-				<CombatScript/>
-				<pointLights/>
-				<Shared href="/MapObjects/Dirt/Misc/SwampHaze3x3.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
-				<IsRemovable>false</IsRemovable>
-				<TerrainAligned>false</TerrainAligned>
-				<ScalePercent>100</ScalePercent>
-			</AdvMapStatic>
-		</Item>
 		<Item href="#n:inline(AdvMapStatic)" id="item_5720E7F7-4168-42CE-9983-3153D23853B4">
 			<AdvMapStatic>
 				<Pos>
@@ -10539,6 +10287,212 @@
 				<ScalePercent>100</ScalePercent>
 			</AdvMapStatic>
 		</Item>
+		<Item href="#n:inline(AdvMapDwelling)" id="item_E0CEF06E-DC50-4B96-97BB-9B2A22E9FCC6">
+			<AdvMapDwelling>
+				<Pos>
+					<x>36</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>3.1416</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Orcs/OrcishDwelling04.(AdvMapDwellingShared).xdb#xpointer(/AdvMapDwellingShared)"/>
+				<PlayerID>PLAYER_NONE</PlayerID>
+				<CaptureTrigger>
+					<Action>
+						<FunctionName/>
+					</Action>
+				</CaptureTrigger>
+				<RandomCreatures>true</RandomCreatures>
+				<creaturesEnabled/>
+				<RndSource>RND_NONE</RndSource>
+				<LinkToPlayer>PLAYER_NONE</LinkToPlayer>
+				<LinkToTown/>
+			</AdvMapDwelling>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_E23FE0F9-EBB4-4162-B6E8-0F43B292D736">
+			<AdvMapStatic>
+				<Pos>
+					<x>33</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Trees/DirtTree1x1_2_Mossy.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_D495CCF1-7D8B-4C91-9694-71ADFB158ABC">
+			<AdvMapStatic>
+				<Pos>
+					<x>39</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Trees/DirtTree1x1_2_Mossy.(AdvMapStaticShared).xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_71F325E3-554B-4077-8138-C3546F1D4696">
+			<AdvMapStatic>
+				<Pos>
+					<x>32</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush04.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_042D6211-10BE-4886-AE02-024709032C96">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush02.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_921F5E59-67B4-4604-B35B-D3E0ECF745BD">
+			<AdvMapStatic>
+				<Pos>
+					<x>32</x>
+					<y>28</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush_x2_03.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_1E49FAFA-33EC-4E17-85BC-23B910AE5BF1">
+			<AdvMapStatic>
+				<Pos>
+					<x>32</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush_x2_02.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_03708B7E-F824-4B7A-A85E-929B766B700C">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush_x2_02.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_2D1E6290-F76E-489B-B9DA-9048D33B9066">
+			<AdvMapStatic>
+				<Pos>
+					<x>39</x>
+					<y>26</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush_x2_01.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_FB80DD26-A33B-4192-B4C3-C8DDE89AB44D">
+			<AdvMapStatic>
+				<Pos>
+					<x>39</x>
+					<y>27</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush_x2_01.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
+		<Item href="#n:inline(AdvMapStatic)" id="item_56F18DE4-136C-4339-A81E-F9A70AE9FDD4">
+			<AdvMapStatic>
+				<Pos>
+					<x>38</x>
+					<y>28</y>
+					<z>0</z>
+				</Pos>
+				<Rot>0</Rot>
+				<Floor>0</Floor>
+				<Name/>
+				<CombatScript/>
+				<pointLights/>
+				<Shared href="/MapObjects/Taiga/Bushes/Dirtbush_x2_04.xdb#xpointer(/AdvMapStaticShared)"/>
+				<IsRemovable>false</IsRemovable>
+				<TerrainAligned>false</TerrainAligned>
+				<ScalePercent>100</ScalePercent>
+			</AdvMapStatic>
+		</Item>
 	</objects>
 	<Resources>
 		<PointLights/>
@@ -11692,7 +11646,7 @@
 	<Weather/>
 	<Wind/>
 	<PreLight/>
-	<MapScript/>
+	<MapScript href="MapScript.xdb#xpointer(/Script)"/>
 	<NewDayTrigger>
 		<Action>
 			<FunctionName/>

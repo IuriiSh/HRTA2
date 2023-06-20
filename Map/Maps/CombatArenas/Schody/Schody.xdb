@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapDesc>
-	<CustomGameMap>true</CustomGameMap>
+	<CustomGameMap>false</CustomGameMap>
 	<Version>3</Version>
 	<TileX>72</TileX>
 	<TileY>72</TileY>
@@ -5642,7 +5642,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>40</x>
-					<y>28</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.1416</Rot>
@@ -5660,7 +5660,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>37</x>
-					<y>28</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.1416</Rot>
@@ -5678,7 +5678,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>32</x>
-					<y>28</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.03587e-006</Rot>
@@ -5696,7 +5696,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>35</x>
-					<y>28</y>
+					<y>27</y>
 					<z>0</z>
 				</Pos>
 				<Rot>3.03587e-006</Rot>
@@ -5714,7 +5714,7 @@
 			<AdvMapStatic>
 				<Pos>
 					<x>28</x>
-					<y>29</y>
+					<y>28</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
@@ -5768,7 +5768,7 @@
 			<AdvMapBuilding>
 				<Pos>
 					<x>34</x>
-					<y>25</y>
+					<y>24</y>
 					<z>0</z>
 				</Pos>
 				<Rot>1.5708</Rot>
